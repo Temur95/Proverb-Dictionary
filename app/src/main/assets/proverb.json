@@ -1,0 +1,3064 @@
+{
+  "proverbList":[
+    {
+      "proverb":"A little too late, is much too late.",
+      "explanation":"Biroz kech qolgan ancha kech qolgan bilan teng, kech qolishning oz yoki ko`pligiga qaramasdan, u baribir kech qolishdir.",
+      "equivalent":"Kech boshlagan kechikar.\nQolgan ishga qor yog`ar."
+    },
+    {
+      "proverb":"He is not poor that has little, but he that desires much.",
+      "explanation":"Kam narsasi bor kambag`al emas, ko`p narsa xohlaydigan kambag`aldir.",
+      "equivalent":"O`zi to`ysa ham, ko`zi to`ymaydi.\nYeb yetti bo`lmagan, yalab yetmish bo`lmas.\nYeb to`ymagan, yalab to`ymas."
+    },
+    {
+      "proverb":"He that desires but little has no need of much.",
+      "explanation":"Oz narsa xohlaydigan kishining ko`p narsaga ehtiyoji yo`q.",
+      "equivalent":"Oz demak - soz demak, oz yemak - soz yemak.\nOz bo‘lsin, soz bo‘lsin."
+    },
+    {
+      "proverb":"He that eats least eats most.",
+      "explanation":"Kam-kamdan yegan kishi eng ko`pini yeydi.",
+      "equivalent":"Oz-ozdan yegan uzoq yashaydi.\nOz-oz ye, doim ye."
+    },
+    {
+      "proverb":"Less is more.",
+      "explanation":"Soddalik, oz miqdorlilik va aniqlik yaxshi ko`rinishdir, ya'ni soddalik va aniqlik ko`p narsani yaxshi ifodalay oladi.",
+      "equivalent":"Oz demak - soz demak, oz yemak - soz yemak.\nOz bo`lsin, soz bo`lsin."
+    },
+    {
+      "proverb":"Politeness costs little, but yields much.",
+      "explanation":"Xushmuomalalikning narxi past, insonning xushmuomala bo`lishi uchun ko`p narsa kerak emas, lekin u juda ko`p hosil beradi.",
+      "equivalent":"Yaxshi gap bilan ilon indan chiqar.\nSovuq-sovuq so`zlasang, qilich chiqar qinidan, Iliq-iliq so`zlasang, ilon chiqar inidan."
+    },
+    {
+      "proverb":"Promise little, but do much.",
+      "explanation":"Vadani kamroq berish kerak, lekin vada berildimi, uni albatta amalga oshirish kerak, ya`ni amalda ko`proq ish qilish lozim.",
+      "equivalent":"Aytilgan gap - otilgan o`q."
+    },
+
+
+
+    {
+      "proverb":"Short reckonings make long friends.\nShort accounts make long friends.",
+      "explanation":"O`z vaqtida amalga oshirilgan hisob-kitob do`stlikka zarar yetqazmaydi va do`stlikning umrini uzaytiradi.",
+      "equivalent":"Hisobli do`st ayrilmas."
+    },
+    {
+      "proverb":"Short  debts make long firends.",
+      "explanation":"Do`stlar orasida uzilgan qarz ularning do`stligini uzaytiradi.",
+      "equivalent":"Hisobli do`st ayrilmas."
+    },
+
+
+
+    {
+      "proverb":"Better a lean peace than a fat victory.",
+      "explanation":"Urushdan keladigan katta ga`labadan ko`ra kichik bo`lsa ham tinchlik yaxshi, ya'ni tinchlikka hech narsa yetmaydi.",
+      "equivalent":"Och qornim - tinch qulog`im.\nUrush - ofat, tinchlik - farog`at."
+    },
+
+
+
+    {
+      "proverb":"Better early than late.",
+      "explanation":"Kechdan ko‘ra erta yaxshi, ya’ni har ishni kechikib bajargandan ko‘ra ertaroq bajargan afzaldir.",
+      "equivalent":"Erta turgan ish bitirar, Kech qolgan armon qilar.*\nErta turgan ish bitirar, Kech turgan ko‘p turtinar.\nEkinni erta yiqqan xirmon qilar, Kech qolgan armon qilar.\nErta ekkan butun olar, Kechga qolgan – o‘tin.\nKechning xazinasidan Ertaning nasibasi yaxshi.\nUch kun barvaqt turgan bir kun yutar."
+    },
+    {
+      "proverb":"The early man never borrows from the late man.",
+      "explanation":"Erta ish boshlaydigan kishining hech qachon kech ish boshlaydigan kishiga muhtojligi bo‘lmaydi.",
+      "equivalent":"Erta turgan ish bitirar, Kech qolgan armoq qilar.\nErta turgan ish bitirar, Kech turgan ko‘p turtinar.\nEkinni erta yiqqan xirmon qilar, Kech qolgan armon qilar.\nErta ekkan butun olar, Kechga qolgan – o‘tin.\nUch kun barvaqt turgan bir kun yutar."
+    },
+
+
+
+    {
+      "proverb":"Better to reign in hell, than serve in heaven.",
+      "explanation":"Jannatda xizmat qilgandan ko`ra do`zaxda hukmronlik qilgan afzal.",
+      "equivalent":"-"
+    },
+
+
+
+
+    {
+      "proverb":"Buy in the cheapest market and sell in the dearest.",
+      "explanation":"Arzon bozordan xarid qil va uni qimmat bozorda sot, tadbirkorlikning foydasi shundan olinadi.",
+      "equivalent":"Turkistonda qo`y bir so`m, kela-kel o`n bir so`m.\nOtang-bozor, Onang-bozor."
+    },
+    {
+      "proverb":"Cheapest is the dearest.",
+      "explanation":"Oson qo`lga kiritilgan narsalar han ba'zida eng kerakli va muhim ahamiyatga ega bo`ladi.",
+      "equivalent":"-"
+    },
+    {
+      "proverb":"Cheap is dear in the long run.",
+      "explanation":"Arzon narsa ham vaqt o`tishi bilan qimmatbaxo narsaga aylanishi mumkin yoki uzoq safarda kerakli buyum bo`ladi.",
+      "equivalent":"Ot qadri safarda bilinar."
+    },
+
+
+
+
+    {
+      "proverb":"Forethought is easy, repentance hard.",
+      "explanation":"Kelajak uchun reja tuzish oson, lekin so`ngida pushaymon bo`lish yomon.",
+      "equivalent":"Keyingi pushaymon – o‘zingga dushman.\nSo`ngi pushaymon - o`zinga dushman."
+    },
+
+
+
+    {
+      "proverb":"Fortune is easily found, but hard to be kept.",
+      "explanation":"Omad, baxt va davlat oson topiladi, lekin uni ushlab qolish qiyin.",
+      "equivalent":"Omadini ushlab qolish har kishining o`z qo`lida.\nHar kimning taqdiri o`z qo`lida."
+    },
+
+
+
+
+    {
+      "proverb":"A good beginning makes a good ending.",
+      "explanation":"Yaxshi boshlangan ishning nihoyasi ham yaxshi bo`ladi.",
+      "equivalent":"Avvali yaxshi bo`lsa, oxiri shoyli bo`lur.\nBismillohdan boshlangan ishning yakuni yaxshi bo`lar.\nYaxshi niyat yarim mol."
+    },
+    {
+      "proverb":"A bad beginning makes a bad ending.",
+      "explanation":"Yomon boshlangan ish yomon tugaydi.",
+      "equivalent":"-"
+    },
+    {
+      "proverb":"A man has choice to begin love, but not to end it.",
+      "explanation":"Kishining o`z qalbida sevgi tuyg`usini paydo qilishi o`z qo`lida, lekin unga yetishish, yoki sevgisini unitish uning qo`lida emas.",
+      "equivalent":"Hamma dardga bor davo, oshiqlik dardi bedavo."
+    },
+    {
+      "proverb":"Anger begins with folly and ends with repentance.",
+      "explanation":"G`azab bilan qilingan ish ahmoqona boshlanadi va afsuslanish bilan tugaydi.",
+      "equivalent":"Jahl kelganda, aql ketadi.\nG`azab - oldinda, aql - keyinda."
+    },
+    {
+      "proverb":"Better never begin than never make an end.",
+      "explanation":"Hech tugatilmaydigan ishni boshlamagan yaxshi.",
+      "equivalent":"Tugamaydigan ishni boshlamagan ma'qul."
+    },
+    {
+      "proverb":"Good to begin well, better to end well",
+      "explanation":"Ishni yaxshi boshlash yaxshi, uni yaxshi tugatish undan ham yaxshi.",
+      "equivalent":"Avvalini berguncha, oxirini bersin."
+    },
+    {
+      "proverb":"He begins to die that quits his desires.",
+      "explanation":"Orzu-umid qilishni to`xtatgan inson o`lishni boshlaydi, ya'ni orzu-umidsiz inson jonsiz tanadek bo`lib qoladi.",
+      "equivalent":"Joni borning umidi bor.\nUmid o`rga tortar, umidsizlik go`rga."
+    },
+    {
+      "proverb":"In every beginning think of the ending.",
+      "explanation":"Ishni boshlayotgan inson uning nihoyasi haqida albatta o`ylashi lozim.",
+      "equivalent":"Ish avvalini bir o`ylasang, oxirini besh o`yla.\nO`ylamay qilingan turmush to`ydan keyin buzilar."
+    },
+    {
+      "proverb":"Well begun is half done.",
+      "explanation":"Yaxshi boshlangan ishning yarmi qilingan hisoblanadi, ya'ni yaxshi boshlangan ish tez bitadi.",
+      "equivalent":"Avvali yaxshi bo`lsa, oxiri shoyli bo`lur.\nBismillohdan boshlangan ishning yakuni yaxshi bo`lar.\nYaxshi niyat yarim mol."
+    },
+
+
+
+
+
+    {
+      "proverb":"A light purse is a heavy curse.",
+      "explanation":"Yengil yoki ichi bo`sh hamyon og`ir qarg`ishdir, ya'ni kambag`allik insonni jahlini chiqaradi va kayfiyatni tushiradi.",
+      "equivalent":"Bepul bozorga borguncha, kafan olib bozorga bor.\nBorga - bor dunyo, yo`qqa yo`q dunyo."
+    },
+    {
+      "proverb":"A light purse is a heavy heart.\nA light purse makes a heavy heart.",
+      "explanation":"Yengil yoki ichi bo`sh hamyon o`gir yurakdir, ya'ni kambag`allik kayfiyatni tushiradi.",
+      "equivalent":"Bepul bozorga borguncha, kafan olib bozorga bor.\nBorga - bor dunyo, yo`qqa yo`q dunyo."
+    },
+    {
+      "proverb":"Light burden is heavy if far borne.",
+      "explanation":"Yengil yuk ko`p ko`tarib yurilsa og`ir tuyiladi, yoki oddiy qiyinchilikka ko`p vaqt davomida sabr qilinsa, u ham katta qiyinchilikdek tuyiladi.",
+      "equivalent":"-"
+    },
+
+
+
+
+
+    {
+      "proverb":"The nearer the church, the farther from God.",
+      "explanation":"Cherkovga yaqinroq, Xudodan uzoqroq, ya'ni cherkovga yaqin yashagani yoki u yerda ishlagani bilan inson agar yomonliklar qilsa, u ham Xudoni oldida gunohkordir. Ba'zi ruhoniylar insonlarga yaxshilik qilishni uqtirsada, ularning o`zlari ham o`z aytganlariga rioya qilmay gunoh ishlar qilishadi.",
+      "equivalent":"Ikki mulla - bir kishi, bir mulla - yorti kishi.\nHamma mulla - bir mulla, ming mulla - bir tilla.\nMullani aytganini qil, qilganini qilma.\nMulla, mullaning  ishi hiyla."
+    },
+
+
+
+    {
+      "proverb":"A new broom sweeps clean, but the old brush knows all the corners.",
+      "explanation":"Yangi supurgi toza supiradi, lekin eski supurgi har bir burchakni biladi, ya'ni yoshi kattalar ko`p narsani biladi.",
+      "equivalent":"Olti yashardan so`rama. oltmish yashardan so`ra.\nQari bilganni pari bilmas.\nO`zim hisoblasam, qulunli biya, otam bilan hisoblasam bo`tali biya."
+    },
+    {
+      "proverb":"Only with a new ruler you do realise the value of the old.",
+      "explanation":"Yangi boshliq kelganda eskisini qadri bilinadi.",
+      "equivalent":"Yangining nodonligi bor, eskining - qadrdonligi.*"
+    },
+    {
+      "proverb":"You can't put new wine in old bottles.",
+      "explanation":"Yangi vinoni eski idishlarga qo`ya olmaysiz, yoki keksalarga yoshlarning odatlarini o`rgatish qiyin.",
+      "equivalent":"-"
+    },
+
+
+
+
+
+
+    {
+      "proverb":"Better an open enemy than a false friend.",
+      "explanation":"Yolg`on do`stdan ochiq dushman yaxshi.",
+      "equivalent":"Ablah do`st dushmandan yomon, Ne hiyla bilsa, ishlatar oson.*"
+    },
+    {
+      "proverb":"Comparisons make enemies of our friends.",
+      "explanation":"Boshqalarga qiyoslab biz o`z do`stlarimizni dushmanga aylantirib qo`yishimiz mumkin.",
+      "equivalent":"Aybsiz do`st izlagan do`stsiz qolar."
+    },
+    {
+      "proverb":"The enemy of my enemy is my friend.",
+      "explanation":"Dushmanimga dushman bo`lgan kishi menga do`st hisoblanadi.",
+      "equivalent":"Dushmanimning do‘sti – mening dushmanim, Dushmanimning dushmani – mening do‘stim."
+    },
+    {
+      "proverb":"Misfortune makes foes of friends.",
+      "explanation":"Baxtsizlikka uchrasang do`stlaring ham tark etib, do`st, dushmanga aylanib ketishi mumkin.",
+      "equivalent":"Moling borida - ana do`st, moling yo`g`ida - qani do`st.\nYengi yo`qning tengi yo`q."
+    },
+
+
+
+
+
+
+    {
+      "proverb":"An empty vessel gives a greater sound than a full barrel.",
+      "explanation":"Bo`sh kosa ichi to`la tog`oradan ko`ra balandroq jaranglaydi, ya`ni miyasi bo`sh inson aqlli insonga nisbatan ko`proq gapiradi.",
+      "equivalent":"Aqlli ish sevar, aqlsiz - so`z.\nAhmoq aql o`rgatar."
+    },
+
+
+    {
+      "proverb":"Children are poor men's riches.",
+      "explanation":"Kambag`al insonlar farzandlarini o`z boyliklari sanab, o`z kelajagini farzandlarining qo`lida rohatda o`tadi deb hisoblashadi.",
+      "equivalent":"-"
+    },
+    {
+      "proverb":"Poor men seek meat for their stomach, rich men stomach for their meat.",
+      "explanation":"Kambag`al qornini to`yg`azush uchun g`osht izlaydi, boy inson go`shti ko`pligidan unga joy topa olmaydi.",
+      "equivalent":"Boy bo`lsang, kunda hayit, kunda to`y, yo`q bo`lsang, kunda hasrat, kunda o`y.\nBoyga - shifokor, kambag`alga - duo.*\nBorga yetti kun hayit, yo`qqa - bir kun.*\nKambag`al - topganda, boy - sog`inganda.*\nUlkan uydagi kulsa, kichkina uydagi yig`lar.*"
+    },
+    {
+      "proverb":"Poor men go to heaven as soon as rich.",
+      "explanation":"Kambag`al ham boy kabi jannatga kira oladi.",
+      "equivalent":"Kambag`allik ayb emas.\nShoh-u gado bir qabrda yotar."
+    },
+
+
+
+    {
+      "proverb":"Weak things united become strong.",
+      "explanation":"Kuchsiz narsalar yig`ilib kuchli bo`ladi.",
+      "equivalent":"Birlashgan - o`zar, birlashmagan - to`zar.\nBirlashgan daryo bo`lar, Tarqalgan irmoq bo`lar.*"
+    },
+
+
+
+
+
+    {
+      "proverb":"Habits are at first cobwebs, at last cables.",
+      "explanation":"Odatlar avval o`rgimchak to`ridek bo`ladi, oxirida esa yo`gon arqonga aylanadi.",
+      "equivalent":"O`rgangan ko`ngil o`rtansa qo`ymas.\nTarki odat - amri mahol.\nBir bo`lgan ikki bo`lmay qolmas, ikki bo`lgan uch bo`lmay qolmas, uch bo`lgan doim bo`lmay qolmas.*"
+    },
+
+
+
+
+    {
+      "proverb":"Just as the twig is bent, the tree is inclined.",
+      "explanation":"Daraxt novdaligida qanday qayrilgan bo`lsa, u daraxt bo`lganida ham shunday egiladi, ya'ni voyaga yetgan inson bolaligida qanday tarbiya olgan bo`lsa, shunday o`zini tutadi.",
+      "equivalent":"Qush uyasida ko`rganini qiladi.\nDaraxtdan meva olaman desang, Niholligidan parvarish qil.*"
+    },
+
+
+
+    {
+      "proverb":"Knowledge has bitter roots but sweet fruits.",
+      "explanation":"Ilmning ildizi achchiq bo`lsa ham, mevasi shirin, ya'ni ilm egallash mashaqqatli jarayon, lekin uning natijasi yoqimlidir.",
+      "equivalent":"Ilm olish - igna bilan quduq qazish.\nIlmning avvali achchiq, so`ngi - totli.*"
+    },
+    {
+      "proverb":"Patience is bitter, but its fruit is sweet.",
+      "explanation":"Sabr qilish qiyin, lekin uning mevasi, ya'ni natijasi oltin, shirin bo`ladi.",
+      "equivalent":"Sabr(ning) tagi - sariq oltin."
+    },
+
+
+
+
+    {
+      "proverb":"Argues come on horseback, but go away on foot.",
+      "explanation":"Kelishmovchilik otning ustida kelar, lekin piyoda ketar, ya'ni nizolar yoki muammolar tez vujudga keladi, lekin juda sekin yo`q bo`ladi.",
+      "equivalent":"Dard botmonlab kelar, misqollab chiqar."
+    },
+    {
+      "proverb":"Easy come, easy go\nLight come, light go.",
+      "explanation":"Oson qo`lga kiritilgan yoki kelgan narsa oson ketadi yoki sarflanadi.",
+      "equivalent":"Oson kelgan boylik oson ketadi."
+    },
+    {
+      "proverb":"Quickly come, quickly go.",
+      "explanation":"Tez qo`lga kiritilgan yoki kelgan narsa tezda keatdi yoki sarflanadi",
+      "equivalent":"Birinchi kelgan birinchi ketadi.*\nErta kelgan erta ketar.*\nTez kelgan tez ketar.*"
+    },
+
+
+
+
+    {
+      "proverb":"Ill - gotten, ill - spent.",
+      "explanation":"Qing`ir va yomon yo`l bilan topilgan mol-dunyo xuddi shu yo`l bilan sarf bo`lib ketadi.",
+      "equivalent":"Haromdan kelgan haromga ketar.*\nHalol pishib chiqar, harom teshib chiqar."
+    },
+    {
+      "proverb":"It is better to give than to receive.",
+      "explanation":"Qabul qilib olgndan ko`ra bergan yaxshi, chunki bergan odamni ko`proq yaxshi ko`rishadi va duo qilishadi.",
+      "equivalent":"Sen birovga birni bersang, Xudo senga mingni beradi.\nOlgan mard emas, bergan - mard.\nBergan qo‘l – aziz."
+    },
+    {
+      "proverb":"Give and take is fair play.",
+      "explanation":"Bermoq va olmoq adolatli o`yindir, ya'ni inson boshqa bir insonga biror narsa bergaindan so`ng undan biror narsa olishi lozim, shundagina adolatli bo`ladi.",
+      "equivalent":"Bor tovog`im, kel tovog`im, kelishingda quruq bo`lsang, o`rta yerda sin tovog`im.\nBor tovog`im, kel tovo`gim, bormasang kelmasang, o`rta yerda sin tovog`im.\nOlmoqni bermog`i bor, yemoqni qusmog`i."
+    },
+
+
+
+
+
+    {
+      "proverb":"Past experiences are best guide for future undertakings.",
+      "explanation":"O`tmish tajribalari kelajakdagi muhim ishlar uchun eng yaxshi yo`lni ko`rsatuvchi qo`llanma bo`ladi.",
+      "equivalent":"Boshidan o`tgan - tabib.\nOldinga bir qarasang, orqanga o`n qara.\nTarix - kelajakning poydevori."
+    },
+    {
+      "proverb":"A long tongue is a sign of a short hand.",
+      "explanation":"Uzun til qisqa qo`ldan darak beradi, ya'ni ko`p gapiradigan, ko`p vada beradigan inson aslida ko`p ishlarni amalga oshira olmaydi.",
+      "equivalent":"Gap desang, qop-qop, ish desang Samarqanddan top.\nGap desang, qop-qop, ish desang - betob.\nGapga - chechan, ishga - mechan.\nDangasaga ish buyursang, otangdan ortiq nasihat qilar."
+    },
+    {
+      "proverb":"Art is long and life is short.",
+      "explanation":"San'at darajasidagi ishni, yoki biror buyuk ishni amalga oshirish uchun odatda ko`p vaqt talab qilinadi, lekin hayot qisqadir.",
+      "equivalent":"Besh kunim – xush kunim.\nInson umri – daryo suvi.\nUmr – oqar daryo.\nGap ko‘p, umr oz."
+    },
+    {
+      "proverb":"Long foretold, long last; short notice, soon past.",
+      "explanation":"Ob-havoning o`zgarishi haqida oldindan belgi beruvchi alomatlar ular ifodalayotgan o`zgarishlar o`rtasidagi vaqt qancha ko`p bo`lsa, bunday ob-havo uzoq davom etadi va aksincha holatda davomiyligi qisqa bo`ladi.",
+      "equivalent":"-"
+    },
+    {
+      "proverb":"Of the ten fingers, some are long and some are short.",
+      "explanation":"O'nta barmoqdan ba'zilari uzun, ba'zilari kalta, ya'ni odamlar va ularning hayot tarzi har xil bo`ladi.",
+      "equivalent":"Besh qo‘l barobar emas.\nBesh barmoq barobar emas.\nBir ikki bo`lmas, bit sirka bo`lmas.\nKishi bilan kishi teng bo`lmas."
+    },
+    {
+      "proverb":"The longest way round is the shortest way home.",
+      "explanation":"Biror yumushni ehtiyotkorlik bilan o`z yo`l-yo`rig`i bo`yicha qilish qiyin va uzoq vaqt talab qiladigandek ko`rinadi, aslida bu holat ehtiyotsizlik bilan qilinadigan ishdan ancha kam vaqtni oladi.",
+      "equivalent":"Ko`z qo`rqoq, qo`l botir."
+    },
+
+
+
+
+
+
+
+
+
+
+    {
+      "proverb":"Advice when most needed is least heeded.",
+      "explanation":"Muammoli holatlarni yechishda maslahat kerak bo`lgan paytda, odamlar o`zlari bilmagan holda ularga berilgan maslahatga e'tibor berishmaydi.",
+      "equivalent":"Maslahatsiz ish - o`rinsiz tashvish."
+    },
+    {
+      "proverb":"Good words are worth much and cost little",
+      "explanation":"Yaxshi so‘z ko‘p narsaga qodir, lekin narxi past; ya’ni yaxshi gapni aytishga ham yomon gapni aytish uchun ham bir xil kuch sarflanadi, lekin yaxshi gapning natijasi yomon gapnikidan yaxshidir.",
+      "equivalent":"Yaxshi gap bilan ilon inidan chiqar.\nShirin so‘z o‘likni ham tiriltirar.\nYaxshi gap ham, yomon gap ham bir og‘izdan chiqadi.\nSovuq-sovuq so‘zlasang, Qilich chiqar qinidan, Iliq-iliq so‘zlasang, Ilon chiqar inidan."
+    },
+    {
+      "proverb":"He who considers too much will perform little.",
+      "explanation":"Juda ko`p o`ylaydigan, hadeb ikkilanaveradigan kishi o`z ishlarini kamdan-kam amalga oshiradi.",
+      "equivalent":"O‘ychi o‘yini o‘ylaguncha, Tavakkalchi ishini bitiradi.\nO‘ychi o‘yi bitguncha, Tavakkalchining to‘yi bitar."
+    },
+    {
+      "proverb":"Many are called but few are chosen.",
+      "explanation":"Ko‘pchilik chaqiriladi, biroq kamchilik tanlab olinadi. Bu maqol xristianlik dini bilan bog‘liq bo‘lgan rivoyatdan olingan bo‘lib, unda Xudo jannatga ko‘pchilikni chaqiradi, lekin ulardan faqat bir nechtasigina (Xudoga va uning qudratiga ishonganlar) bu ovozni eshita oladi va ular jannatga kira oladi(15) deyiladi.",
+      "equivalent":"-",
+      "footnote":"15 https://biblia.com/bible/esv/Matt%2011.15"
+    },
+    {
+      "proverb":"More haste, less speed.",
+      "explanation":"Shoshqaloqlik bilan qilingan ish tez bitmaydi, aksincha ko`proq vaqtni oladi, yoki umuman muvaffaqiyatsizlikka uchraydi.",
+      "equivalent":"Chopib borgan yerga, Yurib borsa ham bo‘lar.\nOshiqmagan olisga yetar.\nShoshgan qiz erga yolchimas.\nShoshganning ishi o‘ngmas.\nShoshmasang tez yetasan, Shoshgandan o‘zib ketasan."
+    },
+    {
+      "proverb":"Much cry and little wool.",
+      "explanation":"Ko`p baqirib chaqirgani bilan, aslida yung ko`p emas. O`rta asrlarda savdogarlar baqirib xaridorlarni chaqirishgan, lekin ularda har doim ham baqirganlariga yarasha serob mahsulot bo`lmagan.",
+      "equivalent":"Vahimasi osmonda, qo`lida misi ham yo`q.\nBaqiroq sigir sutsiz bo`lar."
+    },
+    {
+      "proverb":"Much law but little justice.",
+      "explanation":"Qonun ko`p, lekin adolat kam. Davlat tomonidan chiqarilgan qonunlar ko`p bo`lishiga qaramay, jamiyatda adolat har doim ham qaror topavermaydi.",
+      "equivalent":"-"
+    },
+    {
+      "proverb":"The more a man dreams, the less he believes.",
+      "explanation":"Ko`proq hayol surgan kishi haqiqiy hayotda kamroq narsaga ishonadi.",
+      "equivalent":"Har kimning bir o`yi bor, hayolida ming qo`yi bor."
+    },
+    {
+      "proverb":"The more haste, the less speed.",
+      "explanation":"Shoshqaloqlik bilan qilingan ish tez bitmaydi, aksincha ko`proq vaqtni oladi, yoki umuman muvaffaqiyatsizlikka uchraydi.",
+      "equivalent":"Chopib borgan yerga, yurib borsa ham bo`lar.\nShoshgan qiz erga yolchimas.\nShoshganning ishi o`ngmas.\nShoshmasang tez yetasan, shoshgandan o`zib ketasan."
+    },
+    {
+      "proverb":"Who knows most, speaks least.",
+      "explanation":"Ko`p bilgan kam so`zlaydi, kaltabin insongina ko`p gapiradi.",
+      "equivalent":"Aqlli oz so`zlar, ahmoq ko`p so`zlar.\nKo`p bilgan kam gapirar.\nSayoz daryo shovqin oqar, chuqur daryo sokin oqar.\nKo`p bilgan oz so`zlar, oz bo`lsa ham soz so`zlar."
+    },
+
+
+
+
+
+
+    {
+      "proverb":"The fat man knoweth not what the lean thinketh.",
+      "explanation":"Semiz kishi ozg`in kishi nima o`ylayotganini bilmaydi, ya'ni o`ziga to`q yoki muammosi yo`q inson qiynalgan, kambag`al yoki muammoda qolgan odamning muammosi bilan hech ishi bo`lmaydi.",
+      "equivalent":"Qorni to`qni qorni och bilan ishi yo`q.\nDard topmagan dard bilmas.\nKasal dardini sog` bilmas, och qadrini to`q bilmas.\nTanasi boshqa dard bilmas, uyi boshqa g`am bilmas."
+    },
+    {
+      "proverb":"Faults are thick where love is thin.",
+      "explanation":"Muhabbat kuchsiz joyda ayb va xatolar kuchayadi, ya'ni mehr-muhabbat kam bo`lgan holatda, insonlar bir-biridan doim kamchilik qidiradi, aksincha bo`lsa, mavjud xato va ayblar ham ko`zga ko`rinmaydi.",
+      "equivalent":"Muhabbat ketsa, nafrat kelar.\nSevgi kamaysa, nafrat kuchayadi.\nMuhabbatning ko`zi ko`r.\nSevgining ko`zi ayb ko`rmas."
+    },
+
+
+
+
+
+    {
+      "proverb":"All things are difficult before they are easy.",
+      "explanation":"Har qanday ish dastavval qiyin ko`rinadi, bajarilganda esa osonligi bilinadi.",
+      "equivalent":"Ko`z - qo`rqoq, qo`l - botir."
+    },
+
+
+
+    {
+      "proverb":"A chain is no stronger than its weakest link.",
+      "explanation":"Zanjir undagi eng zaif halqasidan kuchli bo`la olmaydi, chunki shi halqa uzilsa, zanjir ham uziladi.",
+      "equivalent":"Ip ingichka yeridan uzilar.\nDaraxt - ildizi bilan, odam - do`stlari bilan."
+    },
+
+
+
+    {
+      "proverb":"It is good to have some friends both in heaven and hell.",
+      "explanation":"Jannatda ham, do`zaxda ham do`stlaring bo`lgani yaxshi, ya'ni har joyda tanish va do`stlarni borligi foyda beradi.",
+      "equivalent":"Do`sting yoninga bo`lsa, ishing oson bitadi."
+    },
+
+
+
+    {
+      "proverb":"A heavy purse makes a light heart.",
+      "explanation":"Og`ir hamyon yurakni yengillatadi, ya'ni hamyoni to`la inson xavotirda bo`lmaydi, ozini baxtsiz his qilmaydi.",
+      "equivalent":"Pul - belga quvvat, boshga - toj.\nPul tilni biyron, dastni daroz qilar."
+    },
+
+
+    {
+      "proverb":"An old cart well used may outlast a new one abused.",
+      "explanation":"Avaylab ishlatilgan eski arava ehtiyotsizlik bilan ishlatilgan yangi aravadan ko`ra ko`proq xizmat qiladi.",
+      "equivalent":"-"
+    },
+    {
+      "proverb":"Forsake not old friends for new.",
+      "explanation":"Yangi do`stlarni deb eski do`stlardan voz kechilmaydi.",
+      "equivalent":"Kiyimning yangisi - yaxshi, do`stning - eskisi.\nQadim do`stlik zanglamas."
+    },
+    {
+      "proverb":"Patience under old injures invites new ones.",
+      "explanation":"Eski yara va jarohatlarga qarshi ish ko`rmagan, ya'ni davolamagan odamda yangi yaralar vujudga keladi.",
+      "equivalent":"Bir illat ikkinchisini chaqiradi, bir yo`lgon keyingisini."
+    },
+    {
+      "proverb":"You cannot teach an old dog new tricks.",
+      "explanation":"Qari itga yangi qiliq o`rgatib bo`lmaydi.",
+      "equivalent":"Yoshlikda bilgani - toshga yozgani, qarilikda bilgani - muzga yozgani."
+    },
+
+
+
+    {
+      "proverb":"False friends are worse than open enemies.\nFalse friends are worse than bitter enemies.",
+      "explanation":"Soxta, yolg`onchi do`st ochiq dushmandan ham yomondir. Soxta do`st kuchli adovatli dushmandan ham yomondir.",
+      "equivalent":"Soxta do`stdan ochiq dushman yaxshi."
+    },
+    {
+      "proverb":"God defend me from my friends, from my enemies, I can defend myself.",
+      "explanation":"Xudo meni do`stlarimdan himoya qil, dushmanlarimdan o`zim himoyalana olaman. Ya'ni dushmanlar o`z dushmanliklarini ochiq-oydin ko`rsatadi, lekin soxta do`stning asl qiyofasini faqat Xudo bila oladi, shuning uchun ularning yomonliklaridan Xudoni o`zi asrasin.",
+      "equivalent":"Do`stlarimdan o`zing saqla, dushmanlarimni o`zim bilaman."
+    },
+    {
+      "proverb":"A friend's frown is better than a foe's smile.",
+      "explanation":"G`amning kulgusidan do`stning xo`mrayishi yaxshidir.",
+      "equivalent":"Do`st achitib gapirar, dushman - kuldirib.\nDo‘st achitib gapirar, Dushman – kuldirib.\nDo‘st yig‘latar, Dushman kuldirar.\nDo‘st kuydirib aytar, Dushman – suydirib.\nDushmanning suyganidan, Do‘stning urgani yaxshi.\nDushmanning donidan, Do‘stning somoni yaxshi."
+    },
+
+
+
+
+    {
+      "proverb":"He that is full of himself is very empty.",
+      "explanation":"Faqat o`zini yaxshi ko`radigan odamning qalbi bo`sh bo`ladi, unda o`zgalarga nisbatan mehr-muhabbat bo`lmaydi.",
+      "equivalent":"O`zim degan o`zgalarni bilmas."
+    },
+
+
+
+    {
+      "proverb":"Think of the end before you begin.\nThink on the end before you begin.",
+      "explanation":"Bior ishni boshlashdan oldin uning nihoyasini qanday bo`lishi haqida o`ylash lozim.",
+      "equivalent":"Ish avvalini bir o`ylasang, oxirini besh o`yla."
+    },
+
+
+
+
+    {
+      "proverb":"Anger makes a rich man hated, and a poor man scorned.",
+      "explanation":"Boy jahl qilsa, uni yomon ko`rishadi, kambag`al jahl qilsa, uni behurmat qilishadi, ya'ni boy jahl qilsa, unga bildirmasdan nafratlanishadi, kambag`alga esa oshkora hurmatsizlik ko`rsatishadi.",
+      "equivalent":"Bermasa ham boy yaxshi, yemasang ham boy yaxshi."
+    },
+    {
+      "proverb":"A rich miser is poorer than a poor man.",
+      "explanation":"Ziqna boy kambag`al odamdan ham kambag`alroqdir, chunki u ziqna bo`lgani uchun boyligini umuman oshkor etmaydi va baxilligi boyligi qancha bo`lishiga qaramay ozdek tuyilaveradi.",
+      "equivalent":"Baxilniki doim 'yo`q', saxiy yo`q bo`lsa ham to`q.\nBaxil to`ymas, baxilligini qo`ymas.\nKambag`alning to`yi to`kin bo`lar, boyning to`yi yupun bo`lar.\nBoyga mehmon bo`lsang, baqirasan, kambag`alga mehmon bo`lsang, kekirasan.\nBoyga mehmon bo`lsang joning chiqar, kambag`alga mehmon bo`lsang qoming chiqar.*"
+    },
+
+
+
+
+
+    {
+      "proverb":"A good name is sooner lost than won.",
+      "explanation":"Yaxshi nomga qiyinchilik bilan uzoq vaqt davomida erishiladi, lekin uni juda qisqa vaqt oralig`ida yo`qotish mumkin.",
+      "equivalent":"Obro` misqollab kelar, qadoqlab ketar."
+    },
+
+
+
+    {
+      "proverb":"Better a glorious death than a shameful life.",
+      "explanation":"Uyatga qolib yashagandan sharafli o`lim topgan afzaldir",
+      "equivalent":"Uyat – o`limdan qattiq.\nUyatli hayotdan sharafli o`lim yaxshi."
+    },
+
+
+    {
+      "proverb":"He who pleased everybody died before he was born.",
+      "explanation":"Hammani birdek xursand qiladigan odam tug`ilishidan avval o`lgan, ya’ni hech kim hammani birdek ko`nglini ko`tara olmaydi va hammaga birdek yoqavermaydi.",
+      "equivalent":"Hammaga birdek yoqadigan odam onasidan hali tug`ilmagan."
+    },
+
+
+
+
+
+
+    {
+      "proverb":"England is the paradise of women, the hell of horses, and the purgatory of servants.",
+      "explanation":"Angliya – ayollar uchun jannat, otlar uchun do`zax va xizmatkorlar uchun arosatdir. O`rta asrlarda Angliyada ayollarning ko`pchiligi yaxshi hayot kechishardi va ularni erkaklar odatda hurmat qilishardi, otlar esa transport vositasi sifatida doim xizmatda bo`lgan, xizmatkorlar ham odatda qiyin hayot kechirishgan, lekin ba’zida xizmatkorlar hayoti yengil ham bo`lgan.",
+      "equivalent":"-"
+    },
+
+
+
+    {
+      "proverb":"When the oak is before the ash, then you will only get a splash; when the ash is before the oak, then you may expect a soak.",
+      "explanation":"Eman shumtoldan avval barg chiqarsa, o‘`sha yili yog`ingarchilik ko`p bo`ladi, agar shumtol emandan avval ko`karsa, o`sha yili qurg`oqchilik bo`ladi.",
+      "equivalent":"-"
+    },
+
+
+
+    {
+      "proverb":"He who begins many things, finishes but few.",
+      "explanation":"Ko`p ishni birdaniga boshlab olgan inson ularning hammasini tugata olmaydi, faqat bir nechtasinigina tugatishi mumkin.",
+      "equivalent":"Ikki quyonni quvlagan birini ham tutolmas.\nKo`pga yugurgan ozdan qolar.\nKo`p deb ozdan qolma."
+    },
+
+
+
+    {
+      "proverb":"The rich man thinks of the future, the poor man thinks of today.",
+      "explanation":"Boy kelajagini, keying kunini o`ylaydi, kambag`al esa bugunini o`ylaydi.",
+      "equivalent":"Borga yetti kun hayit, yo`qqa – bir kun.\nBoyga – shifokor, kambag`alga – duo.\nKambag`al – piyoda, boy – tuyada.\nKambag`al osh topsa, qo`ygani idish topmas.\nUlkan uydagi kulsa, kichkina uydagi yig`lar."
+    },
+    {
+      "proverb":"Fools live poor to die rich.",
+      "explanation":"Ahmoq odamgina boy bo`lish uchun umri davomida kambag`allarcha hayot kechiradi, ya’ni baxillik bilan hayotini boylik to`plashga sarflaydi, uning boyligini huzurini u vafot etganidan so`ng boshqalar ko`radi.",
+      "equivalent":"Hech kim boyligini o‘zi bilan qabriga olib ketolmaydi.\nAhmoqda aql bo‘lmas, aqlli baxil bo‘lmas.\nYema, ichma, bo‘l baxil, boy bo‘lmasang, men kafil. "
+    },
+    {
+      "proverb":"Better die standing than live kneeling.",
+      "explanation":"Tiz cho‘kib, ya’ni bosh egib yashagandan ko‘ra tik turib mardonavor o‘lgan yaxshiroqdir.",
+      "equivalent":"Tiz cho‘kib yashaguncha, tik turib o‘lgan yaxshi.\nGo‘ngqarg‘a bo‘lib ming yil yashagandan,sher bo‘lib bir yil yashagan afzal.\nYuz yil qul bo‘lib yashagandan, bir kun hur bo‘lib yashagan yaxshi."
+    },
+
+
+
+
+    {
+      "proverb":"Absence diminishes little passions and increases great ones.",
+      "explanation":"Bir-birini ko‘rmaslik oshiqlarni sinaydi: agar muhabbat kuchsiz bo‘lsa, u yana ham kuchsizlanad, agar muhabbat kuchli bo‘lsa, uni yanada kuchaytiradi.",
+      "equivalent":"Chin muhabbat osonlikcha unutilmaydi."
+    },
+    {
+      "proverb":"A little body often harbours a great soul. ",
+      "explanation":"Kichkina tanada odatda ulkan qalb yashaydi.",
+      "equivalent":"Kichkina demang bizni, ko‘tarib uramiz sizni."
+    },
+    {
+      "proverb":"A small leak will sink a great ship.",
+      "explanation":"Kichik bir teshik katta kemani cho‘ktirib yuboradi, ya’ni kichik xatolik katta ko‘ngilsizlikka olib kelishi mumkin",
+      "equivalent":"Kichik kalit katta uyni ochar.*\nTomib turgan suv toshniyam teshar"
+    },
+    {
+      "proverb":"A small pepper is hotter than a large one.",
+      "explanation":"Kichik qalampir kattasidan ko‘ra achchiqroq bo‘ladi, ya’ni kichkina deb nazarga olmaslik doim ham to‘g‘ri bo‘lavermaydi, kichiklarning ham qo‘llaridan katta ishlar kelishi mumkin.",
+      "equivalent":"Kichkina demang bizni, Ko‘tarib uramiz sizni."
+    },
+    {
+      "proverb":"A little impatience will spoil great plans.",
+      "explanation":"Kichik bir sabrsizlik bilan qilingan harakat ulkan rejalarni buzishi mumkin.",
+      "equivalent":"Kichik xatoga katta jazo."
+    },
+    {
+      "proverb":"Better a little fire to warm us, than a great one to burn us.",
+      "explanation":"Katta olov kuydirib qo‘yishi mumkin, shuning uchun kichik olov bo‘lgani yaxshi, kichik olov bizni isitadi.",
+      "equivalent":"Suv ko‘paysa, daryo toshar.\nHar narsaning ozi shirin.\nShakarning ozi shirin.\nAsalning ham ozi shirin."
+    },
+    {
+      "proverb":"Little pigeons can carry great messages.",
+      "explanation":"Kichik kabutarlar katta xabarlarni o‘z egasiga yetkaza oladi.",
+      "equivalent":"Kichik kalit katta uyni ochar."
+    },
+    {
+      "proverb":"Little pitchers have big (or large, long) ears.",
+      "explanation":"Kichik ko‘zalarning katta quloqlari bor. Ya’ni ba’zida kichkina bolalar kattalarni gapini eshitib qolishi mumkin.",
+      "equivalent":"Devorning ham qulog‘i bor."
+    },
+    {
+      "proverb":"Little strokes fell great oaks.",
+      "explanation":"Kichik zarba katta emanni ham qulatishi mumkin.",
+      "equivalent":"Kichkina demang bizni, ko‘tarib uramiz sizni.*\nTomib turgan suv toshniyam teshar."
+    },
+    {
+      "proverb":"Little thieves are hanged, but great ones escape.",
+      "explanation":"Kichik o‘g‘rilar dorga osiladi, lekin kattalari qochib qoladi, ya’ni odatda kichik o‘g‘rilar oson qo‘lga tushadi, kattalari esa osonlikcha qo‘lga tushmaydi.",
+      "equivalent":"Ayron ichgan qutildi, chelak yalagan tutildi."
+    },
+    {
+      "proverb":"Little fishes slip through nets, but great fishes are taken.",
+      "explanation":"Ov to‘ridan kichik baliqlar tushib qoladi, lekin kattalari ovchining o‘ljasiga aylanadi. 1. Qiyinchilik paytida pastdagi kichik odamlar qiyinchilikdan bildirmay qochib qolishadi, yuqoridagilari esa tutilishadi. 2. Inson xotirasidan kichik narsalar tez o‘chib ketadi, lekin muhim ahamiyatga ega katta voqealar qoladi.",
+      "equivalent":"-"
+    },
+    {
+      "proverb":"Little chips light great fires.",
+      "explanation":"Kichik cho‘g‘ katta olovni hosil qiladi. 1. Ahamiyatsizdek ko‘ringan narsalar katta ahamiyatga ega voqealarga sababchi bo‘lishi mumkin. 2. Kichik bir yomonlik yoki xatolik katta falokatga olib kelish mumkin.",
+      "equivalent":"Kichik kalit katta uyni ochar."
+    },
+    {
+      "proverb":"Many a little makes a mickle.",
+      "explanation":"Ko‘plab kichiklar to‘planib, kattani hosil qiladi.",
+      "equivalent":"Birin-birin ming bo‘lar, toma-toma ko‘l bo‘lar.\nBirlashgan daryo bo‘lar, tarqalgan irmoq bo‘lar.\nOz-ozdan o‘rganib, dono bo‘lur, qatra-qatra yig‘ilib, daryo bo‘lur.\nToma-toma ko‘l bolur."
+    },
+    {
+      "proverb":"Petty law breed great crimes.",
+      "explanation":"Kichik bir qonun ham katta jinoyatga asos bo‘lishi mumkin, shuning uchun qonunlarni kattasigayam, kichigigayam bir xil ahamiyat berib yaratish lozim.",
+      "equivalent":"-"
+    },
+    {
+      "proverb":"Small rain lays great dust.",
+      "explanation":"Ozgina yoqqan yomg‘ir ham katta miqdordagi changni bosa oladi.",
+      "equivalent":"Kichik kalit katta uyni ochar."
+    },
+    {
+      "proverb":"The little cannot be great unless he devours many.",
+      "explanation":"Kichkina odam ko‘p sinovlardan o‘tmagunicha katta bo‘lmaydi. Ya’ni tajribasiz odam mehnat-u mashaqqat bilan o‘z oldiga qo‘ygan maqsadiga erishadi, hurmat qozonadi.",
+      "equivalent":"Mashaqqatsiz baxt kelmas, mehnatsiz taxt kelmas.\nIqbolni mehnat ochar."
+    },
+    {
+      "proverb":"The least boy always carries the greatest fiddle. ",
+      "explanation":"Eng kichik bola doim eng og‘ir yukni ko‘tarib yuradi, ya’ni doimo eng qiyin yumush mazkur yumushni qila oladiganlarning eng kichigiga tashlab qo‘yiladi.",
+      "equivalent":"O‘zbekning kichigi bo‘lguncha, kuchugi bo‘l."
+    },
+    {
+      "proverb":"Venture a small fish to catch a great one.",
+      "explanation":"Katta baliqni tutish uchun kichik baliqni qurbon qilish lozim, ya’ni biror narsaga erishish uchun, boshqa biridan voz kechiladi.",
+      "equivalent":"Jon kuydirmasang, jonona qayda, toqqa chiqmasang, do‘lona qayda."
+    },
+
+
+
+
+
+    {
+      "proverb":"A fool may give a wise man counsel.",
+      "explanation":"Ahmoq ba’zan aqlliga ham maslahat beradi, ya’ni 1) ba’zida aqlsiz odamdan ham aqlli gaplar chiqishi mumkin, yoki 2) oddiy insonlar ham ba’zida juda aqlli deb hisoblanganlarga ham yaxshi maslahat berishi mumkin.",
+      "equivalent":"-"
+    },
+    {
+      "proverb":"A fool says what he knows, and a wise knows what he says.",
+      "explanation":"Ahmoq nimani bilsa gapiraveradi, aqlli esa nimani gapirishni biladi, ya’ni o‘ylamasdan gapirmaydi.",
+      "equivalent":"Ahmoqni urma, so‘kma – gapga sol.\nOldiga kelganni yemak – hayvonning ishi, og‘ziga kelganni demak – nodonning ishi.\nAhmoqning o‘z bilgani, Gapirmasa, o‘lgani.\nSahroyini urma-so‘kma, so‘zlat.\nDono o‘ylab aytar, Nodon – o‘ynab."
+    },
+    {
+      "proverb":"A silent fool is counted wise. A fool is counted wise when he is silent.",
+      "explanation":"Aqlsiz gapirmasa aqlli sanaladi.",
+      "equivalent":"Ahmoqni urma, so‘kma – gapga sol.\nAqlli oz so‘zlar, Ahmoq ko‘p so‘zlar.\nSahroyini urma-so‘kma, so‘zlat."
+    },
+    {
+      "proverb":"Fools ask questions that wise men cannot answer.",
+      "explanation":"Nodon odamlar ba’zan donolar ham javob topa olmaydigan savollar berishadi.",
+      "equivalent":"-"
+    },
+    {
+      "proverb":"Fools build houses and wise men live in them.",
+      "explanation":"Ahmoqlar uy qurishadi, aqllilar esa shu uyda yashaydi, ya’ni aqlli odam o‘zi ishlamasdan sodda ahmoqni ishga soladi va undan foydalanadi.",
+      "equivalent":"Ahmoqni urma-so‘kma, ishga sol.\nAhmoqni urma-so‘kma, aldab-suldab yo‘lga sol."
+    },
+    {
+      "proverb":"Success makes a fool seem wise.",
+      "explanation":"Omadi kelsa nodonni ham dono deb atashadi. Ya’ni omadli yoki boy inson aqlli bo‘lmasa ham, hamma uni aqlli deb sanaydi.",
+      "equivalent":"Og‘zi qiyshiq bo‘lsa ham, boyning o‘g‘li gapirsin. "
+    },
+
+
+
+    {
+      "proverb":"Cold hands, warm heart.",
+      "explanation":"Ba’zida insonlarning qo‘li sovuq bo‘lsa ham qalbi iliq bo‘ladi, ya’ni doim ham insonni tashqi ko‘rinishiga va xususiyatlariga qarab baho berish to‘g‘ri bo‘lavermaydi, ba’zi insonlar o‘z hissiyotlarini tashqariga chiqarishmaydi, lekin bu ularni toshyurak deb hisoblash uchun sabab bo‘la olmaydi.",
+      "equivalent":"Tashqi ko‘rinish – aldamchi."
+    },
+
+
+
+    {
+      "proverb":"Be slow to promise and quick to perform",
+      "explanation":"Va’da berishda shoshmaslik kerak, berilgan va’dani bajarishda esa shoshish lozimdir.",
+      "equivalent":"Va’da – quruq, bajarilsa – ulug‘.\nVa’da – vafosi bilan go‘zal.\nGap bilan va’da berma, Ish bilan va’da ber.\nGap bilan shoshma, ish bilan shosh."
+    },
+
+
+
+    {
+      "proverb":"A bad compromise is better than a good lawsuit. ",
+      "explanation":"Mavjud kelishuvni buzish uchun chiqarilgan yaxshi urinish yoki qarordan ko‘ra yomon bo‘lsa ham murosa yaxshidir. Har qanday nizodan ko‘ra kichik yoki foydasiz bo‘lsa ham totuvlik yaxshi.",
+      "equivalent":"Och qornim – tinch qulog‘im.\nUrush – ofat, Tinchlik – farog‘at."
+    },
+    {
+      "proverb":"A bad shearer never had a good sickle",
+      "explanation":"Kasbi hayvonlarning yungini qirtishlash bo‘lgan odam yomon bo‘lsa, ya’ni ishini chin dildan yaxshilab bajara olmasa yoki erinsa, qaychisini yaxshi demaydi, aybni ish quroliga yuklaydi.",
+      "equivalent":"Epsiz sozanda sozin ayblar.\nO‘zolmagan otga uzangi bahona.\nIshyoqmas o‘roqchi o‘roq tanlar.\nIshyoqmasga arpa uni – bahona.\nO‘tloqda bedana ko‘p, Dangasada – bahona."
+    },
+    {
+      "proverb":"Bad luck often brings good luck.",
+      "explanation":"Yomonlik ortidan yaxshilik keladi, dunyo faqat yomonlik va baxtsiz kunlardan iborat emas.",
+      "equivalent":"Bir kun ming kun emas.\nBir yomonning qarshisida yuz yaxshi bor.\nOyning o‘n beshi qorong‘u bo‘lsa, o‘n beshi – yorug‘."
+    },
+    {
+      "proverb":"Bear all with evil and expect good. ",
+      "explanation":"Yomonlik va qiyinchiliklarga chida, sabr qil va yaxshilikdan umid qil, yaxshi kunlar albatta keladi.",
+      "equivalent":"Bir kun ming kun emas.\nBir yomonning qarshisida yuz yaxshi bor.\nOyning o‘n beshi qorong‘u bo‘lsa, O‘n beshi – yorug‘.\nSabr tagi – sari oltin,Sabr bilan chiqar oting.\nSabrli qul murodiga yetar.\nO‘ttiz kun ro‘zaning bir kun hayiti bor."
+    },
+    {
+      "proverb":"Evil communications corrupt good manners. ",
+      "explanation":"Yomon aloqalar yaxshi xulq-atvorni ham buzadi, yomon odamlar o‘zlariga qo‘shib yaxshi odamlarni ham yo‘ldan ozdiradi.",
+      "equivalent":"Yomonning oyog‘i – sakkiz, Biri tegmasa, biri tegar.\nYomonga yaqinlashsang, balosi yuqar, Qozonga yaqinlashsang – qorasi.\nQozonga yaqinlashsang,qarosi yuqar,Yomonga yaqinlashsang, balosi yuqar."
+    },
+    {
+      "proverb":"He that is ill to himself will be good nobody.",
+      "explanation":"O‘zini hurmat qilmagan, o‘zini yaxshi ko‘rmagan inson boshqalarni ham hurmat qilishni va yaxshi ko‘rishni bilmaydi.",
+      "equivalent":"O‘ziga baxillik qilgan, O‘zgaga saxiylik qilmas.\nO‘z qadrini bilmagan o‘zga odamga kular.\nO‘zini bilgan o‘zgani ham bilar."
+    },
+    {
+      "proverb":"He that is afraid of bad luck will never know good",
+      "explanation":"Yomonlik va qora kunlardan qo‘rqqan, qiyinchilikda sabr qila olmagan odam yaxshi kunlarga yeta olmaydi.",
+      "equivalent":"Azob ko‘rmay, rohat yo‘q."
+    },
+    {
+      "proverb":"He that spares the bad injures the good.",
+      "explanation":"Yomonni saqlagan odam yaxshini jarohatlaydi.",
+      "equivalent":"Yomonning davlati – yaxshining ofati."
+    },
+    {
+      "proverb":"Ill luck is good for something.",
+      "explanation":"Ba’zan yomonlikda ham bir yaxshilik yotadi, tanganing ikki tomoni bo‘lganidek yomon deb o‘ylaganlarimizning qandaydir bir yaxshi tarafi yoki foydasi ham bo‘ladi.",
+      "equivalent":"Bir yomonning yuz yaxshisi bor.\nHar yomonning bir yaxshisi bor.\nHar kechaning kunduzi, Har kunduzning kechasi bor.\nHar oqshomning bir tongi bor."
+    },
+    {
+      "proverb":"Never do evil that good may come of it. ",
+      "explanation":"Yaxshilikka yomon yo‘l orqali borilmaydi, hatto natijasi yaxshi bo‘lishini bilsak ham, yomonlik qilishimiz to‘g‘ri emas.",
+      "equivalent":"-"
+    },
+    {
+      "proverb":"Of evil manners, spring good laws. ",
+      "explanation":"Yomon odatlarni ko‘rib insonlar ularni qilmaslikka intiladilar, shu sababli ular yaxshilikka undovchi qonun-qoidalarni yaratadilar va ularga amal qiladilar",
+      "equivalent":"Yomondan yaxshilikni o‘rgan.\nYaxshini yomondan o‘rgan."
+    },
+    {
+      "proverb":"Pardoning the bad is the injuring the good.",
+      "explanation":"Yomonni kechirgan odam bu ishi bilan yaxshini jarohatlaydi, ko‘nglini og‘ritadi.",
+      "equivalent":"Yomonning davlati – yaxshining ofati."
+    },
+    {
+      "proverb":"The worse luck now, the better another time.",
+      "explanation":"Hozir yomonroq payt bo‘lsa, boshqa payt albbata yaxshiroq davr keladi.",
+      "equivalent":"Bir kun ming kun emas.\nBir yomonning qarshisida yuz yaxshi bor.\nOyning o‘n beshi qorong‘u bo‘lsa, O‘n beshi – yorug‘.\nO‘ttiz kun ro‘zaning bir kun hayiti bor."
+    },
+
+
+
+    {
+      "proverb":"There’s no great loss without some gain.",
+      "explanation":"Katta yo‘qotishlarda ham kichik muvaffaqiyatlar bo‘ladi, ya’ni biror nimani boy berdim deb xafa bo‘lishdan avval, shu boy berishda nimagadir erishilgani haqida ham o‘ylash kerak.",
+      "equivalent":"Har yomonning bir yaxshisi bor."
+    },
+    {
+      "proverb":"No living man all things can.",
+      "explanation":"Hech bir inson hamma narsani birdek yaxshi bajara olmaydi.",
+      "equivalent":"Beayb – parvardigor.\nHar to‘kisda – bir ayb."
+    },
+    {
+      "proverb":"No man is wise at all times.",
+      "explanation":"Hech bir inson har doim birdek aqlli bo‘la olmaydi, qachondir u ham xato qiladi, u ham nodonlarcha ish qilib qo‘yishi mumkin.",
+      "equivalent":"Beayb – parvardigor.\nHar to‘kisda – bir ayb."
+    },
+    {
+      "proverb":"No dish pleases all palates alike.",
+      "explanation":"Hech qaysi ovqat hammaga birdek manzur bo‘la olmaydi, ya’ni hech kim yoki hech narsa hammani birdek ko‘nglini ko‘tara olmaydi va hammaga birdek yoqavermaydi.",
+      "equivalent":"Hammaga birdek yoqadigan odam onasidan hali tug‘ilmagan."
+    },
+    {
+      "proverb":"You may know by a handful the whole sack.",
+      "explanation":"Butun bir qop ichidagi narsani uning bir qismini tekshirish bilan bilib olish mumkin, ya’ni insonning qanaqaligini uning bitta harakatidan bilib olish mumkin.",
+      "equivalent":"Kasalni yashirsang, Isitmasi oshkora qilar. "
+    },
+
+
+
+    {
+      "proverb":"Nothing is impossible to a willing heart.",
+      "explanation":"Xohish bor yurak egasi uchun ilojsiz narsaning o‘zi yo‘q.",
+      "equivalent":"Qalovini topsang, qor yog‘ar.\nQalovini topsang, qor ham yog‘adi."
+    },
+    {
+      "proverb":"No answer is also an answer.",
+      "explanation":"Javob bermaslik ham bir javob, ya’ni sukut ham ba’zida qandaydir ma’noni anglatadi.",
+      "equivalent":"Sukut – alomati rizo."
+    },
+    {
+      "proverb":"There is no fool like an old fool.",
+      "explanation":"Qari ahmoqqa teng keladigan ahmoq topilmaydi, ya’ni yoshi katta aqlsiz odam eng katta aqlsizliklarni qiladi.",
+      "equivalent":"-"
+    },
+    {
+      "proverb":"There is no rose without a torn.",
+      "explanation":"Tikansiz atirgul bo‘lmaydi, ya’ni kishi bir yaxshi narsaga zahmat chekib, qiyinchiliklardan o‘tib keyin erishadi.",
+      "equivalent":"Gulning ham tikani bor.\nGul tikansiz bo‘lmas, Dur – sadafsiz.\nGulni sevgan tikaniga chidaydi.\nGulchi bir gulni o‘stirguncha, Yuz tikan zahrini tortadi."
+    },
+    {
+      "proverb":"There is no rule without an exception",
+      "explanation":"Har bir qoidada bir mustasno holat bo‘ladi, chunki borliqdagi hamma narsa murakkab yaratilgan bo‘lib, ularni qoidalarga sig‘dirish imkonsizdir",
+      "equivalent":"-"
+    },
+    {
+      "proverb":"There is no tree but bears some fruit.",
+      "explanation":"Har daraxtning o‘ziga yarasha mevasi bo‘ladi, har insonning yoki har narsaning qayerdadir foydasi tegadi, befoyda narsaning o‘zi yo‘q.",
+      "equivalent":"-"
+    },
+    {
+      "proverb":"There is no better looking-glass than an old friend.",
+      "explanation":"Eski do‘stdan ko‘ra yaxshiroq ko‘zgu yo‘q, chunki haqiqiy do‘st aybingni yuzingga aytadi va to‘g‘ri yo‘ldan adashmasliging uchun yordam beradi.",
+      "equivalent":"Do‘st achitib gapirar, Dushman – kulib.\nDo‘st achitib gapirar, Dushman – kuldirib.\nDo‘st yig‘latar, Dushman kuldirar.\nDo‘st kuydirib aytar, Dushman – suydirib."
+    },
+
+
+    {
+      "proverb":"Never cast dirt into that fountain of which you have sometimes drunk.",
+      "explanation":"O‘zing ba’zan suv ichib turadigan favvoraning suvini hech qachon iflos qilma, ya’ni o‘zing qachondir bo‘lsa ham foydalanadigan narsaga ziyon keltirma.",
+      "equivalent":"Qaytib kelar eshigingni qattiq yopma.\nSuv ichadigan qudug‘ingga tupurma.\nO‘zing suv ichadigan quduqqa tupurma."
+    },
+    {
+      "proverb":"The camel never sees its own hump, but that of its brother is always before its eyes.",
+      "explanation":"Tuya o‘z o‘rkachini hech qachon ko‘rmaydi, lekin o‘z akasining o‘rkachi doimo uning ko‘zi oldida bo‘lgani uchun uni ko‘radi. Ya’ni inson o‘z kamchiligini emas o‘zgalarni kamchiligini yaxshiroq ko‘radi.",
+      "equivalent":"Avval o‘zingga boq, So‘ngra nog‘ora qoq.\nAvval o‘z aybingni bil, So‘ngra boshqadan kul.\nO‘ziniki o‘ziga bilinmas."
+    },
+
+
+    {
+      "proverb":"Learn weeping and you shall gain laughing.",
+      "explanation":"Yig‘lashni o‘rgansang kulishni ham bilib olasan, ya’ni qiyin kunlardan o‘tib olsang, yaxshi kunlarga yetasan, qiyinchilikda odam yoruq kunlarining qadriga yetadi.",
+      "equivalent":"Azob ko‘rmay, rohat yo‘q.\nYaxshini ko‘rib fikr qil, Yomonni ko‘rib shukur qil."
+    },
+
+
+
+    {
+      "proverb":"Big fish eat little fish.",
+      "explanation":"Katta baliq kichik baliqni\nyeydi, ya’ni doim kuchlilar\noldida kuchsizlar bosh\negadi.",
+      "equivalent":"Kun – kuchliniki,\nQobirg‘a – tishliniki.\n"
+    },
+    {
+      "proverb":"Big fleas have little fleas upon their backs to bite them, and little fleas have lesser fleas, and so ad infinitum.",
+      "explanation":"Katta burgalarning orqasida ularni tishlaydigan kichik burgalari bo‘ladi, u kichik burgalarning ham yanada kichikroq burgalari bo‘ladi, va bu qator esa nihoyasiz davom etadi. Ya’ni hayotda kuchlilarga ham zarar yetkaza oladigan kuchsizlar bo‘ladi, ularga ham teng kela oladigan yanada kichiklar ham topiladi.",
+      "equivalent":"-"
+    },
+    {
+      "proverb":"Great boast, small roast.",
+      "explanation":"Maqtovi juda katta, lekin maqtalayotgan narsa yoki shaxs maqtovdagidek emas",
+      "equivalent":"Vahimasi osmonda, qo‘lida misi ham yo‘q.\nBaqiroq sigir sutsiz bo‘lar."
+    },
+    {
+      "proverb":"Great cry and little wool.",
+      "explanation":"Ko‘p baqirib chaqirilgani bilan, aslida yung ko‘p emas. O‘rta asrlarda savdogarlar baqirib xaridorlarni chaqrishgan, lekin ularda har doim ham baqirganlariga yarasha serob mahsulot bo‘lmagan.",
+      "equivalent":"Vahimasi osmonda, qo‘lida misi ham yo‘q.\nBaqiroq sigir sutsiz bo‘lar."
+    },
+    {
+      "proverb":"Great talkers are little doers.",
+      "explanation":"Ko‘p gapiradigan odamlar odatda ishni ko‘p bajarishmaydi.",
+      "equivalent":"Gap desang, qop-qop, Ish desang, Samarqanddan top.\nGap desang, qop-qop, Ish desang – betob.\nGapga – chechan, ishga – mechan.\nDangasaga ish buyursang, Otangdan ortiq nasihat qilar."
+    },
+    {
+      "proverb":"Great oaks from little acorns grow.",
+      "explanation":"Katta emanlar kichik eman mevalaridan o‘sib chiqadi, ya’ni har qanday ulkan muvaffaqiyat avval kichik bo‘lib, sekin-asta kattalashadi.",
+      "equivalent":"-"
+    },
+    {
+      "proverb":"Great trees keep down the little ones.",
+      "explanation":"Ulkan daraxtlar kichik daraxtlarni ushlab turadi, pana qiladi, ya’ni kattalar kichiklarni asraydi, ularga katta bo‘lgunlaricha g‘amxo‘rlik qiladi.",
+      "equivalent":"-"
+    },
+    {
+      "proverb":"Great consolation may grow out of the smallest saying.",
+      "explanation":"Eng kichik maqol yoki gap ham odamga ulkan taskin berishi mumin.",
+      "equivalent":"-"
+    },
+    {
+      "proverb":"Knowledge humbleth the great man, astonisheth the common man, and puffeth up the little man.",
+      "explanation":"Ilmli buyuk insonlar kamtar bo‘ladi, oddiy insonlar ilm-u fandagi yangiliklardan hayratda qolishadi, kichik (past tabaqali) odamlar ilm egalashsa ham ularga hech kim e’tibor bermaydi.",
+      "equivalent":"-"
+    },
+    {
+      "proverb":"There is no great loss without small gain.",
+      "explanation":"Katta yo‘qotishlarda ham kichik muvaffaqiyatlar bo‘ladi, ya’ni biror nimani boy berdim deb xafa bo‘lishdan avval, shu boy berishda nimagadir erishilgani haqida ham o‘ylash kerak.",
+      "equivalent":"Har yomonning bir yaxshisi bor."
+    },
+    {
+      "proverb":"There would be no great ones if there were no little ones.",
+      "explanation":"Kichik yoki oddiy narsalar bo‘lmaganida edi, ulkan yoki buyuk narsalar ham bo‘lmas edi.",
+      "equivalent":"-"
+    },
+    {
+      "proverb":"The great fish eat up the small.",
+      "explanation":"Katta baliq kichik baliqni yeydi, ya’ni doim kuchlilar oldida kuchsizlar bosh egadi.",
+      "equivalent":"Kun – kuchliniki, Qobirg‘a – tishliniki."
+    },
+    {
+      "proverb":"The greatest talkers are the least doers.",
+      "explanation":"Eng ko‘p gapiradigan odamlar odatda eng kam ish bajarishadi.",
+      "equivalent":"Gap desang, qop-qop, Ish desang – betob.\nGapga – chechan, ishga – mechan.\nDangasaga ish buyursang, Otangdan ortiq nasihat qilar."
+    },
+    {
+      "proverb":"The greater the kindred, the less the kindness.",
+      "explanation":"Qarindoshlar qancha ko‘p bo‘lsa, ular orasidagi mehr shuncha kam bo‘ladi.",
+      "equivalent":"-"
+    },
+
+
+
+    {
+      "proverb":"Jack of all trades and master of none.",
+      "explanation":"Hamma kasbni qilaman degan odam aslida hech qaysi kasbini ustasi bo‘la olmaydi.",
+      "equivalent":"Ikki quyonni quvlagan birini ham tutolmas.\nKo‘pga yugurgan ozdan qolar.\nKo‘p deb ozdan qolma.\nMingni chala bilgandan, Birni to‘la bilgan yaxshi.\nMingtaning tusini bilguncha, Bittaning ismini bil.\nYuz hunarni chala bilgandan Bir hunarni to‘la bil."
+    },
+    {
+      "proverb":"If you try to please all you will please none.",
+      "explanation":"Hammani birdek xursand qilishga urinsangiz, ularning hech birini ko‘nglini ololmaysiz.",
+      "equivalent":"Hammaga birdek yoqadigan odam onasidan hali tug‘ilmagan."
+    },
+    {
+      "proverb":"It is equally an error to trust all men or no men.",
+      "explanation":"Hammaga birdek ishonish ham, hech kimga ishonmaslik ham bir xil xatodir.",
+      "equivalent":"-"
+    },
+    {
+      "proverb":"Everybody’s business is nobody’s business.",
+      "explanation":"1. Hammaga tegishli yumushni hech kim o‘z yumushi deb hisoblamaydi. 2. Ko‘pchilikka tegishli bo‘lgan narsadan hech qachon bir kishi manfaatli bo‘la olmaydi.",
+      "equivalent":"Sansolar-u mansolar, Otga yemni kim solar.\nSheriklik tovuqdan tuxum yaxshi."
+    },
+    {
+      "proverb":"He that serves everybody is paid by nobody.",
+      "explanation":"Hammaga birdek xizmat ko‘rsatgan odamga hech kim haq to‘lamaydi, ya’ni hammani birdek xursand qilishga urinsangiz, ularning hech birini ko‘nglini ololmaysiz.",
+      "equivalent":"Hammaga birdek yoqadigan odam onasidan hali tug‘ilmagan."
+    },
+    {
+      "proverb":"To know everything is to know nothing.",
+      "explanation":"Hamma narsani bilaman degan odam aslida hech narsani yaxshi bilmaydi.",
+      "equivalent":"Ikki quyonni quvlagan birini ham tutolmas.\nKo‘pga yugurgan ozdan qolar.\nKo‘p deb ozdan qolma.\nMingni chala bilgandan, Birni to‘la bilgan yaxshi.\nMingtaning tusini bilguncha, Bittaning ismini bil.\nYuz hunarni chala bilgandan Bir hunarni to‘la bil."
+    },
+    {
+      "proverb":"When we sing, everybody hears us; when we sigh, nobody hear us.",
+      "explanation":"Qo‘shiq aytganimizda, hamma bizni tinglaydi, xo‘rsinganimizda hech kim bizni eshitmaydi. Ya’ni yaxshi kunimizda atrofimizda do‘stlar ko‘payadi, qiyin kunlarimizda esa ular yo‘qolib qoladi. ",
+      "equivalent":"Omad kelsa, do‘st ko‘payar, Omad ketsa, dushmaning."
+    },
+    {
+      "proverb":"Something is better than nothing.",
+      "explanation":"Hech narsadan ko'ra biror narsa yaxshi, hech nima yo‘q bo‘lgandan ko‘ra oz bo‘lsa ham biror narsa bo‘lgani yaxshi.",
+      "equivalent":"-"
+    },
+    {
+      "proverb":"You don’t get something for nothing.\nWe don’t get something for nothing.",
+      "explanation":"1. Hech nima qilmasangiz, hech narsaga erisha olmaysiz. Biz hech nima qilmasak, hech narsaga erisha olmaymiz. 2. Biror narsadan voz kechmasangiz, boshqa biriga erisha olmaysiz. Biror narsadan voz kechmasak, boshqa biriga erisha olmaysiz.",
+      "equivalent":"1. Harakat, harakatda barakat.\nSendan harakat, mendan barakat.*\nJon kuydirmasang, jonona qayda, Toqqa chiqmasang, do‘lona qayda.\n2. Chiqim bo‘lmasa, kirim ham bo‘lmaydi."
+    },
+    {
+      "proverb":"One man, no man.",
+      "explanation":"Odam bir o‘zi hech kim emas, ya’ni odam odam bilan tirik, odamlar birlashib bir ishni oson amalga oshiradi, yolg‘iz odam qiynaladi.",
+      "equivalent":"Yolg‘iz daraxt o‘rmon bo‘lmas.\nYolg‘iz yog‘och pana bo‘lmas.\nYolg‘iz itning hurgani bilinmas,\nYolg‘iz kishining yurgani bilinmas.\nYolg‘iz otning changi chiqmas, Changi chiqsa ham dong‘i chiqmas.\nYolg‘iz uyda qozon qaynamas.\nYolg‘iz qo‘yning terisi po‘stin bo‘lmas.\nYolg‘iz yurib yo‘l topguncha, Ko‘p bilan yurib adash.\nYolg‘izning yoyi yo‘qolsa, topilmas, Ko‘pning o‘qi yo‘qolsa, topilar."
+    },
+    {
+      "proverb":"One of these days is none of these days.",
+      "explanation":"Bir kun o‘tgani kunlarning ichida bilinmaydi, ya’ni kunlar tez o‘tadi, vaqt o‘tganini sezmay ham qolish mumkin.",
+      "equivalent":"Vaqt – oqar suv."
+    },
+    {
+      "proverb":"The voice of one man is the voice of no one.",
+      "explanation":"Bir kishining ovozi hech qachon bilinmaydi, yolg‘iz odam kuchsiz bo‘ladi, u boshqalar bilan birlashsa kuchli bo‘ladi.",
+      "equivalent":"Yolg‘iz daraxt o‘rmon bo‘lmas.\nYolg‘iz yog‘och pana bo‘lmas.\nYolg‘iz yog‘och uy bo‘lmas.\nYolg‘iz itning hurgani bilinmas, Yolg‘iz kishining yurgani bilinmas.\nYolg‘iz otning changi chiqmas, Changi chiqsa ham dong‘i chiqmas.\nYolg‘iz uyda qozon qaynamas.\nYolg‘iz qo‘yning terisi po‘stin bo‘lmas.\nYolg‘iz yurib yo‘l topguncha, Ko‘p bilan yurib adash.\nYolg‘izning yoyi yo‘qolsa, topilmas, Ko‘pning o‘qi yo‘qolsa, topilar."
+    },
+    {
+      "proverb":"When a friend asks, there is no tomorrow.",
+      "explanation":"Do‘sting so‘ragan paytda, hech qachon ertaga dema, ya’ni do‘st yordamga muhtoj bo‘lsa, paysalga solmay yordam ber.",
+      "equivalent":"Do‘stning ko‘ngli qolguncha, Dushmanning bo‘yni uzilsin."
+    },
+    {
+      "proverb":"What may be done at any time is done at none time.",
+      "explanation":"Istalgan paytda qilinadi deb hisoblangan ish, hech qachon qilinmaydi, doim qolib ketaveradi.",
+      "equivalent":"Qolgan ishga qor yog‘ar."
+    },
+
+
+    {
+      "proverb":"A wise man changes his mind, a fool never will.",
+      "explanation":"Aqlli odam fikrini o‘zgartirishi mumkin, lekin ahmoq hech qachon o‘zgartirmaydi.",
+      "equivalent":"Ahmoqqa aytgan bilan gap uqmas, Xarsangga qoqqan bilan mix o‘tmas.\nAhmoq o‘zi bilmas, Bilganning so‘ziga kirmas.\nAqlliga bir so‘z bas, Aqlsizga ming so‘z oz.\nTentak to‘rini bermas, Telba – to‘nini."
+    },
+    {
+      "proverb":"A wise man will learn something even from the words of a fool.",
+      "explanation":"Aqlli odam hatto aqlsiz odamning so‘zlaridan ham nimanidir o‘rganadi.",
+      "equivalent":"Aqlni beaqldan o‘rgan. Nodon so‘zlar, Dono ibrat olar."
+    },
+    {
+      "proverb":"Advice is something the wise don’t need and the fool won't take.",
+      "explanation":"Maslahat shunday narsaki, aqlli unga muhtoj emas, ahmoq esa uni o‘ziga olmaydi va amal qilmaydi.",
+      "equivalent":"-"
+    },
+    {
+      "proverb":"Better a poor and wise child than an old and foolish king, who will no more be admonished.",
+      "explanation":"Keksa va aqlsiz shohdan kambag‘al va aqlli bola yaxshiroq, chunki bunday shohning xatosi natijasida ko‘plab odamlar aziyat chekishadi.",
+      "equivalent":"Aqli kirmagan qaridan, Ziyrak tug‘ilgan bola yaxshi.\nAqlsiz keksadan aqlli yosh yaxshi.\nOltmish yashar ahmoqdan Olti yashar dono yaxshi."
+    },
+    {
+      "proverb":"Custom is the plague of wise men and the idol of fools.",
+      "explanation":"Turli urf-odat va rasm-rusmlar aqlli inson uchun ofat, ahmoqning esa jon-u dili.",
+      "equivalent":"-"
+    },
+    {
+      "proverb":"Fools and madmen speak the truth.",
+      "explanation":"Aqlsiz va telba kishilar ba’zan haqiqatni gapirishadi, ular aytgan haqiqatga ba’zida aqllilarning ham aqli yetmaydi.",
+      "equivalent":"-"
+    },
+    {
+      "proverb":"If the wise erred not, it would go hard with fools.",
+      "explanation":"Agar dono odam hech bir ishni bajarishda xato qilmaganida edi, nodonga juda qiyin bo‘lar edi.",
+      "equivalent":"Beayb – parvardigor.\nHar to‘kisda – bir ayb."
+    },
+    {
+      "proverb":"It takes a wise man to be fool.",
+      "explanation":"Inson o‘zining nodonligini sezmaydi, buni sezish uchun u dono bo‘lishi lozim.",
+      "equivalent":"Nodon o‘zini dono sanar, Dono o‘zini nodon sanar.\nDono aql so‘rab hormas, Nodon nozin qilib bormas."
+    },
+    {
+      "proverb":"Wise men learn by other men’s harm, fools, by their own.",
+      "explanation":"Aqlli odam boshqalarning unga yetkazgan ziyonidan va o‘zining xatolaridan xulosa chiqaradi, ahmoq esa o‘zining xatolaridan.",
+      "equivalent":"Aqlni beaqldan o‘rgan.\nDono aql so‘rab hormas, Nodon nozin qilib bormas.\nNodon so‘zlar, Dono ibrat olar."
+    },
+    {
+      "proverb":"Wise men propose, and fools determine.",
+      "explanation":"Aqlli odam taklif beradi, ahmoq odam belgilaydi, ya’ni aqlli odam kerakli bo‘lgan fikrlarni yoki takliflarni beradi, aqlsiz odam tayyor fikr yoki taklifga egalik qilib, o‘zinikidek ko‘rsatadi.",
+      "equivalent":"-"
+    },
+    {
+      "proverb":"Wise men do not argue with idiots.",
+      "explanation":"Aqlli odam ahmoqlar bilan tortishmaydi.",
+      "equivalent":"Dono bilan nodon bir buloqdan suv ichmas."
+    },
+    {
+      "proverb":"Zeal is fit only for wise men, but is found mostly in fools.",
+      "explanation":"G‘ayrat faqat aqlli odamga mos keluvchi, ularga kerak bo‘lgan xususiyat, lekin g‘ayrat ko‘pincha aqlsizlarda topiladi.",
+      "equivalent":"-"
+    },
+
+
+
+    {
+      "proverb":"Always a bridesmaid, never a bride.",
+      "explanation":"Har doim kelinning dugonasi bo‘lib yuradigan qizning o‘zi hech qachon kelin bo`lmaydi.",
+      "equivalent":"-"
+    },
+    {
+      "proverb":"If you always say 'No', you’ll never get married.",
+      "explanation":"Agar har diom 'Yo‘q' desangiz, hech qachon turmushga chiqa olmaysiz.",
+      "equivalent":"Tengi chiqsa tekin uzat."
+    },
+    {
+      "proverb":"Evil often triumphs but never conquers.",
+      "explanation":"Yomonlik tez-tez g‘alaba qozonib turadi, lekin hech qachon to‘laligicha hukmronlik qila olmaydi.",
+      "equivalent":"Haqiqat egiladi, bukiladi, lekin sinmaydi."
+    },
+    {
+      "proverb":"A tree often transplanted, never bears much fruit.",
+      "explanation":"Hadeb bir joydan boshqa joyga ko‘chirilib o‘tkazildigan daraxt hech qachon mo‘l meva bermaydi. Ya’ni bir joydan boshqa joyga ko‘chib, yoki ish joyini tez-tez o‘zgartirib yuradigan insonlarning o‘sishi, rivojlanishi dargumondir.",
+      "equivalent":"Daraxt bir joyda ko‘karadi.\nIkki quyonni quvlagan birini ham tutolmas.*"
+    },
+
+
+
+    {
+      "proverb":"Be swift to hear, slow to speak",
+      "explanation":"Tinglashga shoshil, lekin gapirishga shoshilma.",
+      "equivalent":"Ahmoq so‘zlar, aqlli tinglar.\nBir so‘zlab, tingla qirq ikki.\nOg‘iz – bir, quloq – ikki, Bir so‘zlab, tingla qirq ikki.\nOz gapir – soz gapir."
+    },
+    {
+      "proverb":"Too swift arrives as tardy as too slow.",
+      "explanation":"Juda tez harakat qilgan ham juda sekin harakat qilganodam kabi kech qolishi mumkin, ya’ni shoshgan odam ham juda hovliqishi to‘gri emas.",
+      "equivalent":"Chopib borgan yerga, Yurib borsa ham bo‘lar."
+    },
+
+
+
+    {
+      "proverb":"All are good lasses, but whence come the bad wives.",
+      "explanation":"Hamma qizlar yaxshi bo‘ladi, lekin unda yomon xotinlar qayerdan paydo bo‘ladi.",
+      "equivalent":"-"
+    },
+    {
+      "proverb":"Many good cows have bad calves. Many a good cow have a bad calf.",
+      "explanation":"Ko‘plab yaxshi sigirlarning yomon buzoqlari bor, ya’ni insonlarning ham ularning farzandlariga ota-onasiga qarab baho berish doim ham to‘g‘ri bo‘lavermaydi.",
+      "equivalent":"Ahmoq otadan – aqlli farzand.\nAhmoqdan – chaqmoq, Donodan – ahmoq.\nG‘ayratlining bolasi tanbal bo‘lar."
+    },
+    {
+      "proverb":"Money is a good servant but a bad master.",
+      "explanation":"Pul yaxshi xizmatkordir, lekin yomon boshliq. Ya’ni hech qachon pulning quli bo‘lish kerak emas, pul sizni qulingiz bo‘lishi kerak.",
+      "equivalent":"Pul – qo‘lning kiri.\nYerni suv buzar, Odamni – pul. "
+    },
+    {
+      "proverb":"A good heart conquers ill fortune.",
+      "explanation":"Yaxshi yurak yomon qismatni yenga oladi, ya’ni yaxshi odamning peshonasiga yomon taqdir yozilgan bo‘lsa ham, u o‘z taqdirini yaxshi tarafga o‘zgartira oladi.",
+      "equivalent":"-"
+    },
+    {
+      "proverb":"Learning makes good men better, and ill men worse.",
+      "explanation":"O‘qib-o‘rganish yaxshi odamni yanada yaxshi qiladi, lekin yomon odamni yanada yomon qiladi.",
+      "equivalent":"-"
+    },
+    {
+      "proverb":"Praise makes good men better, and bad men worse.",
+      "explanation":"Maqtov yaxshi odamni yanada yaxshi qiladi, lekin yomon odamni yanada yomon qiladi.",
+      "equivalent":"-"
+    },
+    {
+      "proverb":"Slander cannot make a good man bad.",
+      "explanation":"Tuhmat yaxshi odamni yomon qilib qo‘ya olmaydi, uning yolg‘onligi baribir yuzaga chiqadi.",
+      "equivalent":"Tuhmatning umri – qisqa.\nHaqiqat egiladi, bukiladi, lekin sinmaydi."
+    },
+    {
+      "proverb":"The good intention excuses the bad action.",
+      "explanation":"Yaxshi niyat yomon amalni oqlaydi, ya’ni yaxshi niyat bilan qilingan ish yomon tarafga aylanib ketsa-da, bu ish kechiriladi.",
+      "equivalent":"-"
+    },
+    {
+      "proverb":"Wives must be had, be they good or bad.",
+      "explanation":"Yaxshimi yoki yomonmi, uyingda xotinning borligi yaxshi.",
+      "equivalent":"Xotinli ro‘zg‘or guldir, Xotinsiz ro‘zg‘or cho‘ldir."
+    },
+    {
+      "proverb":"No man knows best what good is than he who has endured evil.\nHe knows best what good is that has endured evil.",
+      "explanation":"Hech kim yomonga chidab sabr qilgan, boshidan o‘tkazgan insondek nima yaxshiligini bilmaydi. Yomonga chidab sabr qilgan, boshidan o‘tkazgan inson nima yaxshiligini juda yaxshi biladi, yaxshini yomondan farqlay oladi.",
+      "equivalent":"Jafo chekmagan safo qadrini bilmas.\nZimiston ko‘rmagan bulbul Guliston qadrini bilmas."
+    },
+    {
+      "proverb":"Praise is a spur to the good, a thorn to the evil.",
+      "explanation":"Maqtov yaxshiga turtki, yomonga tikan bo‘ladi. Ya’ni maqtov yaxshi odamni yanada yaxshi qiladi, lekin yomon odamni yanada yomon qiladi.",
+      "equivalent":"-"
+    },
+    {
+      "proverb":"Hope for the best and prepare for the worst.",
+      "explanation":"Eng yaxshisini umid qil va eng yomoniga tayyor bo‘l.",
+      "equivalent":"Chiqmagan jondan umid."
+    },
+
+
+
+    {
+      "proverb":"He that promises too much means nothing.",
+      "explanation":"Ko‘p va’da beradigan odamga ishonish kerak emas, u va’dasini bajarmaydi, uning gapi quruq va’daligicha qolib ketadi.",
+      "equivalent":"-"
+    },
+    {
+      "proverb":"Too much of a good thing is good for nothing.",
+      "explanation":"Biror yaxshi narsaning serob bo‘lishi, keragidan ham ortiq bo‘lishi hech narsaga foyda keltirmaydi.",
+      "equivalent":"Har narsaning ozi shirin.\nShakarning ozi shirin.\nAsalning ham ozi shirin."
+    },
+    {
+      "proverb":"Dogs that put up many hares kill none.",
+      "explanation":"Ko‘plab quyonlarni yig‘ib olgan kuchuklar, ularning hech qaysisini o‘ldirmaydi, yoki ko‘p qiyonni ortidan quvgan kuchuk birortasini ham tuta olmaydi. Ya’ni inson bir vaqtning o‘zida bir nechta emas bir ishning boshini mahkam tutishi lozim.",
+      "equivalent":"Ikki quyonni quvlagan birini ham tutolmas.\nKo‘pga yugurgan ozdan qolar.\nKo‘p deb ozdan qolma."
+    },
+    {
+      "proverb":"Many a fine dish has nothing on it.",
+      "explanation":"Dasturxonda ko‘plab a’lo sifatga ega idishlar bo‘lishi mumkin, lekin unda iste’mol qilishga arzigulik bir nima har doim ham topilavermaydi, ya’ni tashqi ko‘rinish har doim ham ishonchli bo‘lavermaydi.",
+      "equivalent":"Tashqi ko‘rinish – aldamchi.\nO‘zi bir tanga, To‘ni qirq tanga."
+    },
+    {
+      "proverb":"Half a loaf is better than no bread.",
+      "explanation":"Umuman nonsiz bo‘lgandan ko‘ra yarim bo‘lak bo‘lsa ham noning borligi yaxshi.",
+      "equivalent":"Boriga shukur qil, Yo‘g‘iga – sabr."
+    },
+    {
+      "proverb":"A hungry belly has no ears.",
+      "explanation":"Qorni och odam hech narsani eshitmaydi, ya’ni hech narsaga e’tibor bermaydi, u faqat qornini to‘ydirishni o‘ylaydi.",
+      "equivalent":"Avval iqtisod, keyin siyosat.\nAvval – non, keyin in’om.\nAvval iqtisod, keyin siyosat.\nBo‘sh qop tik trmas.\nOch otasini tanimas."
+    },
+    {
+      "proverb":"A bad excuse is better than none at all",
+      "explanation":"Birorta qilingan nojo‘ya ishga umuman sabab ko‘rsatmagandan ko‘ra yomon bo‘lsa ham birorta vaj ko‘rsatgan yaxshiroq.",
+      "equivalent":"-"
+    },
+    {
+      "proverb":"A crust is better than no bread.",
+      "explanation":"Umuman nonsiz bo‘lgandan ko‘ra qattiq non (nonning chetki qattiq qismi) bo‘lsa ham noning borligi yaxshi.",
+      "equivalent":"Boriga shukur qil, Yo‘g‘iga – sabr."
+    },
+    {
+      "proverb":"A little is better than none.",
+      "explanation":"Hech nima yo‘q bo‘lgandan ko‘ra oz bo‘la ham, nimadir bo‘lgani yaxshi.",
+      "equivalent":"Boriga shukur qil, Yo‘g‘iga – sabr."
+    },
+    {
+      "proverb":"A quarrelsome man has no good neighbours.",
+      "explanation":"Janjalkashning yaxshi qo‘shnisi bo‘lmaydi, u hamma bilan janjallashaverganidan u yaxshi qo‘shnini ham yomon deb hisoblaydi.",
+      "equivalent":"Hovli olma, qo‘shni ol.\nQo‘shning – tinch, Sen – tinch."
+    },
+    {
+      "proverb":"A cat in gloves catches no mice.",
+      "explanation":"Qo‘lqop kiygan mushuk sichqonni tuta olmaydi, ya’ni juda ehtiyotkorlik yoki juda muloyimlik hech qanday natija bermaydi, biror narsaga erishish uchun inson o‘z maqsadida qattiq turishi va tirishqoqlik bilan harakat qilishi lozim.",
+      "equivalent":"Tirishgan och qolmas.\nQimirlagan qir oshar, Tig‘izlagan tog‘ oshar."
+    },
+    {
+      "proverb":"A clean hand wants no washing.",
+      "explanation":"Toza qo‘lni yuvish shart emas, ya’ni yaxshi insonni oqlash shart emas, uning yaxshiligi o‘z-o‘zidan ayon bo‘lib uradi.",
+      "equivalent":"-"
+    },
+    {
+      "proverb":"A close mouth catches no flies.\nA shut mouth catches noflies.",
+      "explanation":"Yopiq og‘izga hech qanday pashsha kirmaydi, ya’ni kam gapirgan yoki sukut saqlagan odamga odatda yomon baho berilmaydi.",
+      "equivalent":"Sukutda hikmat ko‘p, Bulutda – himmat.\nTil – suyaksiz, tish – qal'a, Til yomoni – bir balo.\nUzun tilim – uzgun tilim, Qisqa tilim – tizgin tilim.\nArqonning uzuni, gapning qisqasi yaxshi."
+    },
+    {
+      "proverb":"A forced kindness deserves no thanks.",
+      "explanation":"Zo‘raki mehribonchilik rahmatga loyiq emas, ya’ni chin ko‘ngildan qilinmagan yaxshilik va mehribonchilik uchun rahmat aytishmaydi.",
+      "equivalent":"-"
+    },
+    {
+      "proverb":"A rolling stone gathers no moss.",
+      "explanation":"1. Bir nechta ishni ketidan chopib birortasini ham toliq egallamagan inson muvaffaqiyatga erishmaydi. 2. Harakatda bo‘lgan inson qarimaydi va yomonliklardan yiroqda bo‘ladi, ish bilan band insonning nojo‘ya ishlarga vaqti bo‘lmaydi.",
+      "equivalent":"1. Ikki quyonni quvlagan birini ham tutolmas.\nKo‘pga yugurgan ozdan qolar.\nKo‘p deb ozdan qolma.\nMingni chala bilgandan, Birni to‘la bilgan yaxshi.\nMingtaning tusini bilguncha, Bittaning ismini bil.\nYuz hunarni chala bilgandan Bir hunarni to‘la bil.\n2. Harakat, harakatda barakat.\nBekorchilik – hamma illatlarning otasi."
+    },
+
+
+
+    {
+      "proverb":"Soon hot, soon cold.",
+      "explanation":"Tez isigan tez soviydi, yoki tez yongan tez o‘chadi. Ya’ni tez qizishib, jahli chiqib ketadigan insonning jahli tez tushadi.",
+      "equivalent":"Lov yongan o‘t tez o‘char. Lov yonadi, lov o‘chadi."
+    },
+
+
+
+    {
+      "proverb":"All work and no play makes Jack a dull boy.",
+      "explanation":"Faqat ishlab dam olmagan yoki o‘ynab-kulmagan inson ham ishidan zerikadi, ham o‘zi zerikarli odamga aylanadi.",
+      "equivalent":"Yaxshi dam – mehnatga hamdam."
+    },
+    {
+      "proverb":"A Jack of all trades is master of none.",
+      "explanation":"Hamma kasbni qilaman degan odam aslida hech qaysi kasbini ustasi bo‘la olmaydi.",
+      "equivalent":"Ikki quyonni quvlagan birini ham tutolmas.\nKo‘pga yugurgan ozdan qolar.\nKo‘p deb ozdan qolma.\nMingni chala bilgandan, Birni to‘la bilgan yaxshi.\nMingtaning tusini bilguncha, Bittaning ismini bil.\nYuz hunarni chala bilgandan Bir hunarni to‘la bil."
+    },
+    {
+      "proverb":"Hear all, see all, say nothing, take all, keep all, give nothing, and if you ever do anything for nothing do it for yourself.",
+      "explanation":"Hammasini ko‘r, hammasini eshit, hech narsa dema; hammasini ol, hammasini saqla, hech nima berma; agar biror narsani sababsiz bajarsang, uni o‘zing uchun bajar, shunda hayoting yaxshi o‘tadi.",
+      "equivalent":"-"
+    },
+    {
+      "proverb":"A friend to all is a friend to none.",
+      "explanation":"Hammaga birdek do‘st bo‘lishni istagan odam aslida hech kimga do‘st bo‘lmaydi.",
+      "equivalent":"Ko‘pni sevgan birni sevmas."
+    },
+    {
+      "proverb":"A friend to everybody is a friend to nobody.",
+      "explanation":"Hammaga birdek do‘st bo‘lishni istagan odam aslida hech kimga do‘st bo‘lmaydi.",
+      "equivalent":"Ko’pni sevgan birni sevmas."
+    },
+    {
+      "proverb":"There is no good accord, where every man would be a lord.",
+      "explanation":"Hamma o‘zini lord (boshliq) deb bilgan joyda yaxshi kelishuv bo‘lmaydi, chunki hamma o‘zini baland tutib sherigiga biroz bo‘lsa-da bo‘sh kelishni xohlamaydi.",
+      "equivalent":"Ikki qo‘chqor kallasi bir qozonda qaynamas.\nBir qozonda ikki qo‘chqorning kallasi qaynamaydi.\nXon bir bo‘lsa, el tuzalar, Ikki bo‘lsa, yurt buzilar."
+    },
+    {
+      "proverb":"Better some of a pudding than none of a pie.",
+      "explanation":"Umuman pirogning yo‘q bo‘lganidan ko‘ra oz bolsa ham, biror shirinlik bo‘lani yaxshi.",
+      "equivalent":"Boriga shukur qil, Yo‘g‘iga – sabr."
+    },
+
+
+
+    {
+      "proverb":"Little things are great to little man.",
+      "explanation":"Kichkina odamga kichik narsalar ham katta ko‘rinadi, ya’ni jamiyatda past mavqega ega odam uchun oddiy narsalar va voqealar ham katta ahamiyatga ega narsalardek tuyuladi yoki ta’sir qiladi, yuqori tabaqali odam esa bunday narsa va voqealarga e’tibor berimaydi, yoki ularga bu narsa va voqealar ta’sir qilmaydi.",
+      "equivalent":"-"
+    },
+
+
+    {
+      "proverb":"It is an ill wind that blows nobody good.",
+      "explanation":"Hech kimni yaxshilikka yetaklamagan shamol yomon shamoldir. Ya’ni hech kimni yaxshilikka undamagan odam ham yaxshi hisoblanmaydi.",
+      "equivalent":"Yaxshilik qila olmasang, Yomonlik ham qilma."
+    },
+
+
+    {
+      "proverb":"No great loss without some small gain.",
+      "explanation":"Katta yo‘qotishlarda ham kichik muvaffaqiyatlar bo‘ladi, ya’ni biror nimani boy berdim deb xafa bo‘lishdan avval, shu boy berishda nimagadir erishilgani haqida ham o‘ylash kerak.",
+      "equivalent":"Har yomonning bir yaxshisi bor."
+    },
+    {
+      "proverb":"The great would have none great, and the little all the little.",
+      "explanation":"Oddiy odamlar barcha oddiy odamlarni qo‘l ostida saqlaganida edi, buyuklarning qo‘l ostida  umuman buyuk odam bo‘lmas edi, chunki buyuklar ham oddiy odamlardan yetishib chiqadi.",
+      "equivalent":"-"
+    },
+
+
+    {
+      "proverb":"It is a good tongue that says no ill, and a better heart that thinks none.",
+      "explanation":"Yomon gapni gapirmaydigan til – yaxshi til, hech narsani (ya’ni yomonlikni) o‘ylamaydigan yurak undanda yaxshiroqdir.",
+      "equivalent":"Tilingni to‘g‘ri tutolmasang, Dilingni to‘g‘ri tut.\nDili pokning ishi – pok.\nYomon til boshga balo keltirar, Yaxshi til davlat, dunyo\nkeltirar."
+    },
+    {
+      "proverb":"Nothing so bad, as not to be good for something.\nNothing so bad in which there is not something of good.",
+      "explanation":"Hech narsa o‘ta yomon bo‘lmaydi, uning ham  nimagadir nafi tegadi, birorbir yaxshi tarafi bo‘ladi.",
+      "equivalent":"Bir yomonning yuz yaxshisi bor.\nHar yomonning bir yaxshisi bor.\nHar oqshomning bir tongi bor."
+    },
+
+
+    {
+      "proverb":"Travel makes a wise man better, but a fool worse.",
+      "explanation":"Sayohat aqllini yanada aqlli qiladi, aqlsizni esa yanada aqlsiz qiladi.",
+      "equivalent":"-"
+    },
+
+
+    {
+      "proverb":"A wise enemy is better than a foolish friend.",
+      "explanation":"Ahmoq do‘stdan ko‘ra aqlli dushman yaxshiroqdir.",
+      "equivalent":"Ahmoq do‘stdan aqlli dushman yaxshi.\nAhmoq do‘st yovdan yomon.\nDo‘sti nodondan dushmani dono yaxshi."
+    },
+
+
+
+    {
+      "proverb":"A joke never gains an enemy but often loses a friend.\nA joke never gains over an enemy, but often loses a friend.",
+      "explanation":"Hazil hech qachon dushman orttirmaydi, lekin hazil qilgan odam do‘stidan ayrilib qolishi mumkin. Chunki hazil bilan kishi o’z yaqinlarini xafa qilib qo‘yishi mumkin.",
+      "equivalent":"Hazilning tagi – zil."
+    },
+
+    {
+      "proverb":"What the fool does in the end, the wise man does at the beginning.",
+      "explanation":"Aqlsiz oxirida qiladigan ishni aqlli boshida qiladi, ya’ni aqlsiz nima qilish kerakligini juda kech, oxirida tushinib yetadi.",
+      "equivalent":"Tentakning aqli tushdan keyin kirar.\nAhmoqning aqli tushdan keyin kirar."
+    },
+
+    {
+      "proverb":"Small gifts make friends, great ones make enemies.",
+      "explanation":"Kichik sovg‘alar do‘stlikni mustahkamlaydi, katta sovg‘alar esa dushmanlikka olib keladi, ya’ni do‘stiga kichik emas balki katta sovg‘a qilgan odam undan ham katta sovg‘a kutadi, agar bunday sovg‘ani olmasa, uni yomon ko‘rib qoladi.",
+      "equivalent":"Bor tovog‘im, kel tovog‘im, Kelishingda quruq bo‘lsang, O‘rta yerda sin, tovog‘im.\nBor tovog‘im, kel tovog‘im, Bormasang, kelmasang, O‘rtada sin tovog‘im."
+    },
+
+    {
+      "proverb":"A good word for a bad one is worth much and costs little.",
+      "explanation":"Yomon so‘zga javoban aytilgan so‘z ko‘p maqtovga arziydi, lekin uni doim past baholashadi, ya’ni unga yetarlicha baho berishmaydi.",
+      "equivalent":"Yaxshilikka yaxshilik – Har kishining ishidir.\nYomonlikka yaxshilik – Mard kishining ishidir."
+    },
+
+
+    {
+      "proverb":"A good payer is master of another’s purse.",
+      "explanation":"Yaxshi to‘laydigan odam boshqalarning hamyoniga egalik qiladi, ya’ni boshqalardan oson qo‘lga kiritilgan pul o‘ylab o‘tirilmay oson sarflanadi.",
+      "equivalent":"Oson kelgan pul oson ketadi.\nHaromdan kelgan haromga ketar."
+    },
+    {
+      "proverb":"God rejoices when one beggar scratches another.",
+      "explanation":"Bir tilanchi ikkinchi bir tilanchini qashlab qo‘ysa Xudo ham xursand bo‘larkan.",
+      "equivalent":"Yordam bergin, “Kimsan”, deb so‘rama."
+    },
+    {
+      "proverb":"He carries fire in one hand and water in the other.",
+      "explanation":"Bir qo‘lida olov ushlagan odam ikkinchi qo‘lida suv olib yuradi, ya’ni sizga yaxshi gapirgan ba’zi odamlar orqangizdan yomonlik ham qilishi mumkin.",
+      "equivalent":"Tilida boshqa narsa, Dilida boshqa narsa."
+    },
+    {
+      "proverb":"If one will not, another will.",
+      "explanation":"Biror ishni bir odam bajarmasa, boshqa biri bajaradi.",
+      "equivalent":"-"
+    },
+    {
+      "proverb":"It is one thing to flourish and another to fight.",
+      "explanation":"Ba’zi narsalar gullab-yashnash (yoki, yaxshilik) uchun xizmat qilsa, boshqalari esa jang qilish yoki vayron qilish uchun xizmat qiladi.",
+      "equivalent":"-"
+    },
+    {
+      "proverb":"Just give me one end of the line and I'll get to the other.",
+      "explanation":"Menga chiziqning bir uchini ber, uning narigi uchiga o‘zim yetib olaman. Ya’ni biror yangi ishni boshlaganda bu ishni yaxshi biladigan odam ishni boshlagan odamga yo‘l-yo‘riq ko‘rsatsa, u odam ishni o‘zi tugata oladi.",
+      "equivalent":"-"
+    },
+    {
+      "proverb":"One half of the world does not know how the other half lives.",
+      "explanation":"Dunyoning birinchi yarmi uning ikkinchi yarmi qanday hayot kechirayotganini bilmaydi, ya’ni odamlar boshqalarning qanday yashayotganini to‘liq bilishmaydi, masalan, boylar kambag‘allarning aslida qanday kun ko‘rishayotganini bilmasligi mumkin.",
+      "equivalent":"Qorni to‘qning qorni och bilan ishi yo‘q.\nKasal dardini sog‘ bilmas, Och qadrini to‘q bilmas.\nTanasi boshqa dard bilmas, Uyi boshqa g‘am bilmas.\nTanasi boshqa dard bilmas."
+    },
+    {
+      "proverb":"One barber shaves another gratis.",
+      "explanation":"Bir sartarosh ikkinchisining soqolini tekinga oladi, ya’ni bir-biriga ishi tushadigan odamlar bir-biridan to‘lov yoki boshqa narsa kutmaydi.",
+      "equivalent":"Qarg‘a qarg‘aning ko‘zini cho‘qimas."
+    },
+    {
+      "proverb":"One fool praises another.",
+      "explanation":"Bir ahmoq boshqa bir ahmoqni maqtaydi.",
+      "equivalent":"Ahmoq ahmoqqa yon bosar.\nKo‘r ko‘rni qorong‘uda topar."
+    },
+    {
+      "proverb":"One hand washes the other.",
+      "explanation":"Bir qo‘l boshqasini yuvar. Ya’ni bir odam boshqasiga yordam bersa, osha odam yana kimgadir yordam beradi, odamlar bir-birining yordami bilan biror maqsadga erisha oladi.",
+      "equivalent":"Sizdan ugina, bizdan bugina."
+    },
+    {
+      "proverb":"One man sows and another reaps.",
+      "explanation":"Bir odam ekadi, boshqasi hosilni yig‘ib oladi, ba’zan bir odam qattiq mehnat qilsa-da, uning huzurini boshqa odam ko‘radi.",
+      "equivalent":"Bir odam daraxt eksa, Boshqasi uning soyasida o‘tirar.\nBir dehqon omoch bilan, Yettovlon cho‘mich bilan.\nBirov – omoch bilan, Yettov – cho‘mich bilan."
+    },
+    {
+      "proverb":"One man’s loss is another man's gain.",
+      "explanation":"Bir odamning yo‘qotgani\nboshqa bir odamning yutug‘i bo‘lishi mumkin, ya’ni bir odamning muvaffaqiyatsizlikka uchrashi boshqa odamning muvaffaqiyatiga olib keladi.",
+      "equivalent":"-"
+    },
+    {
+      "proverb":"One man’s meat is another man’s poison.",
+      "explanation":"Bir odam go‘sht yegani sababli boshqa bir odamning zahar ichishga majbur bo‘lishi mumkin, ya’ni ba’zan bir odamning muvaffaqiyatni qo‘lga kiritishi boshqa bir odamning muvaffaqiyatsizligiga olib keladi.",
+      "equivalent":"-"
+    },
+    {
+      "proverb":"One man’s yawning makes another yawn.",
+      "explanation":"Bir odam esnasa boshqalarga ham bu yuqib, esnashni boshlaydi. Ya’ni bir inson boshqalarda ko‘rgan narsasini olgisi yoki ular bajargan ishni qilgisi keladi.",
+      "equivalent":"-"
+    },
+    {
+      "proverb":"One man may steal a horse, while another may not look over a hedge.",
+      "explanation":"Bir odam ot o‘g‘irlay oladi, boshqa biri xattoki to‘siqning uyog‘iga ham qaray olmaydi, odamlar har xil bo‘ladi.",
+      "equivalent":"Besh qo‘l barobar emas.\nBesh barmoq barobar emas.\nKishi bilan kishi teng emas."
+    },
+    {
+      "proverb":"One story is good till another is told.",
+      "explanation":"Bir hikoya ikkinchi bir hikoya aytilgunicha hammani e’tiborida turadi, ikkinchi hikoya aytilishi bilan hamma shu ikkinchi hikoyaga qiziqib, birinchisini unutadi.",
+      "equivalent":"-"
+    },
+    {
+      "proverb":"One wedding brings another.",
+      "explanation":"Bir to‘y ikkinchisini olib keladi, ya’ni bir xursandchilik ketidan boshqasi keladi.",
+      "equivalent":"To‘y ketidan to‘y kelar, A’za – ketidan a’za."
+    },
+    {
+      "proverb":"One beats the bush, and another catches the bird.",
+      "explanation":"Bir odam butani qimirlatsa, boshqasi qushni tutadi, ya’ni ba’zan bir odam qattiq mehnat qilsa-da, uning huzurini boshqa odam ko‘radi.",
+      "equivalent":"Bir odam daraxt eksa, Boshqasi uning soyasida o‘tirar."
+    },
+    {
+      "proverb":"One fire drives out another.",
+      "explanation":"Bir olov ikkinchisiga sabab bo‘ladi, ya’ni bir falokat ikkinchi falokatni chaqirishi mumkin.",
+      "equivalent":"To‘y ketidan to‘y kelar, A’za – ketidan a’za."
+    },
+    {
+      "proverb":"One potter envies another.",
+      "explanation":"Bir kulol boshqa kulolga xasad qiladi, ya’ni ba’zilar o‘zi kabi mehnat qilib yaxshiroq natijaga erishganlarga xasad ko‘zi bilan qaraydi.",
+      "equivalent":"Xashak o‘ti xonani kuydirar, Hasad o‘ti tanani kuydirar."
+    },
+    {
+      "proverb":"One good turn deserves another.",
+      "explanation":"Bir yaxshi o‘zgarish boshqa bir yaxshilikka munosibdir, yoki boshqa bir yaxshilikni chaqiradi.",
+      "equivalent":"To‘y ketidan to‘y kelar, A’za – ketidan a’za."
+    },
+    {
+      "proverb":"One sheep follows another.",
+      "explanation":"Bir qo‘y boshqasiga ergashadi, ya’ni inson ham yonidagi inson qilgan ishni qaytaradi, bir-biridan o‘rganadi.",
+      "equivalent":"Olma olmadan rang olar.\nQovun qovundan rang olar.\nSharob uzumdan rang olar, Odam odamdan rang olar."
+    },
+    {
+      "proverb":"One sword keeps another in the sheath.",
+      "explanation":"Bir qilich ikkinchi bir qilichni qinidan chiqmasligini ta’minlaydi, ya’ni bir boshliq boshqalarni boshliq bo‘lish xohishini sindirib turadi, bir joyda faqat bitta boshliq bo‘ladi.",
+      "equivalent":"Ikki qo‘chqor kallasi bir qozonda qaynamas.\nBir qozonda ikki qo‘chqorning kallasi qaynamaydi."
+    },
+    {
+      "proverb":"One nail drives out another.",
+      "explanation":"Bir tirnoq ikkinchi bir tirnoqni ko‘chirib oladi, ba’zan bir onadan tug‘ilgan aka-uka va opa-singillar ham bir-biriga yomonlik qiladi.",
+      "equivalent":"O‘rtada burun bo‘lmasa, Ko‘z ko‘zni o‘yar.\nU ko‘z bu ko‘zga do‘st emas."
+    },
+    {
+      "proverb":"One kindness is the price of another.",
+      "explanation":"Bir yaxshilik boshqa bir yaxshilikka sabab bo‘ladi, yaxshilikka yaxshilik bilan javob beriladi.",
+      "equivalent":"Yaxshilik qil, daryoga tashla, Baliq bilar, Baliq bilmasa, xoliq bilar.\nDaryoga yaxshilik qilsang, Ajrini biyobondan topasan."
+    },
+    {
+      "proverb":"Saying one thing, and doing another.",
+      "explanation":"Bir narsani aytadi, boshqa narsa qiladi, ya’ni sizga yaxshi gapirgan ba’zi odamlar orqangizdan yomonlik ham qilishi mumkin.",
+      "equivalent":"Tilida boshqa narsa, Dilida boshqa narsa."
+    },
+    {
+      "proverb":"Submitting to one wrong brings on another.",
+      "explanation":"Bitta xatoga yo‘l qo‘yib berish ikkinchisini keltirib chiqaradi.",
+      "equivalent":"-"
+    },
+    {
+      "proverb":"That’s a horse of another colour.",
+      "explanation":"Bu boshqa bir rangli ot, bu maqol odatda bu narsa umuman boshqa narsa, uni avvalgisi bilan adashtirmang degan ma’noda qo‘llaniladi.",
+      "equivalent":"-"
+    },
+    {
+      "proverb":"The folly of one man is the fortune of another.",
+      "explanation":"Bir odamning aqlsizligi boshqa bir odamga omad yoki baxt olib kelishi mumkin.",
+      "equivalent":"-"
+    },
+    {
+      "proverb":"When one door shuts, another opens.",
+      "explanation":"Bir eshik yopilsa, boshqasi ochiladi, ya’ni bir imkoniyat yo‘qqa chiqsa, boshqa bir imkoniyat paydo bo‘ladi.",
+      "equivalent":"-"
+    },
+    {
+      "proverb":"Wine is one thing, drunkenness is another.",
+      "explanation":"Vino – boshqa narsa, mastlik – boshqa narsa, vinoni ko‘rib uni ichish yoki ichmaslik, me’yorini bilish odamni o‘ziga bog‘liq.",
+      "equivalent":"Mening nafsim balodur, Yonar o‘tga soladur.\nNafsini tiygan — vali.\nNafsini tiygan kishi sulton bo‘lur, Nafsini tiymagan kishi ulton bo‘lur."
+    },
+
+
+    {
+      "proverb":"A proverb is the wit of one and the wisdom of many.",
+      "explanation":"Maqol bir kishining so‘zga chechanligi, ko‘p kishining donoligidir; ya’ni 1) maqolni o‘z nutqida ishlatgan kishi aqlli va so‘zga chechan hisoblanadi, maqol esa ko‘plab kishilarning donoligi asosida vujudga keladi va qo‘llaniladi; 2) maqol bir shaxs tomonidan yaratiladigan va ko‘pchilik tomonidan tan olinib, foydalaniladigan aqlli gapdir.",
+      "equivalent":"So‘z ko‘rki – maqol."
+    },
+    {
+      "proverb":"A rising tide lifts all boats.",
+      "explanation":"Ko‘tarilayotgan to‘lqin hamma qayiqni birdek ko‘taradi (yutadi), ya'ni ofat yoki kulfat hammaga birdek yopiriladi.",
+      "equivalent":"Kemaga tushganning joni bir.\nO‘rmonga o‘t ketsa, Ho‘l-u quruq birdek yonar."
+    },
+    {
+      "proverb":"A knowledge of a learned man is limited if he stays at home all the time.",
+      "explanation":"O‘qigan odam har doim uyida o‘tirsa, uning bilimi chegaralanib qoladi, u bilimini ko‘chadagi har xil holatlarda qo‘llab, tajriba orqali rivojlantiradi.",
+      "equivalent":"Bir sinalgan tajriba Yetti kitobdan afzal.\nKo‘rgan ko‘p bilar, O‘qigan – oz."
+    },
+    {
+      "proverb":"Get a name to rise early, and you may lie all day.",
+      "explanation":"Erta uyg‘onadi degan nomga ega bo‘l, keyin kuni bo‘yi yotsang ham hech kim bunga e’tibor bermaydi.",
+      "equivalent":"-"
+    },
+    {
+      "proverb":"If one sheep leaps o‘er the dyke, all the rest will follow.\nIf one sheep leaps over the ditch, all the rest will follow.",
+      "explanation":"Agar bir qo‘y to‘g‘ondan / ariqdan hatlab o‘tsa, qolgan hammasi unga ergashadi. Ya’ni inson ham yonidagi inson qilgan ishni qaytaradi, bir-biridan o‘rganadi.",
+      "equivalent":"Olma olmadan rang olar.\nQovun qovundan rang olar.\nSharob uzumdan rang olar, Odam odamdan rang olar."
+    },
+    {
+      "proverb":"If you have known one, you have known them all.",
+      "explanation":"Agar bir guruhga oid narsa yoki shaxslarning birortasini bilsangiz, shunga qarab qolgan hammasini bilib olasiz.",
+      "equivalent":"-"
+    },
+    {
+      "proverb":"In a church, in an inn, and in a coffin, all men are equal.",
+      "explanation":"Cherkovda, mehmonxonada va tobutda hamma odam tengdir, ya’ni shunday joylar borki, u yerlarda insonlar turli tabaqalarga ajratilmaydi.",
+      "equivalent":"Shoh-u gado bir qabrda yotar.\nO‘lim shoh-u gadoga barobar."
+    },
+    {
+      "proverb":"One size does not fit all.",
+      "explanation":"Bir o‘lcham hammaga to‘g‘ri kelmaydi, hamma odam har xil.",
+      "equivalent":"Dunyoni o‘z qariching bilan o‘lchama.\nBesh barmoq barobar emas.\nKishi bilan kishi teng emas."
+    },
+    {
+      "proverb":"Patience is a plaster for all sores.",
+      "explanation":"Sabr barcha xastaliklarga davodir, sabr hamma narsani davolaydi.",
+      "equivalent":"Hamma narsaning davosi – sabr."
+    },
+    {
+      "proverb":"Of one ill come many.",
+      "explanation":"Bir yomonlikdan boshqalari ham kelib chiqadi, bir xatolik boshqa ko‘plab xatoliklarga sabab bo‘ladi.",
+      "equivalent":"Yomonlik yomonlikni chaqiradi."
+    },
+    {
+      "proverb":"One funeral makes many.",
+      "explanation":"Bir a’za yana ko‘plab a’zalarni olib keladi, xafagarchilik kelsa, uning ortidan yana xafagarchilik ergashadi.",
+      "equivalent":"To‘y ketidan to‘y kelar, A’za – ketidan a’za."
+    },
+    {
+      "proverb":"One lie makes many.",
+      "explanation":"Bir yolg‘on yana ko‘plab yolg‘onni vujudga keltiradi.",
+      "equivalent":"Bir yolg‘on ikki yolg‘onni tug‘ilishiga sabab bo‘ladi.\nBir illat ikkinchisini chaqiradi, Bir yolg‘on keyingisini."
+    },
+    {
+      "proverb":"Pardon one offence and you encourage many.",
+      "explanation":"Bir jinoyatni kechirsangiz boshqa ko‘plab jinoyatlarni dunyoga kelishiga yo‘l qo‘yib bergan bo‘lasiz.",
+      "equivalent":"-"
+    },
+    {
+      "proverb":"One drop of poison infects the whole tun of wine.",
+      "explanation":"Bir tomchi zahar bir idish vinoning hammasini zaharlaydi; ya’ni bir yomon narsa yoki odam yaxshilar orasiga tushsa ularni ham yomon otliq qiladi.",
+      "equivalent":"Bir tirroqi buzoq butun podani bulg‘aydi.\nBir qorin moyni bir qumaloq buzar."
+    },
+    {
+      "proverb":"One link broken, the whole chain is broken.",
+      "explanation":"Zanjirning bir halqasi sinsa, butun bir zanjir sinadi, ya’ni bir-biriga bog‘liq narsalardan birortasi buzilsa, bu holat qolganlarini ham buzadi, ular bir butun bo‘la olmaydi.",
+      "equivalent":"-"
+    },
+    {
+      "proverb":"One scabby sheep will mar a whole flock.",
+      "explanation":"Bir qo‘tir (kasallangan) qo‘y butun bir podani buzadi (kasallantiradi). Ya’ni bir yomon narsa yoki odam yaxshilar orasiga tushsa ularni ham yomon otliq qiladi.",
+      "equivalent":"Bir tirroqi buzoq butun podani bulg‘aydi.\nBir qorin moyni bir qumaloq buzar."
+    },
+
+
+    {
+      "proverb":"A thing you don’t want is dear at any price.",
+      "explanation":"Sizga yoqmagan narsaning narxi qancha bo‘lsa ham, sizga doim qimmatdek tuyuladi.",
+      "equivalent":"-"
+    },
+    {
+      "proverb":"Every man for himself, and God for us all. ",
+      "explanation":"Har bir odam o‘zi uchun harakat qiladi, o‘ylaydi, Xudo esa hamma haqida o‘ylaydi, g‘amxo‘rlik va nazorat qiladi.",
+      "equivalent":"-"
+    },
+    {
+      "proverb":"He that commits a fault thinks everyone speaks of it.",
+      "explanation":"Xato qilgan odam hamma u haqida gapiradi deb o‘ylaydi, hamma shubha bilan qaraydi.",
+      "equivalent":"-"
+    },
+    {
+      "proverb":"He that has a great nose thinks everybody is speaking of it.",
+      "explanation":"Burni katta odam hamma uning burni haqida gapirmoqda deb o‘ylaydi, ya’ni kamchiligi bor odam hamma shu kamchiligi haqida gapiradi deb biladi.",
+      "equivalent":"-"
+    },
+    {
+      "proverb":"There is a place for everything, and everything in its place.",
+      "explanation":"Hamma narsa uchun joy topiladi va hamma narsa o‘z o‘rnida bo‘lishi lozim, gapni ham o‘rni kelsa gapirish lozim, kerak bo‘lmagan gapni gapirmagan ma’qul.",
+      "equivalent":"Har narsaning o‘z o‘rni bor.\nO‘nta bo‘lsa o‘rni boshqa, Qirqta bo‘lsa – qilig‘i.\nYoz ketar, qish kelar, Shoshmay turing, ish kelar."
+    },
+    {
+      "proverb":"There is a time for everything.",
+      "explanation":"Hamma narsaning o‘z vaqti bor. Ya’ni shoshgandan foyda yo‘q, har narsa o‘z mavridi va navbati bilan bo‘ladi.",
+      "equivalent":"Bahor bo‘lmay, yoz bo‘lmas, Kuz bo‘lmasdan, qish bo‘lmas.\nBirovga besh kun oldin kelsa, Birovga besh kun keyin keladi.\nYoz ketar, qish kelar, Shoshmay turing, ish kelar.\nHar narsaning o‘z vaqti bor.\nTegirmon navbati bilan."
+    },
+    {
+      "proverb":"There is a time and place for everything.",
+      "explanation":"Hamma narsaning o‘z vaqti va o‘rni bor. Ya’ni har narsa uchun mos joy va vaqt topiladi.",
+      "equivalent":"Bahor bo‘lmay, yoz bo‘lmas, Kuz bo‘lmasdan, qish bo‘lmas.\nBirovga besh kun oldin kelsa, Birovga besh kun keyin keladi.\nYoz ketar, qish kelar, Shoshmay turing, ish kelar. \nHar narsaning o‘z vaqti va o‘rni bor.\nTegirmon navbati bilan."
+    },
+    {
+      "proverb":"There is a black sheep in every flock.",
+      "explanation":"Har qanday podada bir qora qo‘y bor, ya’ni har qanday guruhning ichida yaxshisi bo‘lganidek, yomoni ham topiladi.",
+      "equivalent":"Birning kasofati yuzga, Yuzniki mingga.\nBirning kasofati mingga tegar.\nBirning kasofati mingga tegar, Mingniki – tumanga.\nBirning kasri mingga, Mingning kasri tumanga tegar. \nBirniki mingga, Mingniki – tumanga. \nGuruch kurmaksiz bo‘lmas."
+    },
+
+
+    {
+      "proverb":"It is a wise child that knows its own father.",
+      "explanation":"Aqlli bola o‘z otasini biladi, ya’ni otasini hurmatini joyiga qo‘yadi.",
+      "equivalent":"Ota rozi – xudo rozi.\nOta oldidan o‘tma, Odob oldidan ketma.\nOta-onasini tanimagan tangrisini tanimas.\nPayg‘ambar qizi bo‘lma, Otang qizi bo‘l.\nO‘g‘irlik osh badanga yuqmas, Yomon bola ota-onaga boqmas."
+    },
+    {
+      "proverb":"Praise the child, and you make love to the mother.",
+      "explanation":"Onasini yoqtirsang, unda o‘zingga nisbatan mehr uyg‘otmoqchi bo‘lsang, uning bolasini maqta.",
+      "equivalent":"-"
+    },
+    {
+      "proverb":"The child is the father of the man.",
+      "explanation":"Inson yoshligida qanday tarbiya olgan bo‘lsa va qanday xususiyatlarga ega bo‘lgan bo‘lsa, u katta bo‘lganida ham shunday xususiyatlarni ko‘rsatadi.",
+      "equivalent":"Daraxtdan meva olaman desang, Niholligidan parvarish qil."
+    },
+    {
+      "proverb":"He that would the daughter win, must with the mother first begin.",
+      "explanation":"Qiziga uylanishni xohlagan kishi avval uning onasiga yoqishni eplashi lozim, onasiga yoqsa, uning qiziga ham yoqishi oson bo‘ladi.",
+      "equivalent":"-"
+    },
+
+
+    {
+      "proverb":"Even the weariest river winds somewhere safe to sea.",
+      "explanation":"Hatto eng pishqirib (xavfli) oqadigan daryo ham qayerdadir sokin dengizga quyiladi, ya’ni qiyinchilik ortidan albatta yaxshi kunlar ham keladi.",
+      "equivalent":"Azob ko‘rmay, rohat yo‘q.\nBir kun ming kun emas.\nBir yomonning qarshisida yuz yaxshi bor.\nOyning o‘n beshi qorong‘u bo‘lsa, O‘n beshi – yorug‘.\nO‘ttiz kun ro‘zaning bir kun hayiti bor."
+    },
+    {
+      "proverb":"Follow the river and you'll get to the sea.",
+      "explanation":"Daryoga ergashsang, dengizga yetasan, ya’ni 1) oz-ozdan, bosqichma-bosqich biror narsaga intilsang, unga albatta erishasan; 2) oz-ozdan bilim olsang, bilimdon inson bo‘lasan.",
+      "equivalent":"Birin-birin ming bo‘lar, Toma-toma ko‘l bo‘lar.\nToma-toma ko‘l bolur.\nOz-ozdan o‘rganib, dono bo‘lur, Qatra-qatra yig‘ilib, daryo bo‘lur."
+    },
+    {
+      "proverb":"Drops that gather one by one finally become a sea.",
+      "explanation":"Tomchilar birma-bir yig‘ilib oxiri dengizga aylanadi, ya’ni 1) oz-ozdan yig‘ilib ko‘p miqdorga aylanadi; 2) oz-ozdan bilim olsang, bilimdon inson bo‘lasan.",
+      "equivalent":"Birin-birin ming bo‘lar, Toma-toma ko‘l bo‘lar.\nToma-toma ko‘l bolur.\nOz-ozdan o‘rganib, dono bo‘lur, Qatra-qatra yig‘ilib, daryo bo‘lur."
+    },
+    {
+      "proverb":"The frog in the well knows nothing of the sea.",
+      "explanation":"Quduqdagi baqa dengiz haqida hech narsa bilmaydi, ya’ni dunyoqarashi tor, qaysar inson o‘zini fikridan boshqasini o‘ylab ko‘rmaydi, o‘z fikrini to‘g‘ri deb turaveradi.",
+      "equivalent":"Ahmoqqa aytgan bilan gap uqmas, Xarsangga qoqqan bilan mix o‘tmas.\nAhmoq o‘zi bilmas, Bilganning so‘ziga kirmas."
+    },
+
+
+    {
+      "proverb":"Half the truth is often a whole lie.",
+      "explanation":"Yarimta rost gap odatda butun yolg‘on bo‘ladi, ya’ni haqiqatni to‘liq emas, yarminigina olish uni yolg‘onga aylantiradi.",
+      "equivalent":"-"
+    },
+    {
+      "proverb":"The half is better than the whole.",
+      "explanation":"Ba’zida yarimta butundan ko‘ra yaxshiroq.",
+      "equivalent":"Yarimta non – rohati jon.\nAsalning ham ozi shirin.\nOz bo‘lsin, soz bo‘lsin."
+    },
+    {
+      "proverb":"Half an egg is better than n empty shell.",
+      "explanation":"Bitta tuxumning bo‘sh po‘chog‘idan ko‘ra yarimta bo‘lsa ham tuxum bo‘lgani yaxshi, foydasiz narsaning butunidan ko‘ra, yarimta bo‘lsa ham foydali narsa bo‘lgani yaxshi.",
+      "equivalent":"-"
+    },
+    {
+      "proverb":"Half a word is enough for a wise man.",
+      "explanation":"Aqlli odamga yarimta so‘z ham yetadi, chunki yarimta so‘zingizdan nima demoqchi ekanligingizni biladi.",
+      "equivalent":"Aqlliga bir so‘z bas, Aqlsizga ming so‘z oz."
+    },
+
+
+    {
+      "proverb":"Speech is silver, but silence is golden.\nSpeech is silver, silence is golden.",
+      "explanation":"Nutq – kumush, lekin sukut – oltin, ya’ni yaxshi gap yaxshi, lekin sukut undan ham yaxshi.",
+      "equivalent":"Sukutda hikmat ko‘p, Bulutda – himmat.\nGapning ozi yaxshi, Qizning – nozi.\nKo‘p gapning ozi yaxshi, Oz gapning sozi yaxshi.\nGapirib pushaymon yegandan, Gapirmay dog‘da qol.\nUzun tilim – uzgun tilim, Qisqa tilim – tizgin tilim.\nArqonning uzuni, gapning qisqasi yaxshi."
+    },
+    {
+      "proverb":"Wisdom is better than silver or gold.",
+      "explanation":"Aql va donolik kumush yoki oltindan ham yaxshiroqdir. Chunki kumush yoki oltin tugaydi, aql esa har doim o‘z egasiga naf keltiradi.",
+      "equivalent":"Ko‘p moldan oz aql yaxshi."
+    },
+    {
+      "proverb":"Iron will not become fine gold, however it is often refined.",
+      "explanation":"Temirga qancha ishlov berilsa ham, u oltin bo‘la olmaydi; insonlar ham shunday, aslida yomon tarbiya olgan insonga qancha to‘g‘ri yo‘l ko‘rsangiz ham, u o‘z tarbiyasiga xos ishni qilaveradi.",
+      "equivalent":"Bukrini go‘r tuzatadi.\nIlon po‘stini tashlasa ham – ilon.\nIt itligini etar, To‘n etagini yirtar.\nKuchuk birla xo‘tikni qancha qilma tarbiya, It bo‘lur, eshak bo‘lur, bo‘lmas aslo odamiy.\nEchki yugurib kiyik bo‘lmas."
+    },
+
+
+    {
+      "proverb":"He that would have eggs must endure the cackling of hens.",
+      "explanation":"Tuxum olishni istagan kishi tovuqni qichqirishiga chidashi kerak, ya’ni biror natijaga erishish uchun mashaqqatiga ham chidash kerak.",
+      "equivalent":"Jon kuydirmasang, jonona qayda, Toqqa chiqmasang, do‘lona qayda.\nMehnat, mehnatning tagi – rohat.\nChidaganga chiqargan."
+    },
+    {
+      "proverb":"One chick keeps a hen busy.",
+      "explanation":"Bitta jo‘ja bir tovuqni band qiladi, ya’ni 1) bir bola onaning hamma vaqtini o‘zi oladi; 2) bilimsiz va tajribasiz odam bilimli va tajribali odamning vaqtini oladi.",
+      "equivalent":"-"
+    },
+
+
+    {
+      "proverb":"Never send a boy to do a man’s job.",
+      "explanation":"Katta kishi bajaradigan ishni bolaga buyurmaslik kerak, chunki u bu yumushni bajara olmaydi.",
+      "equivalent":"Bolaga ish buyur, Orqasidan o‘zing yugur."
+    },
+    {
+      "proverb":"Naughty boys sometimes make good men.",
+      "explanation":"Ba’zan quloqsiz boladan yaxshi insonlar yetishib chiqadi.",
+      "equivalent":"-"
+    },
+
+
+    {
+      "proverb":"An Englishman’s house is his castle.",
+      "explanation":"Inglizning uyi uning uchun qasrdir, inglizlar o‘z uylarida o‘zlari boshqaruvchi bo‘lib, boshqalar ularning ichki ishlariga aralashmasligiga va xavfsiz bo‘lishiga katta ahamiyat qaratishadi.",
+      "equivalent":"-"
+    },
+    {
+      "proverb":"My house is my castle.",
+      "explanation":"Mening uyim – mening qasrim, uning ichki ishlariga hech kim aralashmaydi, inson o‘z uyida qanday xohlasa, shunday yashaydi, o‘zini erkin his qiladi.",
+      "equivalent":"Begonaning dang‘illama saroyidan O‘zingning kulbayi vayronang yaxshi.\nTomi qiyshiq bo’lsayam, o‘z uyim yaxshi.\nO‘z uyim – o‘lan to‘shagim."
+    },
+
+
+    {
+      "proverb":"If Saint Paul’s day be fair and clear, it will betide a happy year.",
+      "explanation":"Agar Avliyo Paul kuni (25-yanvar) ob-havo yog‘ingarchiliksiz (yoqimli) va ochiq bo‘lsa, butun bir yil shunday bo‘ladi.",
+      "equivalent":"-"
+    },
+
+    {
+      "proverb":"God made the country, and man made the town.",
+      "explanation":"Xudo qishloqni yaratgan, inson esa shaharni, ya’ni qishloqda Xudo tomonidan yaratilgan tabiat o‘z tabiiyligini yo‘qotmaydi, shaharda esa tabiat insonlar tomonidan o‘zgartirilib, ko‘p narsalar inson tomonidan yaratiladi.",
+      "equivalent":"-"
+    },
+
+    {
+      "proverb":"It never rains but it pours.",
+      "explanation":"Bu yomg‘ir bo‘lib yog‘maydi, balki jala bo‘lib quyadi. Ya’ni yomonlik, baxtsizlik yoki omadsizlik bir kelsa, bittalab emas, qo‘sha-qo‘sha keladi.",
+      "equivalent":"Baxtsizlik kelsa, qo‘sha-qo‘sha keladi."
+    },
+
+    {
+      "proverb":"They that sow the wind shall reap the whirlwind.",
+      "explanation":"Shamol ekkan o‘rama shamol (aylana harakatlanib baland o‘ra hosil qiladigan qattiq shamol) yig‘ib oladi.",
+      "equivalent":"Nima eksang, shuni o‘rasan.\nNe eksang, shu ko‘karar.\nArpa ekkan arpa olar, Bug‘doy ekkan – bug‘doy."
+    },
+
+    {
+      "proverb":"Learn to creep before you leap.",
+      "explanation":"Sakrashdan oldin emaklashni o‘rganish lozim, ya’ni qiyin va murakkab ishni bajarishdan oldin oddiy ishni bajarishni bilib  olish lozim.",
+      "equivalent":"Yurishni bilmasang, sakrashga urinma."
+    },
+    {
+      "proverb":"Claw me, and I will claw thee(17).",
+      "explanation":"Meni qashlab qo‘y, keyin men seni qashliman; ya’ni menga yordam bersang, men ham senga yordam beraman.",
+      "equivalent":"Sizdan ugina, bizdan bugina.\nBugun – sizdan, Ertaga – bizdan.*\nBugun sizdan, Ertaga bizdan.",
+      "footnote":"17 Old variant of “you” / “You” so‘zining tarixiy varianti."
+    },
+    {
+      "proverb":"Neither here nor there.",
+      "explanation":"Bu yerda ham emas, u yerda ham emas, ya’ni gapirilayotgan narsa biror bir ahamiyatga ega emas, nazarda tutilayotgan ishning so‘zlovchi uchun umuman farqi yo‘q.",
+      "equivalent":"-"
+    },
+
+
+    {
+      "proverb":"A miserly father makes a prodigal son.",
+      "explanation":"Xasis otaning o‘g‘li pulni o‘ylamay sarflaydigan bo‘ladi. Chunki ota pulni o‘g‘li uchun yig‘adi, o‘g‘il esa pulni o‘zi ishlab topmagani sababli, o‘ylamay ishlataveradi.",
+      "equivalent":"-"
+    },
+    {
+      "proverb":"In a gambling house, there are no fathers and sons.",
+      "explanation":"Qimorxonada ota va o‘g‘il bir-birini tanimaydi.",
+      "equivalent":"-"
+    },
+    {
+      "proverb":"If the father is spotted, the son will be speckled.",
+      "explanation":"Agar otasida katta dog‘lar bo‘lsa, o‘glida mayda dog‘lar bo‘ladi, otasi yo‘lbars bo‘lsa, o‘gli it bo‘la olmaydi, ya’ni o‘g‘il har tomolama otasiga o‘xshaydi.",
+      "equivalent":"Olmadan – olma, dovchadan – dovcha.\nOlma tagiga olma tushadi.\nOtasining bolasi.\nOtadan – o‘g‘il, onadan – qiz.\nOtasi qulon otolmaganning bolasi quyon otolmas.\nQiz bersang, otasiga qarab ber, Qiz olsang, onasiga qarab ol.\nQo‘zi qo‘chqordan nishon, O‘g‘il – otadan."
+    },
+    {
+      "proverb":"If the father is a tiger, the son cannot be a dog.",
+      "explanation":"Otasi yo‘lbars bo‘lsa, o‘gli it bo‘la olmaydi; ya’ni o‘g‘il har tomolama otasiga oxshaydi.",
+      "equivalent":"Olmadan – olma, dovchadan – dovcha.\nOlma tagiga olma tushadi.\nOtasining bolasi.\nOtadan – o‘g‘il, onadan – qiz.\nOtasi qulon otolmaganning bolasi quyon otolmas.\nQiz bersang, otasiga qarab ber, Qiz olsang, onasiga qarab ol.\nQo‘zi qo‘chqordan nishon, O‘g‘il – otadan."
+    },
+    {
+      "proverb":"He is his father’s son.",
+      "explanation":"U otasining o‘g‘li, ya’ni otasiga o‘xshaydi; otasini bilsangiz o‘glini ham bilasiz.",
+      "equivalent":"Olmadan – olma, dovchadan – dovcha.\nOlma tagiga olma tushadi.\nOtasining bolasi.\nOtadan – o‘g‘il, onadan – qiz.\nOtasi qulon otolmaganning bolasi quyon otolmas.\nQiz bersang, otasiga qarab ber, Qiz olsang, onasiga qarab ol.\nQo‘zi qo‘chqordan nishon, O‘g‘il – otadan."
+    },
+    {
+      "proverb":"He is his mother’s son.",
+      "explanation":"U onasining o‘g‘li, ya’ni onasiga o‘xshaydi; onasini bilsangiz o‘g‘lini ham bilasiz.",
+      "equivalent":"Olmadan – olma, dovchadan – dovcha.\nOlma tagiga olma tushadi."
+    },
+    {
+      "proverb":"Like father, like son.",
+      "explanation":"Otasi qanday bo‘lsa, o‘g‘li ham shunday; otasini bilsangiz o‘glini ham bilasiz.",
+      "equivalent":"Olmadan – olma, dovchadan – dovcha.\nOlma tagiga olma tushadi.\nOtasining bolasi.\nOtadan – o‘g‘il, onadan – qiz.\nOtasi qulon otolmaganning bolasi quyon otolmas.\nQiz bersang, otasiga qarab ber, Qiz olsang, onasiga qarab ol.\nQo‘zi qo‘chqordan nishon, O‘g‘il – otadan."
+    },
+    {
+      "proverb":"Like mother, like daughter",
+      "explanation":"Onasi qanday bo‘lsa, qizi ham shunday; onasini bilsangiz qizini ham bilasiz.",
+      "equivalent":"Arqog‘ini ko‘rib bo‘zini ol, Onasini ko‘rib – qizini.\nEshigi yomonning uyiga borma, Onasi yomonning qizini olma.\nOlmadan – olma, dovchadan – dovcha.\nOlma tagiga olma tushadi.\nOna aqli – qiz aqli.\nOtadan – o‘g‘il, onadan – qiz.\nTerakka qarab, tol o‘sar.\nOnaga qarab, qiz o‘sar.\nQiz bersang, otasiga qarab ber, Qiz olsang, onasiga qarab ol."
+    },
+    {
+      "proverb":"Like parents, like children.",
+      "explanation":"Ota-ona qanday bo‘lsa, farzandlari ham shunday; farzandlar ota- onasiga o‘xshaydi.",
+      "equivalent":"Olmadan – olma, dovchadan – dovcha.\nOlma tagiga olma tushadi.\nDaraxtiga ko‘ra – mevasi, Ota-onasiga ko‘ra – bolasi."
+    },
+    {
+      "proverb":"She is her father’s daughter.",
+      "explanation":"U otasining qizi, ya’ni otasiga o‘xshaydi; otasini bilsangiz qizini ham bilasiz.",
+      "equivalent":"Olmadan – olma, dovchadan – dovcha.\nOlma tagiga olma tushadi.\nOtasining bolasi."
+    },
+    {
+      "proverb":"She is her mother’s daughter.",
+      "explanation":"U onasining qizi, ya’ni onasiga o‘xshaydi; onasini bilsangiz qizini ham bilasiz.",
+      "equivalent":"Arqog‘ini ko‘rib bo‘zini ol, Onasini ko‘rib – qizini.\nEshigi yomonning uyiga borma, Onasi yomonning qizini olma.\nOlmadan – olma, dovchadan – dovcha.\nOlma tagiga olma tushadi.\nOna aqli – qiz aqli.\nOtadan – o‘g‘il, onadan – qiz.\nTerakka qarab, tol o‘sar.\nOnaga qarab, qiz o‘sar.\nQiz bersang, otasiga qarab ber, Qiz olsang, onasiga qarab ol."
+    },
+    {
+      "proverb":"Virtue and happiness are mother and daughter.",
+      "explanation":"Ezgulik va baxt ona va qizdir; ya’ni ezgulik qilsangiz buning natijasida baxtga erishasiz.",
+      "equivalent":"Yaxshi uydan yaxshi butun chiqar.\nYaxshilik nur keltirar, Yomonlik – zulmat.\nYaxshilik eksa, esonlik o‘rar.\nYaxshilik to‘yga eltar, Yomonlik – go‘rga."
+    },
+
+    {
+      "proverb":"Virtue is praised by all, but practised by few.",
+      "explanation":"Yaxshilikni hamma maqtaydi, lekin kamchilik yaxshilik qiladi; ya’ni yaxshilik qilish hammani ham qo‘lidan kelavermaydi.",
+      "equivalent":"Yaxshilik har kimning qo‘lidan kelavermaydi."
+    },
+    {
+      "proverb":"All bread is not baked in one oven.",
+      "explanation":"Hamma non bitta pechda pishirilmaydi, ya’ni odamlar har xil bo‘ladi.",
+      "equivalent":"Besh qo‘l barobar emas.\nBesh barmoq barobar emas.\nBir ikki bo‘lmas, bit sirka bo‘lmas.\nKishi bilan kishi teng emas."
+    },
+    {
+      "proverb":"All good things must come to an end.",
+      "explanation":"Hamma yaxshi narsalarning ham oxiri bo‘lishi kerak, hech nima abadiy emas.",
+      "equivalent":"Har narsaning nihoyasi bor."
+    },
+    {
+      "proverb":"All lay loads on a willing horse.",
+      "explanation":"Hamma og‘ir yuk yaxshi ot ustida, ya’ni oqko‘ngil, samimiy, yaxshi odamlar hamma yukni o‘z bo‘yinlariga oladilar, boshqalarni qiynashni istamaydilar.",
+      "equivalent":"-"
+    },
+    {
+      "proverb":"He has not lost all who has one cast left.",
+      "explanation":"O‘yinda bitta bo‘lsa ham yurish gali bor bo‘lgan kishi hamma imkoniyatidan ayrilgan emas, uning bitta bo‘lsa ham imkoniyati mavjud.",
+      "equivalent":"-"
+    },
+    {
+      "proverb":"Human blood is all of a colour.",
+      "explanation":"Hamma insonning qoni bir xil rangda, ya’ni insonlarning kelib chiqishi va tarqalishi bitta odamga borib taqaladi, shuning uchun odamlar bir-birining xatolarini takrorlashlari yoki bir-biriga o‘xshashlari mumkin.",
+      "equivalent":"Hamma odam – bir odam, Hamma maxluq – bir maxluq."
+    },
+    {
+      "proverb":"It takes all sorts to make a world.",
+      "explanation":"Dunyo turli-tumanliklardan iborat, unda yaxshi ham, yomon ham, chiroyli ham, xunuk ham, aqlli ham, aqlsiz ham, baland ham, past ham bor.",
+      "equivalent":"Besh qo‘l barobar emas.\nBesh barmoq barobar emas.\nKishi bilan kishi teng emas.\nOlam rang-barangdir."
+    },
+    {
+      "proverb":"Believe not all that you see nor half what you hear",
+      "explanation":"Ko‘rganlaringni hammasiga ham, eshitganlaringni yarmiga ham ishonma, ya’ni, boshqacha qilib aytilsa, ko‘rganlaringdan ko‘ra eshitganlaringga kamroq ishon.",
+      "equivalent":"Ikki quloqdan ko‘ra, Bir ko‘zga ko‘proq ishon."
+    },
+    {
+      "proverb":"Don’t put all your eggs in one basket.",
+      "explanation":"Sizda bor bo‘lgan hamma tuxumni bir savatga solmang, bir qismini boshqa joyga qo‘ying; ya’ni kishi o‘zida mavjud bo‘lgan boylik, mablag‘ yoki kuchni faqat bir narsaga sarflash kerak emas, agar o‘sha narsa muvaffaqiyatsizlikka uchrasa, kishi hamma narsasidan birdan ayrilib qoladi.",
+      "equivalent":"-"
+    },
+    {
+      "proverb":"Friendship should not be all on one side.",
+      "explanation":"Do‘stlik faqat bir tarafdan bo‘lmaydi, u ikki taraflama bo‘ladi; ikkala odam ham bir-birini do‘st deb bilsagina orada do‘stlik paydo bo‘ladi.",
+      "equivalent":"Qars ikki qo‘ldan chiqar."
+    },
+    {
+      "proverb":"A jest is half a truth.",
+      "explanation":"Bitta hazil – yarimta haqiqat, ya’ni har qanday hazilning tagida oz bo‘lsa ham haqiqat bo‘ladi.",
+      "equivalent":"Hazilning tagida haqiqat yotadi."
+    },
+    {
+      "proverb":"A fault confessed is half redressed.",
+      "explanation":"Iqror bo‘lingan xatoga tan olinmagan xatodan ko‘ra kamroq jazo beriladi.",
+      "equivalent":"Xatosini tan olish – mardning ishi."
+    },
+    {
+      "proverb":"A good beginning is half the battle.",
+      "explanation":"Yaxshi boshlangan ishning yarmi qilingan hisoblanadi, ya’ni yaxshi boshlangan ish tez bitadi.",
+      "equivalent":"Avvali yaxshi bo‘lsa, oxiri shoyli bo‘lur.\nBismillohdan boshlangan ishning yakuni yaxshi bo‘lar."
+    },
+    {
+      "proverb":"A good lather is half the shave.",
+      "explanation":"Yaxshi ko‘pik soqol olishni osonlashtiradi va tezlashtiradi.",
+      "equivalent":"Ish quroling soz bo‘lsa, Mashaqqating oz bo‘lar."
+    },
+    {
+      "proverb":"A man without a wife half a man.\nA man without a wife is but half a man.",
+      "explanation":"Xotinsiz erkak yarimta erkakdir, ya’ni oila qurgan erkak oila qurmagan erkakdan ko‘ra baxtliroq bo‘ladi.",
+      "equivalent":"Xotinli ro‘zg‘or guldir, Xotinsiz ro‘zg‘or cho‘ldir."
+    },
+    {
+      "proverb":"A city that parleys is half gotten.",
+      "explanation":"Muzokara va kelishuv qilishni xohlagan shahar deyarli qo‘lga kiritilgan hisoblanadi, chunki uning jang qilishga kuchi yetmagani yoki boshqa sabablar tufayli dushman tomonning shartlariga ko‘nadi.",
+      "equivalent":"-"
+    },
+    {
+      "proverb":"A danger foreseen is half avoided.",
+      "explanation":"Oldindan ko‘rilgan xavfni (yoki uning bir qismini) oldini olish mumkin.",
+      "equivalent":"Kasallikni davolashdan ko‘ra uning oldini olish oson."
+    },
+    {
+      "proverb":"He that has an ill name is half hanged.",
+      "explanation":"“Yomon” degan nomga ega bo‘lgan kishi deyarli osilib o‘lgan bilan barobardir, ya’ni yomon nom olgan insonning ko‘ziga dunyo qorong‘u bo‘ladi.",
+      "equivalent":"Yomon otliq bo‘lding – o‘lding.\nUyat – o‘limdan qattiq."
+    },
+    {
+      "proverb":"Every cloud has a silver lining. ",
+      "explanation":"Har bir bulutning kumushrang cheti bo‘ladi, ya’ni har qanday qiyinchilikdan so‘ng yaxshi kunlar keladi.",
+      "equivalent":"Bir kun ming kun emas.\nBir yomonning yuz yaxshisi bor.\nBir yomonning qarshisida yuz yaxshi bor.\nBotar kunning otar tonggi bor.\nHar kechaning kunduzi, Har kunduzning kechasi bor.\nHar oqshomning bir tongi bor.\nOyning o‘n beshi qorong‘u bo‘lsa, O‘n beshi – yorug‘.\nO‘ttiz kun ro‘zaning bir kun hayiti bor."
+    },
+    {
+      "proverb":"Every dog is a lion at home.",
+      "explanation":"Har bir it o‘zining uyida she’rga aylanadi, ya’ni har qanday qo‘rqoq kishi o‘z uyida mardga aylanadi va aytganini qildiradi.",
+      "equivalent":"It ham o‘z ko‘chasida o‘zini sher bilar.\nO‘z joyida laycha ham sher."
+    },
+    {
+      "proverb":"Every man has a fool in his sleeve.",
+      "explanation":"Har bir odamning yengida aqlsizligi bo‘ladi, ya’ni hamma odam ham aqlsizlik qilib qo‘yishi mumkin.",
+      "equivalent":"Beayb – parvardigor.\nHar to‘kisda – bir ayb."
+    },
+    {
+      "proverb":"Every man is born a sinner.",
+      "explanation":"Har bir odam gunohkordir, ya’ni har qanday odamning xatosi va gunohi bor, hech kim begunoh farishta bo‘la olmaydi.",
+      "equivalent":"Beayb – parvardigor.\nHar to‘kisda – bir ayb.\nMendan bu gunoh, Sendan u gunoh."
+    },
+    {
+      "proverb":"Every mother thinks her own gosling a swan.",
+      "explanation":"Har bir g‘oz o‘z bolasini oqqush deb biladi, ya’ni hammaning o‘z bolasi o‘ziga shirin va yaxshi tuyuladi.",
+      "equivalent":"Qo‘ng‘iz bolasini oppog‘im der, Kirpi bolasini yumshog‘im der.\nTipratikan bolasini yumshog‘im der ekan.\nHar kimniki o‘ziga Oy ko‘rinar ko‘ziga."
+    },
+    {
+      "proverb":"Every family has a skeleton in the cupboard.",
+      "explanation":"Har bir oilaning javonida skeleti bo‘ladi, ya’ni har qanday oilaning bir kemtik joyi – kamchiligi bo‘ladi, hech qanday oila mukammal emas.",
+      "equivalent":"Beayb – parvardigor.\nHar to‘kisda – bir ayb."
+    },
+    {
+      "proverb":"Every law has a loophole.",
+      "explanation":"Har bir qonunda kichik bo‘lsa-da nojo‘ya harakatga yo‘l ochib beradigan imkon bo‘ladi.",
+      "equivalent":"-"
+    },
+    {
+      "proverb":"Every may be has a may not be.",
+      "explanation":"Har mumkinda bir mumkinmas bo‘ladi, ya’ni har qanday qoidada istisno holati ham bo‘ladi.",
+      "equivalent":"Har qoidada bir istisno bor."
+    },
+    {
+      "proverb":"Everyone is a kin to the rich man.",
+      "explanation":"Boy odamga hamma qarindosh, ya’ni boyliging ko‘p bo‘lsa yaqinlaring ko‘payadi.",
+      "equivalent":"Boyligim borida ana do‘st, Boyligim yo‘g‘ida qani do‘st.\nBoyning bojasi ko‘p, Qulning – xo‘jasi."
+    },
+    {
+      "proverb":"Every why has a wherefore.",
+      "explanation":"Har “nima uchun” degan savolning “shuning uchunki” degan javobi bor, ya’ni har qanday savolning javobi, har qanday ishning sababi mavjud.",
+      "equivalent":"Besabab oyoqqa tikan kirmas.\nSabab bilan savat aravaga chiqar.\nSababsiz oyoqqa tikan kirmas."
+    },
+    {
+      "proverb":"He that fears every bush must never go a birding.",
+      "explanation":"Har bir butadan qo‘rqadigan odam qush oviga chiqmasligi kerak, chunki u baribir qush tuta olmaydi. Ya’ni biror narsadan qo‘rqadigan kishi o‘sha narsaga bog‘liq ishlarni bajara olmaydi.",
+      "equivalent":"Chumchuqdan qo‘rqqan tariq ekmas."
+    },
+    {
+      "proverb":"It is not every question that deserves an answer.",
+      "explanation":"Har bir savol javob berish loyiq bo‘lavermaydi, ba’zi savollarga javob bo‘lsa ham, uni bermagan ma’qul.",
+      "equivalent":"-"
+    },
+    {
+      "proverb":"A black hen lays a white egg.",
+      "explanation":"Qora tovuq oq tuxum qo‘yadi, ya’ni ba’zida farzand o‘z ota-onasiga o‘xshamaydi, fozil ota-onaning noqobil farzandi yoki noqobil ota-onaning aqlli farzandi bo‘lishi mumkin.",
+      "equivalent":"Ahmoq otadan – aqlli farzand.\nAhmoqdan – chaqmoq, Donodan – ahmoq.\nG‘ayratlining bolasi tanbal bo‘lar."
+    },
+    {
+      "proverb":"As a hen with one chick.",
+      "explanation":"Bir jo‘jali tovuqdek, ya’ni bitta jo‘jasi bor tovuq uni juda asrab-avayladi, hech qayerga ishonmaydi; insonlar ham shunday.",
+      "equivalent":"Onaning ko‘ngli bolada, Bolaning ko‘ngli dalada."
+    },
+    {
+      "proverb":"The fine pullet shows its excellence from the egg.",
+      "explanation":"Yaxshi polapon o‘zining yaxshiligini tuxumlik davridan boshlab ko‘rsatadi, bola ham juda kichikligidan o‘zini qandayligini bildiradi.",
+      "equivalent":"Ayg‘ir qanday bo‘lsa, ot shunday.\nBo‘ladigan bola boshidan ma'lum.\nBo‘lar bola o‘n beshida Boshman, deydi.\nBo‘lmag‘uri o‘ttizida Yoshman, deydi.\nOdam bo‘lar yigit odatidan ma'lum, Tulpor bo‘lar qulun – muchasidan.\nOt bo‘lari qulunligidan belgili, Er bo‘lari lo‘laligidan belgili.\nTo‘qqizida qanday – to‘qsonida shunday."
+    },
+    {
+      "proverb":"The hen that lays the eggs knows the pain.",
+      "explanation":"Tuxum qo‘ygan tovuqqina uning og‘rig‘ini biladi, ya’ni qiyinchilikni boshidan o‘tkazgan odamgina shu qiyinchilik aslida qandayligini yaxshi biladi.",
+      "equivalent":"Dard tortmagan dard bilmas.\nKasal dardini sog‘ bilmas, Och qadrini to‘q bilmas.\nTanasi boshqa dard bilmas, Uyi boshqa g‘am bilmas.\nTanasi boshqa dard bilmas."
+    },
+    {
+      "proverb":"Kill not the goose that lays the golden egg.",
+      "explanation":"Oltin tuxum qo‘yadigan g‘ozingni o‘ldirma, ya’ni senga foyda keltiradigan narsaga ziyon yetkazma.",
+      "equivalent":"Qaytib kelar eshigingni  qattiq yopma.\nTuzini yeb, tuzlig‘iga tupurma.\nTovuqni yesang, bir yeysan, Tuxumini yesang, ming yeysan."
+    },
+    {
+      "proverb":"Better a century of tyranny than one day of chaos.",
+      "explanation":"Tartibsizliklarga to‘la bir kundan zolimlik bilan boshqarib tartibga solingan bir asr yaxshiroq, ya’ni tartibsizlik eng yomon narsadir.",
+      "equivalent":"-"
+    },
+    {
+      "proverb":"When poverty comes in at the door, love flies out of the window.",
+      "explanation":"Kambag‘allik eshikdan kirib kelsa, sevgi uchib chiqib ketadi; ya’ni kambag‘allik sevgini kuchsizlantiradi.",
+      "equivalent":"Muhabbat qorin to‘ydirmas."
+    },
+    {
+      "proverb":"The charitable give out at the door, and God puts in at the window.",
+      "explanation":"Kimki eshigidan xayr-ehson qilsa, Xudo uning derazasidan nasibasini kiritadi.",
+      "equivalent":"Sen birovga birni bersang, Xudo senga mingni beradi."
+    },
+    {
+      "proverb":"The sea refuses no river.",
+      "explanation":"Dengiz hech qanday daryoni rad etmay, qabul qilaveradi; ya’ni o‘lim hammani qa’bul qiladi, hech kimni rad etmaydi.",
+      "equivalent":"Ana go‘r, mana go‘r, Ishonmasang, borib ko‘r.\nBir boshga bir o‘lim.\nBir kun – tug‘ilmoq, Bir kun – o‘lmoq.\nBugun bo‘lsa ham shu o‘lim, Erta bo‘lsa ham shu o‘lim.\nO‘lim shoh-u gadoga barobar.\nO‘zakli jonda o‘lim bor.\nO‘lim – haq, meros – halol.\nO‘limdan qochib bo‘lmas."
+    },
+    {
+      "proverb":"Don’t make a mountain out of a molehill.",
+      "explanation":"Tuproq uyumidan tog‘ yasama, ya’ni kichik narsani bo‘rttirib katta ko‘rsatma.",
+      "equivalent":"Chumolidan fil yasama.\nPashshadan fil yasama."
+    },
+    {
+      "proverb":"Where bees are, there is honey.",
+      "explanation":"Ari qayerda bo‘lsa, o‘sha yerda asal bo‘ladi. Yoki, biror joyda gavjum odamlar yig‘ilsa, demak o‘sha yerda biror-bir foydali yoki kerakli narsa bor.",
+      "equivalent":"Ari bor joyda asal bor."
+    },
+    {
+      "proverb":"You scratch my back, I'll scratch yours.",
+      "explanation":"Mening orqamni qashlab qo‘y, keyin men senikini qashliman, ya’ni menga yordam bersang, men ham senga yordam beraman.",
+      "equivalent":"Sizdan ugina, bizdan bugina.\nBugun – sizdan, Ertaga – bizdan.\nBugun sizdan, Ertaga bizdan."
+    },
+    {
+      "proverb":"Fools rush in where angels fear to tread.",
+      "explanation":"Aqlsizlar shunday joylarga borishga shoshilishadiki, hatto u yerlarga farishtalar ham qadam bosishga qo‘rqishadi, chunki aqlsizlar hech qaysi ishni aql bilan o‘ylab qilmaydilar.",
+      "equivalent":"-"
+    },
+    {
+      "proverb":"He who waits for another man’s platter has a cold meal.",
+      "explanation":"Boshqa odamning laganini kutgan odam sovuq ovqat yeydi, ya’ni boshqa odamning ovqat yeb bo‘lishini kutgan odamga sovuq ovqat nasib qiladi.",
+      "equivalent":"Hammaning o‘z nasibasi bor."
+    },
+    {
+      "proverb":"Don’t measure another man’s foot by one’s own last.",
+      "explanation":"Boshqa odamning oyog‘ini o‘zingning qoliping bilan o‘lchama.",
+      "equivalent":"Dunyoni o‘z qariching bilan o‘lchama."
+    },
+    {
+      "proverb":"At the end of the game, the king and pawn go into the same bag.",
+      "explanation":"O‘yin (shaxmat) oxirida, shoh ham, piyoda ham bir qutiga tushadi, ya’ni insonlar ham bu dunyoni tark etganida, hamma bir xil qabrga kiradi.",
+      "equivalent":"Shoh-u gado bir qabrda yotar.\nO‘lim shoh-u gadoga barobar."
+    },
+    {
+      "proverb":"Golden ladies and girls all must, as chimney-sweepers, come to dust.",
+      "explanation":"Oddiy mo‘ri tozolovchi ayollar kabi yuqori tabaqali xonimlar va qizlar ham bir kun tuproqqa kirishadi.",
+      "equivalent":"Shoh-u gado bir qabrda yotar.\nO‘lim shoh-u gadoga barobar."
+    },
+    {
+      "proverb":"A penny saved is a penny gained.",
+      "explanation":"Tiyinni asrasang, yana tiyin keladi, ya’ni pulni asrab ishlatsa, insonning qiyin kunlarida ham yonida puli bo‘ladi.",
+      "equivalent":"Kumush kunga qo‘nsa, Oltin o‘z oyog‘i bilan kelar.\nPul pulni chaqiradi.\nPulni pul topar, Yo‘lni yo‘l topar."
+    },
+    {
+      "proverb":"We must not look for a golden life in an iron age.",
+      "explanation":"Biz temir asrida oltin hayotni izlashimiz kerak emas, ya’ni hokimiyatning boshqaruvi va siyosati yomon bo‘lsa ham, unga mos kelmaydigan hayotni izlamasligimiz kerak.",
+      "equivalent":"Oqimga qarshi suzgan cho‘kib o‘ladi."
+    },
+    {
+      "proverb":"A friend to all is friend to everyone.",
+      "explanation":"Hammaga birdek do‘st bo‘lishni istagan odam har bir odamga do‘stona munosabatda bo‘ladi.",
+      "equivalent":"-"
+    },
+    {
+      "proverb":"Every beggar is descended from some king, and every king is descended from some beggar.",
+      "explanation":"Har qanday gado birorta shohning avlodidan, har qanday shoh biror-bir gadoning avlodidan bo‘ladi.",
+      "equivalent":"-"
+    },
+    {
+      "proverb":"In a calm sea, every man is a pilot.",
+      "explanation":"Sokin dengizda har qanday odam dengizchi, ya’ni qiyinchiligi yo‘q bo‘lgan ishni bajaruvchisi ko‘p bo‘ladi.",
+      "equivalent":"Urush tugaganidan so‘ng botir ko‘payar."
+    },
+    {
+      "proverb":"Some people will never learn anything because they understand everything too soon.",
+      "explanation":"Ba’zi odamla hamma narsani chuqur o‘ylab ko‘rmasdan tez tushunishadi va shuning uchun ular hech narsani o‘rganishmaydi.",
+      "equivalent":"Dono o‘ylar, Nodon o‘ynar."
+    },
+    {
+      "proverb":"One for all, all for one.",
+      "explanation":"Bir kishi hamma uchun, hamma bir kishi uchun. Ya’ni insonlar bir-biriga yordam berishi kerak.",
+      "equivalent":"Bir kishi ming kishi uchun, Ming kishi bir kishi uchun.*"
+    },
+    {
+      "proverb":"One can’t help many, but many can help one.",
+      "explanation":"Bir odam ko‘p odamlarga yordam bera olmaydi, lekin ko‘p odamlar bir kishiga yordam bera oladi.",
+      "equivalent":"-"
+    },
+    {
+      "proverb":"Many drops make a shower.",
+      "explanation":"Ko‘p miqdordagi tomchilar jalani hosil qiladi, ya’ni mayda narsalar birgalashib katta narsaga aylanishi yoki ulkan narsalarni hosil qilishi mumkin.",
+      "equivalent":"Birin-birin ming bo‘lar, Toma-toma ko‘l bo‘lar.\nOz-ozdan o‘rganib, dono bo‘lur, Qatra-qatra yig‘ilib, daryo bo‘lur."
+    },
+    {
+      "proverb":"If you would be happy for a week take a wife; if you would be happy for a month kill a pig; but if you would be happy all your life plant a garden.",
+      "explanation":"Bir hafta xursand bo‘lishni istasang xotin ol; bir oy xursand bo‘lishni istasang, cho‘chqa so‘y; bir umr xursand bo‘lishni istasang, bog‘ yarat.",
+      "equivalent":"Umringdan uch kun qolsa ot ol, Bir kun qolsa – xotin."
+    },
+    {
+      "proverb":"My son is my son till he gets him a wife, but my daughter’s my daughter all the days of her life.",
+      "explanation":"O‘g‘lim uylangunicha mening o‘g‘limdir, lekin qizim umrining barcha kunlarida mening qizimdir, ya’ni o‘g‘il farzand uylanganidan keyin xotini va oilasi bilan bo‘lib ota-onasiga kam e’tibor qaratadi, qiz farzand esa ota-onasiga butun umr mehribonchilik qiladi.",
+      "equivalent":"-"
+    },
+    {
+      "proverb":"Better no doctor at all than three.",
+      "explanation":"Bir bemorni uchta shifokor davolaganidan ko‘ra umuman shifokorsiz davolangan yaxshiroq, chunki uchta shifokor uch xil davolaydi.",
+      "equivalent":"Karvonboshi ko‘p bo‘lsa, karvon buzilar."
+    },
+    {
+      "proverb":"A dwarf on a giant's shoulders sees the farther of the two.",
+      "explanation":"Bo‘yi darozning yelkasida o‘tirgan pakana ikki barobar uzoqni ko‘radi.",
+      "equivalent":"-"
+    },
+    {
+      "proverb":"Being an ass between two bundles of hay.",
+      "explanation":"Ikki hashak bog‘lam orasidagi eshak bo‘lish, ya’ni ikki yo‘lni orasida qolgan kishi qaysi birini tanlashga aqli yetmay qoladi.",
+      "equivalent":"Ikki o‘t orasida qoldi."
+    },
+    {
+      "proverb":"A bird in the hand is worth two in the bush.",
+      "explanation":"Qo‘lingdagi bitta qush butadagi ikkita qushga teng, ya’ni uzoqdagi narsaning senga foydasi tegishi dargumon, shu sababli qo‘lingda borini ehtiyot qil.",
+      "equivalent":"Yiroqdagi quyruqdan, Yaqindagi o‘pka yaxshi.\nYo‘ldagi ikki qushdan, Qo‘ldagi bir qush yaxshi."
+    },
+    {
+      "proverb":"A gift in hand is better than two promises.",
+      "explanation":"Ikkita quruq va’dadan ko‘ra qo‘lingdagi bitta sovg‘a yaxshiroq.",
+      "equivalent":"Va'da – quruq, bajarilsa – ulug‘.\nYuzta siz-bizdan, Bitta jiz-biz yaxshi."
+    },
+    {
+      "proverb":"A good horse cannot wear two saddles.",
+      "explanation":"Yaxshi ot ikkita egar kiya olmaydi, ya’ni yaxshi ot egasi sodiq bo‘ladi, begona egarni kiymaydi.",
+      "equivalent":"O‘ntaning yor-yori bo‘lguncha, Bittaning vafodori bo‘l."
+    },
+    {
+      "proverb":"A penny soul never came to two pence.",
+      "explanation":"Bir tiyinlik qalb hech qachon ikki tiyinlik bo‘lib qolmaydi, qalbi bo‘sh inson hech qachon bebaho qalb egasi bo‘lib qolmaydi.",
+      "equivalent":"Bukrini go‘r tuzatadi.\nIlon po‘stini tashlasa ham – ilon.\nIt itligini etar, To‘n etagini yirtar.\nKuchuk birla xo‘tikni qancha qilma tarbiya, It bo‘lur, eshak bo‘lur, bo‘lmas aslo odamiy.\nEchki yugurib kiyik bo‘lmas."
+    },
+    {
+      "proverb":"A word before is worth two behind.",
+      "explanation":"Orqadagi ikkita so‘zdan oldindagi bitta so‘z afzal, ya’ni insonni o‘zi yo‘qligida orqasidan gapirgandan ko‘ra uning noldida gapirish yaxshi.",
+      "equivalent":"G‘iybatkashning qozoni qaynamas.\nG‘iybat yaqinni yot qilar, Totuvni – araz."
+    },
+    {
+      "proverb":"A wise man hears one word and understands two.",
+      "explanation":"Aqlli odam bir so‘zni eshitib uning ikkita ma’nosini tushunar, ya’ni aqlli so‘zning tagida yotgan yashirin ma’nosini ham tushunar.",
+      "equivalent":"Aqlliga bir so‘z bas, Aqlsizga ming so‘z oz."
+    },
+    {
+      "proverb":"Better one house spoiled than two.",
+      "explanation":"Ikkita uy buzilganidan ko‘ra bitta uy buzilgani yaxshiroqdir, vayronagarchilikning ko‘pidan kami yaxshidir.",
+      "equivalent":"-"
+    },
+    {
+      "proverb":"Don't judge any(18) man until you have walked two moons in his moccasins.",
+      "explanation":"Biror kishiga uning oyoq kiyimida ikki oy yurib ko‘rmaguncha baho berma, ya’ni o‘zgalarga baho berishda shoshilish kerak emas, avval uning shartsharoitini yaxshi bilish lozim. ",
+      "equivalent":"O‘zgalarga baho berishga shoshilma.",
+      "footnote":"18 “Any” is used as the synonym of “one” in this proverb. / “Any” bu maqolda “bir” so‘ziga ma’nodosh sifatida qo‘llanilgan."
+    },
+    {
+      "proverb":"One volunteer is worth two pressed men.",
+      "explanation":"Ikkita majburan kelgan odamdan bitta o‘zi istab kelgan odam yaxshiroqdir, chunki o‘zi istab kelgan odam unga berilgan vazifani ikkita majburan kelgan odamdan ko‘ra tez va yaxshi bajaradi.",
+      "equivalent":"-"
+    },
+    {
+      "proverb":"One pair of heels is often worth two pairs of hands.",
+      "explanation":"Bir juft tovon ba’zan ikki juft qo‘lga teng kelar, ya’ni ba’zida qolib tortishgandan yoki jang qilgandan ko‘ra qochib qolgan yaxshiroq.",
+      "equivalent":"-"
+    },
+    {
+      "proverb":"One man cannot serve two masters.",
+      "explanation":"Bir kishi bir vaqtda ikkita xo‘jayinga xizmat qila olmaydi.",
+      "equivalent":"O‘ntaning yor-yori bo‘lguncha, Bittaning vafodori bo‘l."
+    },
+    {
+      "proverb":"One foot is better than two crutches.",
+      "explanation":"Ikkita qo‘ltiqtayoqdan bitta bo‘lsa ham o‘z oyog‘ingiz bo‘lgani yaxshi, ya’ni boriga shukur qilish kerak.",
+      "equivalent":"Boriga shukur qil, Yo‘g‘iga – sabr."
+    },
+    {
+      "proverb":"Eat a clove of garlic and you smell of garlic; eat two cloves and you smell the same.",
+      "explanation":"Bir bo‘lak sarimsoq yesangiz ham, ikki bo‘lak sarimsoq yesangiz ham sizdan sarimsoqning hidi keladi, ya’ni biror xato ish qilsangiza, u xato kichik bo‘lsa ham, katta bo‘lsa ham, baribir xato hisoblanadi.",
+      "equivalent":"Bo‘rining og‘zi yesa ham qon, Yemasa ham – qon."
+    },
+    {
+      "proverb":"Scatter with one hand, gather with two.",
+      "explanation":"Bir qo‘l bilan sochsang, ikki qo‘l bilan yig‘asan; ya’ni har narsani buzish oson, lekin uni tuzatish, o‘z holiga keltirish qiyin.",
+      "equivalent":"Buzish – oson, tuzish – qiyin.\nBuzishga o‘rganma, tuzishga o‘rgan."
+    },
+    {
+      "proverb":"One Englishman can beat three Frenchmen.",
+      "explanation":"Bir ingliz uchta fransuzni mag‘lub qiladi. Bu maqol inglizlarning qanchalik mag‘rur xalq ekanligini o‘zida aks ettiradi va, albatta, o‘z mazmunida mubolag‘ani saqlaydi.",
+      "equivalent":"-"
+    },
+    {
+      "proverb":"A coach and four may be driven through any Act of Parliament.",
+      "explanation":"Parlament tomonidan chiqarilgan har qanday qonun bilan bir arava va uning to‘rtta oti yo‘lga chiqishi mumkin, ya’ni izlagan odam har ishga imkon yoki sabab topiladi.",
+      "equivalent":"Izlagan imkon topar."
+    },
+    {
+      "proverb":"A horse stumbles that has four legs.",
+      "explanation":"To‘rtta oyog‘i bor ot ham qoqiladi, ya’ni eng yaxshi deb hisoblangan inson ham adashishi yoki xato qilishi mumkin.",
+      "equivalent":"Yaxshi ot ham qoqilar."
+    },
+    {
+      "proverb":"One for sorrow, two for mirth; three for a wedding, four for a birth.",
+      "explanation":"Yolg‘izlik odamni g‘amga cho‘mdiradi, juft bo‘lishsa baxt topishadi, uchta odam ishtirokida to‘y ham o‘tadi, to‘rtta odam bilan yana bir inson dunyoga keladi; ya’ni inson yolg‘iz yashay olmaydi, uning baxti boshqalar bilan birgaligidadir.",
+      "equivalent":"Yolg‘iz otning changi chiqmas, Changi chiqsa ham dong‘i chiqmas.\nYolg‘iz uyda qozon qaynamas.\nYolg‘izlik faqat Allohga xos."
+    },
+    {
+      "proverb":"One white foot – buy him; Two white feet – try him; Three white feet – look well about him; Four white feet, go without him.",
+      "explanation":"Otning bitta oyog‘i oq bo‘lsa, uni sotib ol; ikki oyog‘i oq bo‘lsa, sinab ko‘r; uchta oyog‘i oq bo‘lsa, uni sinchiklab tekshir; agar to‘rtta oyog‘i ham oq bo‘lsa, uni umuman sotib olma. Tarixda inglizlar otlarning qaysi oyog‘i oq bo‘lsa, o‘sha oyog‘i qorasidan ko‘ra nozik, sinuvchan bo‘ladi deb ishonishgan.",
+      "equivalent":"-"
+    },
+    {
+      "proverb":"One year’s seeding makes seven years’ weeding.",
+      "explanation":"Agar yovvoyi o‘tlarni bir yil urug‘ sochib ko‘payishiga yo‘l qo‘yib berilsa, ulardan yetti yilda ham qutulib bo‘lmaydi; ya’ni bir marta yomonlikni oldini olmaslik yana boshqa yomonliklarni dunyoga kelishiga sabab bo‘lishi mumkin.",
+      "equivalent":"-"
+    },
+    {
+      "proverb":"Saving one man’s life is better than building seven-storeyed temple.",
+      "explanation":"Bir odamni hayotini saqlab qolish yetti qavat ibodatxona qurgandan afzaldir.",
+      "equivalent":"Bir ko‘ngil imorati – Ming Makka ziyorati.\nMing Makka ziyorati,\nBir ko‘ngil imorati yaxshi."
+    },
+    {
+      "proverb":"You should know a man seven years before you stir his fire.",
+      "explanation":"Biror odamni olovini yoqish uchun uni yetti yildan buyon tanishingiz lozim, ya’ni biror insonga shaxsiy savollar berish yoki uning ichki kechinmalarini so‘rash uchun uni avvaldan tanigan bo‘lish kerak.",
+      "equivalent":"-"
+    },
+    {
+      "proverb":"A stitch in time saves nine.",
+      "explanation":"O‘z vaqtida tikilgan bitta chok yonidagi to‘qqizta chokni qutqarib qoladi, ushlab qoladi; ya’ni o‘z vaqtida qilingan ehtiyotkorlik ko‘plab muammolarni oldini oladi.",
+      "equivalent":"Ehtiyoting bo‘lsa, ehtiyojing bo‘lmas."
+    },
+    {
+      "proverb":"A cat has nine lives.",
+      "explanation":"Mushukning to‘qqizta joni bo‘ladi.",
+      "equivalent":"Mushukni joni qirqta."
+    },
+    {
+      "proverb":"A wonder lasts but nine days.",
+      "explanation":"Hayrat to‘qqiz kun davom etadi, ya’ni hayrat uzoq davom etmaydi, insonlar bir marta hayratlangan narsasidan keyin hayratlanmay qo‘yishadi.",
+      "equivalent":"-"
+    },
+    {
+      "proverb":"A single arrow is easily broken, but not ten in bundle.",
+      "explanation":"Bitta o‘q (kamon o‘qi nazarda tutilmoqda) osongina sinadi, lekin bir bog‘ qilingan o‘nta o‘q osonlikcha sinmaydi.",
+      "equivalent":"Birlashgan kuch yengilmas.\nBirlashgan – o‘zar, Birlashmagan – to‘zar.\nBirlashgan daryo bo‘lar, Tarqalgan irmoq bo‘lar.\nBirdan ikki yaxshi, Ikkidan uch yaxshi.\nKuch – birlikda.\nKo‘p ko‘padi, Oz cho‘kadi.\nKo‘pni demay kul bo‘ldim, G‘amg‘ussaga mo‘l bo‘ldim.\nIkki sulton bir sultonning sirtin yirtar."
+    },
+    {
+      "proverb":"Give a lie twenty-four hours’ start, and you can never overtake it.",
+      "explanation":"Yolg‘onning yoyilishiga yigirma to‘rt soat yo‘l qo‘ysang, uni hech qachon qaytarib ola olmaysan, ya’ni yolg‘on juda tez tarqaladi.",
+      "equivalent":"El og‘ziga elak tutib bo‘lmas"
+    },
+    {
+      "proverb":"A fool at forty is a fool indeed.",
+      "explanation":"Ahmoq qirq yoshida ham ahmoqligicha qolaveradi, unga aql kirmaydi.",
+      "equivalent":"Ahmoqning katta-kichigi bo‘lmas.\nTo‘qqizida bo‘lmagan aql, To‘qsonida ham bo‘lmas."
+    },
+    {
+      "proverb":"One reason is as good as fifty.",
+      "explanation":"Bitta sabab ham ellikta sababdek yaxshidir, ya’ni bitta bo‘lsa ham har narsaning sababi bo‘ladi va sababning nechtaligidan qat’iy nazar u asosli hisoblanadi.",
+      "equivalent":"-"
+    },
+    {
+      "proverb":"An angry man should count a hundred.",
+      "explanation":"Jahli chiqqan odam yuzgacha sanashi kerak, shunda u jahldan tushadi.",
+      "equivalent":"Jahling chiqsa burningni tishla."
+    },
+    {
+      "proverb":"One father is more than a hundred schoolmasters.",
+      "explanation":"Bitta ota yuzta muallimdan ko‘proq narsani o‘rgatadi.",
+      "equivalent":"Ota so‘zi – aql ko‘zi.\nOtalar so‘zi – aqlning ko‘zi."
+    },
+    {
+      "proverb":"What is told in the ear of a man is often heard a hundred miles away.",
+      "explanation":"Bitta odamning qulog‘iga aytilgan so‘z ko‘pincha yuz mil naridan eshitiladi.",
+      "equivalent":"El og‘ziga elak tutib bo‘lmas.\nIkki kishi bilgan sir – sir emas.\nDo‘sti ko‘p bilan siylash, Do‘sti oz bilan sirlash.\nO‘n og‘iz so‘z ming og‘iz bo‘lar."
+    },
+    {
+      "proverb":"A jug that has been mended lasts two hundred years",
+      "explanation":"Yamab qo‘yilgan ko‘za yana ikki yuz yil turadi, xizmat qiladi; ya’ni eski bo‘lsayam biror narsani tuzatib qo‘ysak, undan yana ancha foydalana olamiz.",
+      "equivalent":"Yamasang, yangi bo‘lar, Yangining tengi bo‘lar. "
+    },
+    {
+      "proverb":"One picture is worth ten thousand words.",
+      "explanation":"Bitta rasm o‘n mingta so‘zga teng, ya’ni ko‘p marotaba eshitgandan ko‘ra bir marta ko‘rgan yaxshi.",
+      "equivalent":"Bir ko‘rgan yuz eshitgandan yaxshi.\nYuz bor eshitgandan, Bir bor ko‘rgan yaxshi.\nMing marta eshitgandan, Bir marta ko‘rgan yaxshi."
+    },
+    {
+      "proverb":"Two is company, but three is none.",
+      "explanation":"Ikki odam birlashsa, yaxshi juftlik bo‘ladi, lekin uchinchisi qo‘shilsa, juftlik buziladi.",
+      "equivalent":"-"
+    },
+    {
+      "proverb":"As plain as two and two make four.",
+      "explanation":"Ikkiga ikki to‘rt bo‘lganidek ravshan; ikkiga ikkini qo‘shsa to‘rt bo‘lishini hamma bilganidek, biror bir hodisa hammaga aniq va ravshan ko‘rinib turibdi.",
+      "equivalent":"Oydek ravshan."
+    },
+    {
+      "proverb":"He that will thrive, must rise at five; he that has thriven, may lie till seven; but he that will never thrive, may lie till eleven.",
+      "explanation":"Muvaffaqiyatga erishib, ravnaq topishmoqchi bo‘lgan odam soat beshda uyg‘onishi kerak; ravnaq topgan odam soat yettigacha yotsa bo‘ladi; lekin umuman ravnaq topmoqchi bo‘lmagan odam soat o‘n birgacha uxlashi mumkin.",
+      "equivalent":"Erta turgan ish bitirar, Kech turgan ko‘p turtinar.\nErta turgan ish bitirar, Kech qolgan armon qilar.\nErta turgan horimas.\nErtalabki vaqt – naqdgina baxt.\nErta turgan kishini, Xudo qo‘llar ishini."
+    },
+    {
+      "proverb":"Fall down seven times, get up eight.",
+      "explanation":"Yetti marta yiqilsang, sakkiz marta o‘rningdan tur, ya’ni muvaffaqiytasizlikka uchradim deb tushkunlikka tushish kerak emas, yana o‘rindan turib harakat qilish kerak.",
+      "equivalent":"Yiqilgan turishni bilishi kerak."
+    },
+    {
+      "proverb":"Rain before seven, fine before eleven.\nRain at seven, fine at eleven.",
+      "explanation":"Soat yettidan oldin yomg‘ir yog‘adi, soat o‘n birgacha havo ochilib ketadi. Bu maqol Angliya havosining juda tez o‘zgarib turishini o‘zida aks ettiradi.",
+      "equivalent":"-"
+    },
+    {
+      "proverb":"Six feet of earth make all men equal.",
+      "explanation":"Yerning olti fut chuqurligida hamma odam tengdir; ya’ni boy ham, gado ham, shoh ham, dehqon ham bir xil qabrga kiradi.",
+      "equivalent":"Shoh-u gado bir qabrda yotar.\nO‘lim shoh-u gadoga barobar."
+    },
+    {
+      "proverb":"Once a __, always a __.",
+      "explanation":"Bir marta nimadir qilgan odam, shu ishni doim qiladi. Bu ingliz maqoli ko‘plab variantlarga ega bo‘lgani uchun lug‘atlarda “__” belgi bilan keladi va bu maqol salbiy holatni ham, ijobiy holatni ham ifodalay oladi.",
+      "equivalent":"O‘rgangan ko‘ngil o‘rtansa qo‘ymas.\nTarki odat – amri mahol.\nBir bo‘lgan ikki bo‘lmay qolmas, Ikki bo‘lgan uch bo‘lmay qolmas, Uch bo‘lgan doim bo‘lmay qolmas."
+    },
+    {
+      "proverb":"Once a priest, always a priest.",
+      "explanation":"Bir marta ruhoniylik qilgan odam, doim ruhoniydir, u cherkovdan chiqqanda ham ruhoniy bo‘lib qolaveradi.",
+      "equivalent":"-"
+    },
+    {
+      "proverb":"Once a knave, always a knave.",
+      "explanation":"Bir marta vijdonsizlik qilgan odam, doim vijdonsizlik qilaveradi, undan boshqa narsani kutish foydasiz.",
+      "equivalent":"O‘rgangan ko‘ngil o‘rtansa qo‘ymas.\nTarki odat – amri mahol.\nBir bo‘lgan ikki bo‘lmay qolmas, Ikki bo‘lgan uch bo‘lmay qolmas, Uch bo‘lgan doim bo‘lmay qolmas."
+    },
+    {
+      "proverb":"Once bitten, twice shy.",
+      "explanation":"Bir marta tishlangan, ikki marta uyaladi yoki qo‘rqib o‘zini oladi, ya’ni bir marta qoqilgan odam, keyingi gal ehtiyotini qiladi.",
+      "equivalent":"Ilon chaqqan arg‘amchidan qo‘rqar.\nKo‘r hassasini bir marta yo‘qotadi.\nTuzoqdan bir marta qo‘rqqan qush, Qirq yilgacha ayri yog‘ochga qo‘nmas.\nOg‘zi kuygan qatiqni ham puflab ichar."
+    },
+    {
+      "proverb":"Once a use and ever custom.",
+      "explanation":"Bir marta qilib ko‘rgan ish doimiy odatga aylanadi, ya’ni odam bir ishni qilishga qo‘rqsa-da, uni bir marotaba qilib ko‘rganidan so‘ng, mazkur narsaga ko‘nikib ham qoladi.",
+      "equivalent":"Bir qilgan – madad, Ikki qilgan - odat."
+    },
+    {
+      "proverb":"He that once deceives is ever suspected.",
+      "explanation":"Bir marta aldab ketgan odamdan doim shubhalanishadi.",
+      "equivalent":"Yolg‘onchiga ishonch yo‘q.\nYolg‘onchi to‘rga bir o‘tar, Ikkinchi o‘tmas.*\nYolg‘onchining rost so‘zi ham yolg‘on."
+    },
+    {
+      "proverb":"Better be first in a village than second at Rome.",
+      "explanation":"Rimda ikkinchi bo‘lgandan ko‘ra, qishlog‘da birinchi bo‘lganing yaxshi, ya’ni katta joylarda ikkinchi darajali odam bo‘lgandan ko‘ra, kichik joylarda birinchi darajali odam bo‘l.",
+      "equivalent":"-"
+    },
+    {
+      "proverb":"The first time, a novice; the second time, an adept.",
+      "explanation":"Birinchi martada yangi havaskor; ikkinchi martada mohir usta. Ya’ni bir ishni ilk bora qilganizda havaskor bo‘lib, uni yaxshi bajara olmasangiz, ikkinchi martada bu ishni mohirona qilasiz.",
+      "equivalent":"Oz-oz o‘rganib usta bo‘lur."
+    },
+    {
+      "proverb":"The first day a guest, the second day a guest, the third day a calamity.",
+      "explanation":"Kelgan mehmon birinchi kun – mehmon, ikkinchi kun – mehmon, uchinchi kun – musibat.",
+      "equivalent":"Birinchi kun mehmon – oltin mehmon, Ikkinchi kun – kumush, Uchinchi kun – mis, Uchdan o‘tsa – pes.\nMehmonning izzati uch kunda bitadi.\nQo‘noq bir kun qo‘nsa – kut, Ikki kun qo‘nsa – yut."
+    },
+    {
+      "proverb":"First try, then trust.",
+      "explanation":"Avval sinab ko‘r, keyin ishon.",
+      "equivalent":"Sinamagan do‘stingga sir aytma.\nSinalmagan do‘stga sir aytma.\nSinalmagan otning sirtidan o‘tma."
+    },
+    {
+      "proverb":"First think, then speak.",
+      "explanation":"Birinchi o‘ylab olib, keyin gapirish kerak.",
+      "equivalent":"Avval o‘yla, keyin so‘yla.\nIkkov oldida bilib ayt, Uchov oldida o‘ylab ayt.\nKecha yotib o‘yla, Erta turib so‘yla."
+    },
+    {
+      "proverb":"First deserve and then desire.",
+      "explanation":"Qo‘lga kiritishni xohlagan narsaga inson avval loyiq bo‘lishi kerak.",
+      "equivalent":"-"
+    },
+    {
+      "proverb":"First catch your hare, then cook him.",
+      "explanation":"Avval quyonni ushlash kerak, keyin uni pishirasan. Ya’ni, hali qo‘lga kiritilmagan narsani biror narsa qilib bo‘lmaydi, avvalo uni qo‘lga kiritish lozim.",
+      "equivalent":"Tug‘ilmagan buzoqqa qoziq qoqma."
+    },
+    {
+      "proverb":"Between two stools one falls to the ground.\nBetween two stools one goes to the ground.",
+      "explanation":"Ikkita stolni orasida o‘tirgan odam yerga yiqiladi, ya’ni ikki narsani bir paytda qilaman degan odam, muvaffaqiyatsizlikka uchraydi.",
+      "equivalent":"Ikki quyonni quvlagan birini ham tutolmas.\nIkki kemaning boshini tutgan g‘arq bo‘lar.\nBir kesak bilan ikki chumchuqni urib bo‘lmas.\nBir kesak bilan ikki qarg‘ani urib bo‘lmas.\nBir qo‘ltiqqa ikki tarvuz sig‘mas."
+    },
+    {
+      "proverb":"Good riding at two anchors, men have told, for if one breaks the other may hold.",
+      "explanation":"Aytishlaricha, ikki qoziqqa suyanib ish qilish yaxshi, chunki biri sinsa, ikkinchisi ushlab qoladi; ya’ni bitta narsaga ishonib qolish yaramaydi, zaxira bo‘lishi kerak.",
+      "equivalent":"-"
+    },
+    {
+      "proverb":"If two ride on a horse, one must ride behind.",
+      "explanation":"Agar ikkita odam bir otni minsa, bittasi orqada o‘tirishi kerak, ya’ni har qanday ishda boshqaruvchi bitta bo‘lishi kerak.",
+      "equivalent":"Ikki qo‘chqor kallasi bir qozonda qaynamas.\nBir qozonda ikki qo‘chqorning kallasi qaynamaydi."
+    },
+    {
+      "proverb":"If two men ride on a horse, one must ride behind.",
+      "explanation":"Agar ikkita odam bir otni minsa, bittasi orqada o‘tirishi kerak, ya’ni har qanday ishda boshqaruvchi bitta bo‘lishi kerak.",
+      "equivalent":"Ikki qo‘chqor kallasi bir qozonda qaynamas.\nBir qozonda ikki qo‘chqorning kallasi qaynamaydi."
+    },
+    {
+      "proverb":"It takes two to make a bargain.",
+      "explanation":"Kelishuv yoki savdo ikki kishi o‘rtasida qilinadi, bitta odam o‘zi qila olmaydi.",
+      "equivalent":"Qars ikki qo‘ldan chiqadi."
+    },
+    {
+      "proverb":"It takes two to make a quarrel.",
+      "explanation":"Bahs yoki janjal ikki kishi o‘rtasida vujudga keladi, bir kishi uni o‘zi qila olmaydi.",
+      "equivalent":"Qars ikki qo‘ldan chiqadi."
+    },
+    {
+      "proverb":"Kill two birds with one stone.",
+      "explanation":"Bitta tosh bilan ikki quyonni o‘ldir. Bu maqol bir harakat bilan ikkita yumushni yoki maqsadni amalga oshirishni anglatadi.",
+      "equivalent":"Bir o‘q bilan ikki quyonni urdi."
+    },
+    {
+      "proverb":"Two wrongs don’t make a right.",
+      "explanation":"Ikkita xato qo‘shilib bitta to‘g‘ri bo‘la olmaydi.",
+      "equivalent":"-"
+    },
+    {
+      "proverb":"Two of a trade never agree.",
+      "explanation":"Bir sohadagi kishilar doim o‘zini shu sohadagi boshqa kishilardan yaxshi deb biladi, shuning uchun boshqalar bilan fikri bir joydan chiqishi juda qiyin bo‘ladi.",
+      "equivalent":"-"
+    },
+    {
+      "proverb":"Two halves become one.",
+      "explanation":"Ikki yarim bir (butun) bo‘ladi. Ikkita yarim narsani qo‘shsa, bitta butun narsa hosil bo‘ladi, yoki ikki ko‘ngli yarim insonlar birlashib (bir-birini sevib yoki qadrlab) bir butun bo‘lishadi, bir-biriga dalda beradi yoki baxtli qiladi.",
+      "equivalent":"Ikki yarim – bir butun.\nIkki yorti – bir butun."
+    },
+    {
+      "proverb":"Two heads are better than one.",
+      "explanation":"Ikkita bosh bitta boshdan yaxshiroq, chunki ikkita boshdan bitta boshni aqli yetmagan fiklar chiqishi mumkin.",
+      "equivalent":"Bir kalla – kalla, Ikki kalla – tilla.\nBir bosh – bir bosh, Ikki bosh – ikki bosh.\nBir bosh – balo bosh, Ikki bosh – mardona bosh.\nIkki odam – bir odamning tangrisi."
+    },
+    {
+      "proverb":"Two blacks don’t make a white.",
+      "explanation":"Ikkita qora birikib, bitta oq bo‘la olmaydi, ya’ni ikkita yomon qo‘shilib bitta yaxshi bo‘la olmaydi.",
+      "equivalent":"-"
+    },
+    {
+      "proverb":"Two dogs over one bone seldom agree.",
+      "explanation":"Ikki kuchuk kamdan-kam bitta suyakni kelishib yeydi, ya’ni insonlar ham odatda bir narsani ustida kelishishi juda qiyin bo‘ladi, shu sababli ular o‘sha narsani talashishadi.",
+      "equivalent":"Ikki yomon qo‘shilsa, keng dunyoga sig‘ishmas."
+    },
+    {
+      "proverb":"Two things do prolong thy life: a quiet heart and a loving wife.",
+      "explanation":"Ikki narsa hayotni uzaytiradi: xotirjam yurak va sizni sevadigan xotin.",
+      "equivalent":"Xotin yaxshi – er yaxshi.\nErni er qiladigan ham – xotin, Qaro yer qiladigan ham – xotin.\nQozonda jiz-biz, Ko‘rpada siz-biz."
+    },
+    {
+      "proverb":"While two dogs are fighting for a bone, a third runs away with it.",
+      "explanation":"Ikki it bir suyakni talashib urushsa, uchinchisi shu suyakni olib qochib ketadi, odamlarda ham shunday holat yuz beradi.",
+      "equivalent":"-"
+    },
+    {
+      "proverb":"When two tigers fight, one is sure to be hurt.",
+      "explanation":"Ikki yo‘lbars jang qilsa, albatta bittasi jarohatlanadi. Ya’ni ikki kuchli jang qilsa, albatta bittasi jarohatlanadi.",
+      "equivalent":"Ikki shunqor urishsa, Bir qarg‘aga yem tushar.\nUrush qurbonsiz bo‘lmas."
+    },
+    {
+      "proverb":"There are two sides to every(19) question.",
+      "explanation":"Har bir savolning ikki tomoni bo‘ladi, ya’ni ikkita ma’nosi: ko‘rinib turgan asl ma’nosi va uning yashirin tag ma’nosi yoki maqsadi bo‘ladi.",
+      "equivalent":"-",
+      "footnote":"19 Here “every” means “one”. / Bu yerda “every” so‘zi “one” so‘ziga teng ma’noni ifodalaydi."
+    },
+    {
+      "proverb":"It takes three generations to make a gentleman.",
+      "explanation":"Oliy tabaqali degan nomga ega bo‘lish uchun uch avlod oliy tabaqali bo‘lishi kerak, ya’ni bir kishining ota-bobosi oliy tabaqadan bo‘lmasa, uni oliy tabaqali deyishmaydi.",
+      "equivalent":"-"
+    },
+    {
+      "proverb":"Three removals are as bad as a fire.",
+      "explanation":"Uch marta ko‘chgan odam uyiga o‘t tushgan odamdek aziyat chekadi, uning narsalari yoki jihozlar ko‘chgani sari eskirib, ishdan chiqaveradi.",
+      "equivalent":"Bir ko‘chgan – ikki talanar.\nBir ko‘chsang – bir talanasan, Ikki ko‘chsang – ikki.\nIkki ko‘chgan – bir talangan.\nKambag‘al bo‘lsang, ko‘chib ko‘r, Boy bo‘lsang – o‘lib."
+    },
+    {
+      "proverb":"Three things are not to be trusted: a cow's horn, a dog‘s tooth, and a horse's hoof.",
+      "explanation":"Uchta narsaga ishonib bo‘lmaydi: sigirning shoxiga, itning tishiga, va otning tuyog‘iga; chunki sigirning suzishini, itning tishlashini va otning tepib yuborishini oldindan bilib bo‘lmaydi.",
+      "equivalent":"-"
+    },
+    {
+      "proverb":"Of three main roads, take the middle one.",
+      "explanation":"Uchta asosiy yo‘ldan bittasini tanlash kerak bo‘lsa, o‘rtadagini tanlash kerak, har narsaning o‘rtadagisi yaxshiroq yoki xavfsizroq bo‘ladi. ",
+      "equivalent":"-"
+    },
+    {
+      "proverb":"Nine tailors make a man.",
+      "explanation":"To‘qqiz tikuvchi bir bo‘lib bitta odamni kiyintirsa, uning tashqi ko‘rinishi a’lo darajada bo‘ladi, insonga odatda tashqi ko‘rinishga qarab baho berishadi, va bu tikuvchilarning ishiga bog‘liq.",
+      "equivalent":"-"
+    },
+    {
+      "proverb":"The buyer has need of a hundred eyes, the seller of but one.\nThe buyer needs a hundred eyes, the seller but one.",
+      "explanation":"Xaridorning yuzta ko‘zi bo‘lishi kerak, chunki sotib olayotgan narsasini sinchiklab ko‘rib, boshqalari bilan solishtirib olishi kerak, sotuvchining ko‘zi bitta bo‘lishi kerak, chunki u ishida adashmay pulni to‘g‘ri hisoblab olishi kerak.",
+      "equivalent":"-"
+    },
+    {
+      "proverb":"A thousand cranes in the air are not worth one sparrow in the fist.",
+      "explanation":"Changaldagi bitta chumchuq osmondagi mingta turnadan yaxshidir, ya’ni qo‘lingda bor oddiy narsa uzoqdagi mingta yaxshi narsadan afzal, chunki qo‘lingdagi narsaning foydasi tegadi, uzoqdaginiki esa tegmaydi.",
+      "equivalent":"Yiroqdagi quyruqdan, Yaqindagi o‘pka yaxshi.\nYo‘ldagi ikki qushdan, Qo‘ldagi bir qush yaxshi."
+    },
+    {
+      "proverb":"Four eyes see more than two.\nFour eyes see better than two.",
+      "explanation":"To‘rtta ko‘z ikkita ko‘z ko‘rgan narsadan ko‘prog‘ini ko‘radi. To‘rtta ko‘z ikkita ko‘zdan yaxshiroq ko‘radi",
+      "equivalent":"Bir kalla – kalla, Ikki kalla – tilla.\nBir bosh – balo bosh, Ikki bosh – mardona bosh.\nBir bosh – bir bosh, Ikki bosh – ikki bosh.\nIkki odam – bir odamning tangrisi."
+    },
+    {
+      "proverb":"Hear twice before you speak once.",
+      "explanation":"Bir marta gapirishdan avval ikki marta eshit.",
+      "equivalent":"Bir so‘zlab, tingla qirq ikki.\nOg‘iz – bir, quloq – ikki, Bir so‘zlab, tingla qirq ikki."
+    },
+    {
+      "proverb":"Measure seven times, cut once.",
+      "explanation":"Yetti marta o‘lchab, keyin bir kes; ya’ni bir ishni qilishdan avval ko‘p marotaba o‘ylab ko‘r.",
+      "equivalent":"Yetti o‘lchab bir kes.\nSakkiz o‘lchab bir kes.\nSanamay sakkiz dema, O‘ylamay – o‘ttiz.\nO‘n qatim o‘yla, Bir qatim so‘yla."
+    },
+    {
+      "proverb":"Measure thrice and cut once.\nMeasure twice, cut once.",
+      "explanation":"Uch / ikki marta o‘lchab, keyin bir kes, ya’ni bir ishni qilishdan avval ko‘p marotaba o‘ylab ko‘r.",
+      "equivalent":"Yetti o‘lchab bir kes.\nSakkiz o‘lchab bir kes.\nSanamay sakkiz dema, O‘ylamay – o‘ttiz.\nO‘n qatim o‘yla, Bir qatim so‘yla."
+    },
+    {
+      "proverb":"Score twice before you cut  once.",
+      "explanation":"Ikki marta o‘lchab, keyin bir kes; ya’ni bir ishni qilishdan avval ko‘p marotaba o‘ylab ko‘r.",
+      "equivalent":"Yetti o‘lchab bir kes.\nSakkiz o‘lchab bir kes.\nSanamay sakkiz dema, O‘ylamay – o‘ttiz.\nO‘n qatim o‘yla, Bir qatim so‘yla."
+    },
+    {
+      "proverb":"Think twice, cut once.",
+      "explanation":"Ikki marta o‘ylab, keyin bir kes; ya’ni bir ishni qilishdan avval ko‘p marotaba o‘ylab ko‘r.",
+      "equivalent":"Yetti o‘lchab bir kes.\nSakkiz o‘lchab bir kes.\nSanamay sakkiz dema, O‘ylamay – o‘ttiz.\nO‘n qatim o‘yla, Bir qatim so‘yla."
+    },
+    {
+      "proverb":"Three may keep a secret, if two of them are dead.",
+      "explanation":"Uchta odam bitta sirni saqlay oladi, agarda ulardan ikkitasi o‘lgan bo‘lsa; ya’ni sirni bittadan ortiq odam bilsa, uni boshqalar ham biladi va uning sirligi qolmaydi.",
+      "equivalent":"Do‘sti ko‘p bilan siylash, Do‘sti oz bilan sirlash.\nIkki kishi bilgan sir – sir emas.\nUch kishi bilgan sirni Yuz kishi bilar."
+    },
+    {
+      "proverb":"Keep a thing seven years and you’ll always find a use for it.",
+      "explanation":"Biror narsani yetti yil saqla, shu narsa biror ishga yarab qoladi; ya’ni asrab qo‘yilgan narsaning biror kun foydasi tegadi.",
+      "equivalent":"Bir kerak bo‘lgan narsa Ikki ham kerak bo‘lar.\nSaqla somonni, kelar zamoni."
+    },
+    {
+      "proverb":"Six hours’ sleep for a man, seven for a woman, and eight for a fool.",
+      "explanation":"Erkak olti soat uxlasa yetadi, ayol esa yetti soat uxlashi kerak, va ahmoq sakkiz soat uxlaydi; chunki erkak ishlab oila boqishi, ayol esa uy ro‘zg‘orini qilishi kerak, ahmoq esa hech narsani qilishga shoshmaydi va vaqtini uyqu bilan o‘tkazadi.",
+      "equivalent":"Uyqu o‘lim bilan teng.\nUyqu – g‘aflat, mehnat – rohat."
+    },
+    {
+      "proverb":"A sluggard takes a hundred steps because he would not take one in due time.",
+      "explanation":"Erinchoq va dangasa odam o‘z vaqtida bir qadam tashlamagani sababli keyin yuz qadam yurishga majbur bo‘ladi.",
+      "equivalent":"Ahmoq kalla oyoq og‘ritar.\nAhmoq o‘z oyog‘idan horiydi.\nYalqov – o‘ziga yov."
+    },
+    {
+      "proverb":"Feast today and fast tomorrow.",
+      "explanation":"Bugun bayram qilib boringni yeb tugatsang, ertaga ro‘za tutasan, och qolasan.",
+      "equivalent":"Bugun yupun, ertaga butun.\nBugun – yupun, ertaga – butun.\nBugun yedim – yetdim, Erta yedim – o‘tdim.\nHamma hayitga chiqqanda, Xumga kirib yotdim.\nQirib yesang, qirq kunga yetar, O‘yib yesang – o‘n kunga."
+    },
+    {
+      "proverb":"Jam tomorrow and jam yesterday, but never jam today",
+      "explanation":"Ertaga murabbo bo‘ladi, kecha bor bo‘lgan, lekin hech qachon bugun bor bo‘lmaydi, ya’ni ba’zi narsalarga boshqa kuni deb va’da beriladi, lekin ular umuman amalga oshirilmaydi.",
+      "equivalent":"Bermasning ertasi ko‘p.\nXudoning ertasi ko‘p"
+    },
+    {
+      "proverb":"He that falls today may rise tomorrow.",
+      "explanation":"Bugun yiqilgan yoki yutqazgan ertaga o‘rnidan turib, o‘nglanishi va g‘alaba qozonishi mumkin.",
+      "equivalent":"Bir gal yutsang, bir gal yutqazasan."
+    },
+    {
+      "proverb":"If today will not, tomorrow may.",
+      "explanation":"Biror ish bugun amalga oshmasa, ertaga amalga oshishi mumkin.",
+      "equivalent":"Bugun bitmagan ertaga bitar."
+    },
+    {
+      "proverb":"What Manchester says today, the rest of England says tomorrow.",
+      "explanation":"Manchester bir narsani bugun aytsa, Angliyaning qolgan qismi shuni ertaga aytadi; ya’ni sanoat ilk bora Angliyaning mazkur shahrida tez rivojlangan paytlarda barcha yangiliklar shu shaharda bo‘lar edi, Angliyaning boshqa qismi sanoatning barcha sohasida Manchesterdan keyinda turar edi.",
+      "equivalent":"-"
+    },
+    {
+      "proverb":"Never put off till tomorrow what you can do today.\nNever put off till tomorrow what can be done today.",
+      "explanation":"Bugun qila oladigan ishingni ertangi kunga yoki keyinga qoldirma, o‘z vaqtida bajar.",
+      "equivalent":"Bugungi ishni ertaga qo‘yma.\nQolgan ishga qor yog‘ar."
+    },
+    {
+      "proverb":"Think today and speak tomorrow.",
+      "explanation":"Bugun o‘yla va ertaga gapir; ya’ni gapirishdan avval o‘ylash lozim.",
+      "equivalent":"Avval o‘yla, keyin so‘yla.\nIkkov oldida bilib ayt, Uchov oldida o‘ylab ayt.\nKecha yotib o‘yla, Erta turib so‘yla."
+    },
+    {
+      "proverb":"Stuff today and starve tomorrow.",
+      "explanation":"Bugun boringni to‘yib yeb tugatsang, ertaga ro‘za tutasan, och qolasan.",
+      "equivalent":"Bugun yupun, ertaga butun.\nBugun yedim – yetdim, Erta yedim – o‘tdim.\nHamma hayitga chiqqanda, Xumga kirib yotdim.\nQirib yesang, qirq kunga yetar, O‘yib yesang – o‘n kunga."
+    },
+    {
+      "proverb":"April showers bring forth May flowers.",
+      "explanation":"Aprel oyida quyib yog‘gan yomg‘irlar may oyida gullarning qiyg‘os ochilishiga sabab bo‘ladi. Bu maqol Angliyaning tabiati va iqlimini o‘zida aks ettiradi.",
+      "equivalent":"-"
+    },
+    {
+      "proverb":"So many mists in March, so many frosts in May.",
+      "explanation":"Mart oyida qancha ko‘p tuman bo‘lsa, may oyida shuncha qirov tushadi. Bu maqol Angliyaning tabiati va iqlimini o‘zida aks ettiradi.",
+      "equivalent":"-"
+    },
+    {
+      "proverb":"A swarm in May is worth a load of hay; a swarm in June is worth a silver spoon; but a swarm in July is not worth a fly.",
+      "explanation":"May oyidagi asalari galasi ancha-muncha asal (gul changi, nektar) yig‘adi, iyunda ular bir kumush qoshiqqa loyiq asal yig‘a oladi; lekin iyulda ular aytarli hech narsa yig‘a olmaydi, shuning uchun ular bitta pashshachalik bo‘lmaydi.",
+      "equivalent":"-"
+    },
+    {
+      "proverb":"East is east, and west is west.",
+      "explanation":"Sharq – bu sharq, g‘arb – bu ga’rb, ikki turga oid narsa yoki tushunchalarni bir-biri bilan adashtirish kerak emas va tamoman bir-biriga zid bo‘lgan narsalar bir-biriga mos kelmaydi.",
+      "equivalent":"Bu eshak – o‘sha eshak, To‘qimi boshqa eshak."
+    },
+    {
+      "proverb":"East, west, home’s best.\nEast or west, home is best.",
+      "explanation":"U sharqda bo‘ladimi, yoki g‘arbda bo‘ladimi, dunyoda yurtlar ko‘p, lekin har bir insonga o‘z uyi, tug‘ilib o‘sgan vatani azizdir.",
+      "equivalent":"O‘z uyim – o‘lan to‘shagim.\nHar qush o‘z uyasiga qarab uchar.\nOna yerning tuprog‘i – ona sutidan aziz.\nOna yurting – oltin beshiging."
+    },
+    {
+      "proverb":"Cloudy mornings turn to clear afternoons.",
+      "explanation":"Tong bulutli bo‘lsa, tushdan so‘ng havo ochilib ketadi. Bu maqol Angliya havosining juda tez o‘zgarib turishini o‘zida aks ettiradi.",
+      "equivalent":"-"
+    },
+    {
+      "proverb":"Red sky at night, shepherd’s delight; red sky in the morning, shepherd’s warning.",
+      "explanation":"Tun kirishida osmon qizarsa, cho‘pon xursand bo‘ladi, chunki ertangi kun ochiq bo‘ladi; erta tongda osmon qizil bo‘lsa, bu cho‘ponni xavotirga soladi, chunki bu izg‘irinli shamol bo‘lishi va yomg‘ir yog‘ishidan darakdir.",
+      "equivalent":"-"
+    },
+    {
+      "proverb":"The morning sun never lasts a day.",
+      "explanation":"Ertalabki quyosh hech qachon kuni bo‘yi charaqlab turmaydi, chunki bir pastda havo aynib, yog‘ingarchilik bo‘lishi mumkin. Bu maqol Angliya havosining juda tez o‘zgarib turishini o‘zida aks ettiradi.",
+      "equivalent":"-"
+    },
+    {
+      "proverb":"A foul morn may turn to a fair day.",
+      "explanation":"Ertalabki izg‘irinli shamoldan keyin kunduzi havo ochiq va quyoshli bo‘lishi mumkin. Bu maqol Angliya havosining juda tez o‘zgarib turishini o‘zida aks ettiradi.",
+      "equivalent":"-"
+    },
+    {
+      "proverb":"They must hunger in winter that will not work in summer.",
+      "explanation":"Yozda mehnat qilmaydigan odamlar qishda och qoladi.",
+      "equivalent":"Aqlli odam qish g‘amini yoz yer, Kech bo‘lsa – xo‘ragini oz yer.\nQish g‘amini yozda ye.\nYoz bo‘yi yotar, Qish bo‘yi qotar.\nYozga yetsang, qish kuningni unutma.\nYozda ishlamagan Qishda kesak yer.\nYozda ishlamagan Qishda tishlamas.\nYozda uy-joy qurmasang, Qishda balchiq kecharsan.\nYozda boshi pishmaganning, Qishda oshi pishmas.\nYozda mehnat qilsang, Qishda yeysan kishmish.\nYozda mehnat qilmasang, Qishda yeysan tirkish."
+    },
+    {
+      "proverb":"After dinner rest a while, after supper walk a mile.",
+      "explanation":"Tushlikdan so‘ng biroz dam ol, kechki ovqatdan so‘ng bir mil yayov yur.",
+      "equivalent":"-"
+    },
+    {
+      "proverb":"After dinner sleep a while, after supper walk a mile.",
+      "explanation":"Tushlikdan so‘ng biroz uxlab ol, kechki ovqatdan so‘ng bir mil yayov yur.",
+      "equivalent":"-"
+    },
+    {
+      "proverb":"After dinner sit a while, after supper walk a mile.",
+      "explanation":"Tushlikdan so‘ng biroz o‘tir, kechki ovqatdan so‘ng bir mil yayov yur.",
+      "equivalent":"-"
+    },
+    {
+      "proverb":"He that sings on Friday, will weep on Sunday.",
+      "explanation":"Juma kuni qo‘shiq kuylagan, shanba kuni yig‘laydi, ya’ni xursandchilik doim ham davomiy bo‘lavermaydi, uning ortidan dilxiralik ham kelishi mumkin.",
+      "equivalent":"Ko‘p kulgan bir yig‘laydi.\nKo‘p yugurgan bir qoqilar, Ko‘p kulgan bir yig‘lar."
+    },
+    {
+      "proverb":"A penny weight of love is worth a pound of law.",
+      "explanation":"Bir pennilik sevgi bir funtlik qonunga teng, ya’ni kuchsiz sevgi kuchsiz qonun kabidir, ularning ikkalasi ham oson o‘z kuchini yo‘qotadi.",
+      "equivalent":"-"
+    },
+    {
+      "proverb":"Better give a shilling than lend a half-crown.",
+      "explanation":"Yarim kraun pulni qarzga bergandan ko‘ra, bir shillingni berib yuborgan yaxshi; ya’ni kattaroq pulni qarzga berib, uni qaytarib berilishini kutgandan ko‘ra, kichik miqdordagi pulni berib yuborgan yaxshi.",
+      "equivalent":"-"
+    },
+    {
+      "proverb":"In for a penny, in for a pound.",
+      "explanation":"1) Bir pennini ishlab topa olgan, o‘sha pennidan to‘g‘ri foydalangan holda bir funtni ham topa oladi; 2) biror narsaga bir pennini sarflagan odam agar kerak bo‘lsa mazkur narsa uchun bir funtini ham sarflaydi, chunki u odam bu ish uchun pulini sarflab qo‘ygan, agar bu narsadan foyda olmasa, sarflagan puli kuyadi, shu sababli u oxirigacha kurashadi.",
+      "equivalent":"Bitta edi moyam, Ikkita bo‘ldi dastmoyam."
+    },
+    {
+      "proverb":"If you watch the pence, the pounds will take care of themselves.\nTake care of the pence and the pounds will take care of themselves.",
+      "explanation":"Pennilarni bekorga sarflamay ularni yig‘sang, funtlar o‘zlari kelishadi, ya’ni mayda pullarni avaylab yig‘sang, bora-bora ular katta pullarga aylanadi.",
+      "equivalent":"Birin-birin ming bo‘lar, Toma-toma ko‘l bo‘lar.\nKumush kunga qo‘nsa, Oltin o‘z oyog‘I bilan kelar.\nTanga tiyindan o‘sar, Yilqi qulundan o‘sar.\nToma-toma ko‘l bolur."
+    },
+    {
+      "proverb":"An ounce of practice is worth a pound of precept.\nAn ounce of practice is worth a pound of theory.",
+      "explanation":"Bir aunts tajriba bir funt ta’limotga / nazariyaga teng keladi, ya’ni ozgina tajriba ham ko‘p miqdordagi ta’limot yoki nazariya bermagan natijani bera oladi.",
+      "equivalent":"Bir sinalgan tajriba Yetti kitobdan afzal.\nKo‘rgan ko‘p bilar, O‘qigan – oz."
+    },
+    {
+      "proverb":"An ounce of discretion is worth a pound of learning.",
+      "explanation":"Bir aunts mulohaza bir funt o‘qib o‘rganishga teng keladi; ya’ni ozgina mulohaza yuritish ham ko‘p miqdordagi o‘qib o‘rganish bermagan natijani bera oladi.",
+      "equivalent":"O‘qish yaxshi, Uqish undan ham yaxshi."
+    },
+    {
+      "proverb":"An ounce of prevention is worth a pound of cure.",
+      "explanation":"Bir aunts oldini olish bir funt davolashga tengdir, ya’ni kasallikni davolashdan ko‘ra uning oldini olish oson.",
+      "equivalent":"Kasallikni davolashdan ko‘ra uning oldini olish oson."
+    },
+    {
+      "proverb":"An ounce of mother is worth a ton of priest.",
+      "explanation":"Bir aunts ona bir tonna ruhoniyga tengdir; ya’ni minglab ruhoniy bera olmagan maslahat va mehrni bitta ona bera oladi.",
+      "equivalent":"-"
+    },
+    {
+      "proverb":"Hang a thief when he’s young, and he’ll no‘ steal when he’s old.",
+      "explanation":"O‘g‘rini yoshligida os, shunda u qariganda o‘g‘irlik qila olmaydi; ya’ni o‘g‘rilik qilgan odam bu ishdan umrining oxirigacha voz kechmaydi.",
+      "equivalent":"Bukrini go‘r tuzatadi.\nO‘g‘ri qo‘li kesilmaguncha O‘g‘riligini qo‘ymas.\nYomon kun yaxshi bo‘lar, Yomon odam yaxshi bo‘lmas."
+    },
+    {
+      "proverb":"Young men may die, but old men must die.",
+      "explanation":"Yosh odam ham o‘lishi mumkin, lekin keksa odam o‘lishi kerak, ya’ni yoshini yashab qo‘ygan odam vafot etsa, kuyunish kerak emas, lekin yosh o‘lsa, kuyunish kerak.",
+      "equivalent":"Birinchi kelgan birinchi ketadi.\nErta kelgan erta ketar.\nYoshi ulug‘ning taziyasi – to‘ydek gap."
+    },
+    {
+      "proverb":"Marriage halves our griefs, doubles our joys, and quadruples our expenses.",
+      "explanation":"Turmush qurish qayg‘uni yarimlatadi, xursandchilikni ikki barobarga va xarajatni to‘rt barobarga oshiradi.",
+      "equivalent":"-"
+    },
+    {
+      "proverb":"You cannot get a quart into a pint pot.",
+      "explanation":"Bir pint suyuqlik sig‘adigan qozonga bir kvart suyuqlik sig‘dira olmaysan, ya’ni kichik hajmli qozonga o‘z hajmidan oshiq narsa solib bo‘lmaydi.",
+      "equivalent":"-"
+    },
+    {
+      "proverb":"A pound of care will not pay an ounce of debt.",
+      "explanation":"Bir funt e’tibor yoki xavotir bir aunts qarzni to‘lay olmaydi, ya’ni qarzni qaytarish o‘rniga turli bahonalar bilan o‘zini xavotirda ko‘rsatish bilan qarz uzilmaydi.",
+      "equivalent":"Qarz, qarzni berish farz."
+    },
+    {
+      "proverb":"Better be an old man’s darling, than a young man’s slave.",
+      "explanation":"Yosh odamning quli bo‘lgandan ko‘ra keksa odamning aziz kishisi bo‘lgan yaxshiroq.",
+      "equivalent":"-"
+    },
+    {
+      "proverb":"As the old cock crows, so does the young.",
+      "explanation":"Qari xo‘roz qanday qichqirsa, Yoshi ham shunday qichqiradi; ya’ni oilaning kattalaridan kichiklari doim andoza oladi.",
+      "equivalent":"Bola ko‘rganini qilar, Ota – bilganini.\nKatta arava qaydan yursa, Kichik arava shundan yurar.\nQush uyasida ko‘rganini qilar.\nQo‘zi qo‘chqordan nishon, O‘g‘il – otadan.\nOlmaning tagida olma yotar, Dovchaning tagida dovcha yotar.\nOlmaning tagiga olma tushadi."
+    },
+    {
+      "proverb":"You cannot put an old head on young shoulders.",
+      "explanation":"Yosh yelkaga keksa boshni o‘rnatib bo‘lmaydi; ya’ni yosh kishining aqli ham o‘z yoshiga mos bo‘ladi, keksa kishining aql-farosati o‘z yoshiga mos bo‘ladi, chunki u katta hayotiy tajribaga ega bo‘ladi.",
+      "equivalent":"-"
+    },
+    {
+      "proverb":"A good drink makes the old young.",
+      "explanation":"Yaxshi ichimlik keksa odamni yoshartiradi; ya’ni yaxshi ichimlik ichgan yoshi katta kishi o‘zini yosh kishidek his etadi.",
+      "equivalent":"-"
+    },
+    {
+      "proverb":"Young folks think old folks to be fools, but old folks know young folks to be fools.",
+      "explanation":"Yosh qatlam keksa qatlamni aqlsiz deb o‘ylaydi, lekin keksa qatlam yosh qatlamni aqlsizligini biladi, ya’ni yoshlar o‘zini aqlli sanab, keksalarning fikrini ahmoqona deb hisoblashadi, keksa yoshdagilar esa yoshlarning aqlsizlik qilishlarini bilishadi, chunki ular ham shu yoshdan o‘tishgan.",
+      "equivalent":"Men ham edim sendek, Sen ham bo‘lasan mendek."
+    },
+    {
+      "proverb":"Young saint, old devil.",
+      "explanation":"Yosh avliyo, qari shayton, ya’ni yoshligida o‘zini juda odobli va xushxulq tutgan odam katta bo‘lganida badfe’l odamga aylanishi mumkin, yoki teskari holat ham bo‘lishi mumkin.",
+      "equivalent":"O‘g‘ri qarisa, so‘fi bo‘lar, G‘ar qarisa, otin bo‘lar."
+    },
+    {
+      "proverb":"Feed a dog for three days and he will remember your kindness for three years; feed a cat for three years and she will forget your kindness in three days.",
+      "explanation":"Itni uch kun boqsang, u sening yaxshiligingni uch yil unutmay eslab yuradi, mushukni uch yil boqsang ham, u seni yaxshiligingni uch kun o‘tib esidan chiqaradi; ya’ni it mushukka nisbatan egasiga ko‘proq vafodor bo‘ladi.",
+      "equivalent":"It – vafo, xotin – jafo."
+    },
+    {
+      "proverb":"It changes in an hour, that happens not in seven years.",
+      "explanation":"Yetti yilda sodir bo‘lmagan narsa bir soatni ichida sodir bo‘lishi, biror holat butunlay o‘zgarib ketishi mumkin.",
+      "equivalent":"Ko‘za kunda emas, kunida sinar."
+    },
+    {
+      "proverb":"Better to live one day as a tiger than a thousand years as a sheep.",
+      "explanation":"Ming yil qo‘y kabi yashagandan ko‘ra bir kun yo‘lbarsdek yashagan afzal, ya’ni ming yil bosh egib yashagandan ko‘ra bir kun boshni baland qilib yashagan yaxshiroqdir.",
+      "equivalent":"Go‘ngqarg‘a bo‘lib ming yil yashagandan, Sher bo‘lib bir yil yashagan afzal.\nTiz cho‘kib yashaguncha, Tik turib o‘lgan yaxshi.\nYuz yil qul bo‘lib yashagandan, Bir kun hur bo‘lib yashagan yaxshi."
+    },
+    {
+      "proverb":"Three helping one another, bear the burthen of six.",
+      "explanation":"Bir-biriga yordam berayotgan, qo‘llab-quvvatlayotgan uch kishi olti kishining og‘ir vazifasini bajara oladi, ya’ni har qanday murakkab ish birgalashib qilinsa, oson bitadi.",
+      "equivalent":"Birlashgan kuch yengilmas.\nBirlashgan – o‘zar, Birlashmagan – to‘zar.\nBirdan ikki yaxshi, Ikkidan uch yaxshi.*\nKuch – birlikda.\nKo‘p ko‘padi, Oz cho‘kadi.*\nKo‘p ko‘makka yaxshi, Oz – barakka.*\nKo‘pning ishi yitmas, Ozning ishi bitmas.*\nKo‘pni demay kul bo‘ldim, G‘amg‘ussaga mo‘l bo‘ldim.*\nIkki sulton bir sultonning sirtin yirtar.*\nIkkovga birov botolmas, Otliqqa yayov yetolmas.*"
+    },
+    {
+      "proverb":"Fool me once, shame on you; fool me twice, shame on me.",
+      "explanation":"Meni bir marta ahmoq qilsang, senga uyat; meni ikki marta ahmoq qilsang, menga uyat. Ya’ni bir kishi boshqa bir kishini bir marta chuv tushursa, chuv tushirgan odamdan xafa bo‘lishadi; agar bir kishi boshqa bir kishini ikki va undan ortiq marotaba chuv tushirsa, demak, chuv tushgan kishining o‘zi ahmoq ekan deyishadi.",
+      "equivalent":"-"
+    },
+    {
+      "proverb":"First creep, then walk.",
+      "explanation":"Yurishdan oldin emaklashni o‘rganib olish lozim, ya’ni qiyin va murakkab ishni bajarishdan oldin oddiy ishni bajarishni bilib olish lozim.",
+      "equivalent":"Yurishni bilmasang, sakrashga urinma."
+    },
+    {
+      "proverb":"Six of one and half a dozen of the other. ",
+      "explanation":"Bir narsaning oltitasi va boshqa bir narsaning o‘n ikkitasining yarmi, ular o‘zaro tengdir, ya’ni ikki xil usuldan foydalanilganda ham, bir xil natija berilsa, mazkur maqol qo‘llaniladi.",
+      "equivalent":"Ikki o‘n besh – bir o‘ttiz."
+    },
+    {
+      "proverb":"A fool may throw a stone into a well which a hundred wise men cannot pull out.",
+      "explanation":"Bitta ahmoq quduqqa otgan toshini yuzta aqlli odam ham chiqarib ola olmaydi, ya’ni bitta ahmoq qilib qo‘ygan ishini yuzta aqlli ham to‘g‘irlay olmaydi.",
+      "equivalent":"Ahmoqning ahmoqligi ham bosh og‘ritadi, ham oyoq.\nBir shaltoqning ishini Yigirma epchil eplay olmas."
+    },
+    {
+      "proverb":"Two boys are half a boy, and three boys are no boy at all.",
+      "explanation":"Ikkita bola yarimta bolaning ishini qiladi, uchta bola umuman ish qilmaydi, ya’ni ish bajaruvchilar qancha ko‘p bo‘lsa, ular bir-biriga tashlagani uchun, ish shuncha sekin bajariladi.",
+      "equivalent":"Sansolar-u mansolar, Otga yemni kim solar."
+    },
+    {
+      "proverb":"One hour’s sleep before midnight is worth two after.",
+      "explanation":"Yarim tundan avvalgi bir soatlik uyqu yarim tundan keying ikki soatlik uyquga teng, ya’ni tunning birinchi yarmidagi uyqu foydaliroqdir.",
+      "equivalent":"-"
+    },
+    {
+      "proverb":"One good deed makes up for a thousand bad ones.",
+      "explanation":"Insonning bitta yaxshi amali uning mingta yomon amalini yopadi, ya’ni yaxshilik qilgan odamning avval qilgan yomonliklari odatda kechiriladi.",
+      "equivalent":"-"
+    },
+    {
+      "proverb":"It is easy to get a thousand prescriptions but hard to find a cure.",
+      "explanation":"Mingta tavsiya yoki maslahat berish oson, lekin kasallikni davolash yoki biror muammoni amalda hal qilish qiyin.",
+      "equivalent":"Aytish oson, qilish qiyin.\nAytishga oson, uni amalga oshirish qiyin.\nGapirish oson, bajarish qiyin."
+    },
+    {
+      "proverb":"Better the last smile than the first laugh.",
+      "explanation":"Birinchi kulgudan ko‘ra oxirgi tabassum yaxshiroqdir; ya’ni bir ishning oxirida haqiqiy g‘olib bo‘lgan taraf aniq bo‘ladi, ishning nihoyasiga yetmay turib xursand bo‘lgan odam xato qiladi.",
+      "equivalent":"Oxirida kulgan – g‘olib."
+    },
+    {
+      "proverb":"A man may lose more in an hour then he can get in seven.",
+      "explanation":"Bir odam yetti soat, ya’ni uzoq vaqt davomida qo‘lga kiritgan narsasini bir soatni ichida qo‘ldan berishi mumkin.",
+      "equivalent":"Obro‘ misqollab kelar, Qadoqlab ketar.\nYillab yig‘ilgan boylik – bir oylik.\nYotib yeganga tog‘ ham chidamas.\nYotib yesa tog‘ ham tugaydi.\nYotib yesa tog‘ ham tamom bo‘ladi."
+    },
+    {
+      "proverb":"An hour in the morning is worth two in the evening.",
+      "explanation":"Ertalabki bir soat kechki paytdagi ikki soatga teng, ya’ni ertalabki ish kechki paytda qilinadigan ishdan unumliroq bo‘ladi.",
+      "equivalent":"Ertalabki vaqt – naqdgina baxt.\nErtalabki ish, Ko‘ngilni qilar xush."
+    },
+    {
+      "proverb":"One hour today is worth two tomorrow.",
+      "explanation":"Bugungi bir soat ertangi ikki soatga tatiydi, ya’ni bugun qilinadigan ishni ertaga qoldirsa, mazkur ish yanada cho‘zilib ketadi.",
+      "equivalent":"Bugungi ishni ertaga qo‘yma.\nQolgan ishga qor yog‘ar."
+    },
+    {
+      "proverb":"One today is worth two tomorrow.\nOne today is worth two tomorrows.",
+      "explanation":"Bitta bugun ertangi kunning ikkitasiga tatiydi; ya’ni bugun qilinadigan ishni ertaga qoldirsa, mazkur ish yanada cho‘zilib ketadi.",
+      "equivalent":"Bugungi ishni ertaga qo‘yma.\nQolgan ishga qor yog‘ar."
+    },
+    {
+      "proverb":"Better an egg today then a hen tomorrow.",
+      "explanation":"Ertangi tovuqdan bugungi tuxum yaxshidir; ya’ni ertaga keladigan kattaroq narsadan bugungi qo‘lda turgan kichik narsa yaxshidir, chunki kichik bo‘lsa-da, u naqd, ertangi narsa esa kelishi ham kelmasligi ham mumkin.",
+      "equivalent":"-"
+    },
+    {
+      "proverb":"Today you, tomorrow me.",
+      "explanation":"Bugun siz, ertaga men, ya’ni bugun siz menga yordam qo‘lini cho‘zsangiz, ertaga men sizga yordam beraman.",
+      "equivalent":"Bugun – sizdan, Ertaga – bizdan.\nBugun sizdan, Ertaga bizdan.\nSizdan ugina, bizdan bugina."
+    },
+    {
+      "proverb":"Hope is a good breakfast but a bad supper.",
+      "explanation":"Umid yaxshi nonushta, lekin yomon kechki ovqatdir, ya’ni faqat umid qilish bilan ish bitmaydi, harakat qilish lozim.",
+      "equivalent":"Jumadan umiding bo‘lsa, Payshanbadan harakat qil.\nSendan harakat, mendan barakat."
+    },
+    {
+      "proverb":"The rich man has his ice in the summer and the poor man gets his in the winter.",
+      "explanation":"Boyning yozda ham muzi bo‘ladi, kambag‘alning qo‘li muzga faqat qishda yetadi, ya’ni boyning qo‘li yetadigan narsalarga kambag‘alning qo‘li yetmaydi.",
+      "equivalent":"Borga yetti kun hayit, Yo‘qqa – bir kun.\nBoyga – shifokor, Kambag‘alga – duo.\nKambag‘al – piyoda, Boy – tuyada.\nKambag‘al osh topsa, Qo‘ygani idish topmas.\nUlkan uydagi kulsa, Kichkina uydagi yig‘lar."
+    },
+    {
+      "proverb":"If you laugh before breakfast you will cry before supper.\nLaugh before breakfast, you will cry before supper.",
+      "explanation":"Nonushtadan avval kulsang, kechki ovqatdan avval yig‘laysan, ya’ni xursandchilik doim ham davomiy bo‘lavermaydi, uning ortidan dilxiralik ham kelishi mumkin.",
+      "equivalent":"Ko‘p kulgan bir yig‘laydi.\nKo‘p yugurgan bir qoqilar, Ko‘p kulgan bir yig‘lar.\nMing kulishning bir yig‘isi bor."
+    },
+    {
+      "proverb":"Barnaby bright, Barnaby bright, the longest day and the shortest night.",
+      "explanation":"Avliyo Barnabas (Barnabi) kuni 11 iyun bo‘lib, bu sana ingliz xalqining eski kalendari bo‘yicha yilning eng uzun kuni va eng qisqa tuniga to‘g‘ri keladi.",
+      "equivalent":"-"
+    },
+    {
+      "proverb":"Every white has its black, and every sweet its sour.",
+      "explanation":"Har bir oqning qorasi ham bor, har bir shirinning achchig‘I ham bor; ya’ni har yaxshi narsaning yomon tarafi ham bo‘ladi.",
+      "equivalent":"Har kechaning kunduzi, Har kunduzning kechasi bor.\nHar oqshomning bir tongi bor.*"
+    },
+    {
+      "proverb":"Many a good father has but a bad son.",
+      "explanation":"Ko‘pgina yaxshi otalarning o‘g‘illari (farzandlari) yomon bo‘ladi, ya’ni yaxshi insonlarning farzandlari doim ham o‘zlariga o‘xshayvermaydi, ba’zan ularning farzandlari yomon bo‘ladi.",
+      "equivalent":"Ahmoq otadan – aqlli farzand.\nAhmoqdan – chaqmoq, Donodan – ahmoq.\nG‘ayratlining bolasi tanbal bo‘lar."
+    },
+    {
+      "proverb":"Have but few friends, though many acquaintances.",
+      "explanation":"Tanish-bilishing ko‘p bo‘lsa ham, do‘sting, ya’ni sirlashadigan va qiyin kunlarda suyana oladigan yaqining kam bo‘ladi.",
+      "equivalent":"Har kimni do‘stim dema, Tandagi po‘stim dema."
+    },
+    {
+      "proverb":"Make new friends but keep the old, for one is silver and the other is gold.",
+      "explanation":"Yangi do‘stlar orttirganda, eskilarini yo‘qotma, yangi do‘stlar kumush bo‘lsa, eskilari oltinga teng.",
+      "equivalent":"Kiyimning yangisi – yaxshi, Do‘stning – eskisi.\nQadim do’stlik zanglamas."
+    },
+    {
+      "proverb":"One law for the rich and another for the poor.",
+      "explanation":"Bir qonun boy uchun bo‘lsa, bir qonun kambag‘al uchun ish beradi; ya’ni ba’zi qonunlar boylarning manfaatiga xizmat qiladi, ba’zilari kambag‘alning foydasiga ish beradi.",
+      "equivalent":"-"
+    },
+    {
+      "proverb":"Do not grieve that rose-trees have thorns, rather rejoice that thorny bushes bear roses.",
+      "explanation":"Atirgulning tikanlari bor deb qayg‘urmang, chunki tikanlar atirgulga zarar yetkazmaydi; aksincha tikanli butalar atirgulni ushlab yoki asrab-avaylab turibdi deb xursand bo‘ling.",
+      "equivalent":"Gul tikansiz bo‘lmas, Dur – sadafsiz."
+    },
+    {
+      "proverb":"Penny - wise and pound - foolish.",
+      "explanation":"Penni – aqlli, funt – ahmoq; ya’ni kam miqdordagi pulni odam o‘ylab, aql bilan ishlatadi, ko‘p miqdordagi pulni odam o‘ylamasdan qimmat narsalarga sarflaydi.",
+      "equivalent":"Bir miri – hayon, Uch miri – ziyon.\nKam bo‘lsa yetar, Ko‘p bo‘lsa ketar.\nOz bo‘lsa yetar, Ko‘p bo‘lsa ketar."
+    },
+    {
+      "proverb":"Give him an inch and he will take an ell.\nGive him an inch and he will take a yard.\nGive him an inch and he will take a mile.",
+      "explanation":"Inchlab bersang, ellab / yardlab / millab oladi, ya’ni shunaqa odamlar bo‘ladiki, ularga oz miqdorda yordam qo‘lini cho‘zsang, ko‘prog‘ini olishga harakat qiladi va ba’zan bunga erisha oladi.",
+      "equivalent":"Qo‘lingni uchini uzatsang, yelkangdan tortadi.\nXotinni yelkangga chiqazsang, O‘zi boshingga chiqib oladi."
+    },
+    {
+      "proverb":"Mischief comes by the pound and goes away by the ounce.",
+      "explanation":"To‘polon funtlab keladi va auntslab ketadi; ya’ni kelishmovchilik yoki kasallik katta miqdorda kelsa-da, juda sekin tark etadi.",
+      "equivalent":"Dard botmonlab kelar, Misqollab chiqar."
+    },
+    {
+      "proverb":"A hundred pounds of sorrow pays not one ounce of debt.",
+      "explanation":"Yuz funt g‘am chekish bir aunts qarzni to‘lay olmaydi, ya’ni qarzni qaytarish o‘rniga turli bahonalar bilan o‘zini g‘am-anduhda ko‘rsatish bilan qarz uzilmaydi.",
+      "equivalent":"Qarz, qarzni berish farz."
+    },
+    {
+      "proverb":"A fool may ask more questions in an hour than a wise man can answer in seven years.",
+      "explanation":"Aqlsiz odam bir soatda aqlli odam yetti yilda javobini topa oladigan savollaridan ham ko‘proq savol bera oladi; ya’ni bitta ahmoq o‘ylamay bergan savollariga aqlli odam ham javob topishi qiyin.",
+      "equivalent":"Ahmoqning ahmoqligi ham bosh og‘ritadi, ham oyoq."
+    }
+
+  ]
+}
