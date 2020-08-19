@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#5259D5</color>
+    <color name="colorPrimaryDark">#5259D5</color>
+    <color name="colorAccent">#5259D5</color>
+    <color name="search">#5259D5</color>
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+    <color name="default_gray">#FAFAFA</color>
+    <color name="dark_blue">#501098</color>
+    <color name="red">#CC0000</color>
+</resources>
