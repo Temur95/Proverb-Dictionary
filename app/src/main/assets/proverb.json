@@ -1837,6 +1837,11 @@
       "explanation":"Mening uyim – mening qasrim, uning ichki ishlariga hech kim aralashmaydi, inson o‘z uyida qanday xohlasa, shunday yashaydi, o‘zini erkin his qiladi.",
       "equivalent":"Begonaning dang‘illama saroyidan O‘zingning kulbayi vayronang yaxshi.\nTomi qiyshiq bo’lsayam, o‘z uyim yaxshi.\nO‘z uyim – o‘lan to‘shagim."
     },
+    {
+    	"proverb":"We must learn to walk before we can run.\nLearn to walk before you run.",
+    	"explanation":"Yugurishdan oldin yurishni o‘rganib olish lozim, ya’ni qiyin ishni bajarishdan oldin oddiy ishni bajarishni bilib olish lozim.",
+    	"equivalent":"Yurishni bilmasang, sakrashga urinma."
+    },
 
 
     {
@@ -1919,7 +1924,7 @@
     {
       "proverb":"Like mother, like daughter",
       "explanation":"Onasi qanday bo‘lsa, qizi ham shunday; onasini bilsangiz qizini ham bilasiz.",
-      "equivalent":"Arqog‘ini ko‘rib bo‘zini ol, Onasini ko‘rib – qizini.\nEshigi yomonning uyiga borma, Onasi yomonning qizini olma.\nOlmadan – olma, dovchadan – dovcha.\nOlma tagiga olma tushadi.\nOna aqli – qiz aqli.\nOtadan – o‘g‘il, onadan – qiz.\nTerakka qarab, tol o‘sar.\nOnaga qarab, qiz o‘sar.\nQiz bersang, otasiga qarab ber, Qiz olsang, onasiga qarab ol."
+      "equivalent":"Arqog‘ini ko‘rib bo‘zini ol, Onasini ko‘rib – qizini.\nEshigi yomonning uyiga borma, Onasi yomonning qizini olma.\nOlmadan – olma, dovchadan – dovcha.\nOlma tagiga olma tushadi.\nOna aqli – qiz aqli.\nOtadan – o‘g‘il, onadan – qiz.\nTerakka qarab, tol o‘sar,\nOnaga qarab, qiz o‘sar.\nQiz bersang, otasiga qarab ber, Qiz olsang, onasiga qarab ol."
     },
     {
       "proverb":"Like parents, like children.",
@@ -1934,7 +1939,7 @@
     {
       "proverb":"She is her mother’s daughter.",
       "explanation":"U onasining qizi, ya’ni onasiga o‘xshaydi; onasini bilsangiz qizini ham bilasiz.",
-      "equivalent":"Arqog‘ini ko‘rib bo‘zini ol, Onasini ko‘rib – qizini.\nEshigi yomonning uyiga borma, Onasi yomonning qizini olma.\nOlmadan – olma, dovchadan – dovcha.\nOlma tagiga olma tushadi.\nOna aqli – qiz aqli.\nOtadan – o‘g‘il, onadan – qiz.\nTerakka qarab, tol o‘sar.\nOnaga qarab, qiz o‘sar.\nQiz bersang, otasiga qarab ber, Qiz olsang, onasiga qarab ol."
+      "equivalent":"Arqog‘ini ko‘rib bo‘zini ol, Onasini ko‘rib – qizini.\nEshigi yomonning uyiga borma, Onasi yomonning qizini olma.\nOlmadan – olma, dovchadan – dovcha.\nOlma tagiga olma tushadi.\nOna aqli – qiz aqli.\nOtadan – o‘g‘il, onadan – qiz.\nTerakka qarab, tol o‘sar, Onaga qarab, qiz o‘sar.\nQiz bersang, otasiga qarab ber, Qiz olsang, onasiga qarab ol."
     },
     {
       "proverb":"Virtue and happiness are mother and daughter.",

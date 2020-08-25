@@ -897,10 +897,9 @@
       "equivalent":"-"
     },
     {
-      "proverb":"Aqlli desang ahmoqni,\nBoshga urar to'qmoq(30)ni.",
+      "proverb":"Aqlli desang ahmoqni,\nBoshga urar to'qmoqni.",
       "explanation":"If you give the name “wise” to a fool, he will hit you with a big stick; because he cannot understand or value your goodness.",
-      "equivalent":"-",
-      "footnote":"30 Mazkur so‘zning ma’nosi ushbu lug’atning “Tarkibida o‘suvchi unikal graduonimik qator a’zolari qatnashgan o‘zbekcha maqollar” qismida berilgan. / This word is defined in the part of this dictionary naming “Uzbek proverbs containing the members of an ascending unique graduonymic row.”"
+      "equivalent":"-"
     },
     {
       "proverb":"Aqlli ishiga ishonadi, Aqlsiz - tushiga.",
@@ -2829,7 +2828,7 @@
     },
     {
       "proverb":"Olti yashardan so'rama,\nOltmish yashardan so'ra.",
-      "explanation":"Do not ask from a six-year-old child, ask from a sixtyyear-old man. Because old\npeople know more than young people.",
+      "explanation":"Do not ask from a six-year-old child, ask from a sixty-year-old man. Because old\npeople know more than young people.",
       "equivalent":"A new broom sweeps\nclean, but the old brush\nknows all the corners.\nThere’s many a good tune played on an old fiddle."
     },
     {
@@ -4311,8 +4310,9 @@
     },
     {
       "proverb":"Ilon yuz yil yashasa – ajdaho,\nMing yil yashasa – yuho.",
-      "explanation":"If a snake lives a hundred years, it is a dragon, if a dragon lives a thousand years, it is a yuho.",
-      "equivalent":"-"
+      "explanation":"If a snake lives a hundred years, it is a dragon, if a dragon lives a thousand years, it is a yuho(30).",
+      "equivalent":"-",
+      "footnote":"30 yuho – barcha jonivorlarni aralash yeb, yutib yuboradigan afsonaviy bahaybat maxluq / a mythical huge creature, which eats and swallows all types of other creatures, two or more of them at once."
     },
     {
       "proverb":"Ikki yarim – bir butun.\nIkki yorti – bir butun.",

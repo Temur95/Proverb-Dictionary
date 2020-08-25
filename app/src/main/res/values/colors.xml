@@ -9,4 +9,9 @@
     <color name="default_gray">#FAFAFA</color>
     <color name="dark_blue">#501098</color>
     <color name="red">#CC0000</color>
+    <color name="grey">#FAEFEFEF</color>
+    <color name="proverbRed">#EC7063</color>
+    <color name="explanationBlue">#5DADE2</color>
+    <color name="equivalentGreen">#45B39D</color>
+    <color name="footnotePurple">#A569BD</color>
 </resources>

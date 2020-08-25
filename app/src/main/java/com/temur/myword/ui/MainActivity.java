@@ -5,7 +5,6 @@ import android.content.Intent;
 import android.graphics.Color;
 import android.graphics.drawable.GradientDrawable;
 import android.os.Bundle;
-import android.os.CountDownTimer;
 import android.os.Handler;
 import android.text.Editable;
 import android.text.TextWatcher;
@@ -89,6 +88,15 @@ public class MainActivity extends AppCompatActivity implements ProverbAdapter.On
     ConstraintLayout layout_proverb_info;
     @BindView(R.id.toggle_language)
     ToggleButton toggle_language;
+    @BindView(R.id.line_proverb)
+    ConstraintLayout line_proverb;
+    @BindView(R.id.line_explanation)
+    ConstraintLayout line_explanation;
+    @BindView(R.id.line_equivalent)
+    ConstraintLayout line_equivlent;
+    @BindView(R.id.line_footnote)
+    ConstraintLayout line_footnote;
+
 
     @Override
     public boolean onCreateOptionsMenu(Menu menu) {
@@ -148,8 +156,9 @@ public class MainActivity extends AppCompatActivity implements ProverbAdapter.On
 
         getJSon();
 
-        setRounded(edit_search, 8);
+        setRounded(edit_search, 8, "#FAFAFA");
 
+        setRoundedLines();
 
         adapter = new ProverbAdapter(this, proverbList.getProverbList(), this);
         list_proverb.setLayoutManager(new LinearLayoutManager(context));
@@ -269,9 +278,18 @@ public class MainActivity extends AppCompatActivity implements ProverbAdapter.On
         layoutOpened = true;
     }
 
-    public void setRounded(View view, int dp){
+
+
+    public void setRoundedLines(){
+        setRounded(line_proverb,2, "#EC7063");
+        setRounded(line_explanation, 2, "#5DADE2");
+        setRounded(line_equivlent, 2, "#45B39D");
+        setRounded(line_footnote, 2, "#A569BD");
+    }
+
+    public void setRounded(View view, int dp, String colorString){
         final float scale = getApplicationContext().getResources().getDisplayMetrics().density;
-        int color = Color.parseColor("#FAFAFA");
+        int color = Color.parseColor(colorString);
 
         int pixels = (int) (dp * scale);
         GradientDrawable gd = new GradientDrawable();
