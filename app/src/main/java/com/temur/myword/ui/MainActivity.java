@@ -88,14 +88,6 @@ public class MainActivity extends AppCompatActivity implements ProverbAdapter.On
     ConstraintLayout layout_proverb_info;
     @BindView(R.id.toggle_language)
     ToggleButton toggle_language;
-    @BindView(R.id.line_proverb)
-    ConstraintLayout line_proverb;
-    @BindView(R.id.line_explanation)
-    ConstraintLayout line_explanation;
-    @BindView(R.id.line_equivalent)
-    ConstraintLayout line_equivlent;
-    @BindView(R.id.line_footnote)
-    ConstraintLayout line_footnote;
 
 
     @Override
@@ -157,8 +149,6 @@ public class MainActivity extends AppCompatActivity implements ProverbAdapter.On
         getJSon();
 
         setRounded(edit_search, 8, "#FAFAFA");
-
-        setRoundedLines();
 
         adapter = new ProverbAdapter(this, proverbList.getProverbList(), this);
         list_proverb.setLayoutManager(new LinearLayoutManager(context));
@@ -278,14 +268,6 @@ public class MainActivity extends AppCompatActivity implements ProverbAdapter.On
         layoutOpened = true;
     }
 
-
-
-    public void setRoundedLines(){
-        setRounded(line_proverb,2, "#EC7063");
-        setRounded(line_explanation, 2, "#5DADE2");
-        setRounded(line_equivlent, 2, "#45B39D");
-        setRounded(line_footnote, 2, "#A569BD");
-    }
 
     public void setRounded(View view, int dp, String colorString){
         final float scale = getApplicationContext().getResources().getDisplayMetrics().density;
